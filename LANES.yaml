@@ -1,5 +1,5 @@
 lane_contract_version: '1.0'
-manifest_revision: 1
+manifest_revision: 2
 owner:
   owner_id: cai-mechanism-design
   display_name: CAI Mechanism Design
@@ -28,7 +28,7 @@ lanes:
   eligible_outputs: [Candidate records, alternative maps, proving plans and evidence, explicit dispositions, and destination-accepted graduation proposals.]
   forbidden_outputs: &forbidden [another owner's canon or authoritative state, confidential personal regulated or field data, consequential deployment or live incentives, an external action without exact direct-chat authorization]
   control: &control {state: active, in_flight_policy: continue_current, control_revision: 1, scheduling_preference: normal, changed_at: '2026-07-16T00:00:00-05:00', changed_by: 'Joe direct chat, 2026-07-16', authority_ref: 'Ratified CAI-GATE-003', reason: Initial CAI formation}
-  provenance: &provenance {revision: 1, approved_at: '2026-07-16T00:00:00-05:00', approved_by: 'Joe direct chat, 2026-07-16'}
+  provenance: &provenance {revision: 2, approved_at: '2026-07-16T20:31:51-05:00', approved_by: 'Joe direct chat, 2026-07-16, CAI automation activation'}
 - id: A
   label: Lane A
   letter: A
@@ -52,5 +52,5 @@ lanes:
   provenance: *provenance
   stewardship_obligations: [coordination, control, audit, intelligence_adaptation, policy_identity, escalation]
 special_rules:
-- Automation is eligible but unenrolled; relationship, signal, or mailbox presence cannot activate it.
+- CAI-directed automation is owner-permitted only through an explicit live System grant; relationship, signal, or mailbox presence cannot activate or broaden it.
 - Graduation requires destination-owner acceptance and unresolved-risk disclosure.
