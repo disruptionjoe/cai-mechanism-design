@@ -7,4 +7,6 @@
 - A proving-ground owner may decline without penalty.
 - Unsafe candidates stop; negative evidence remains durable.
 - Graduation fails without destination acceptance and unresolved-risk disclosure.
-- Automation remains connected-off.
+- CAI-directed automation is active only under the explicit live CapacityOS
+  System grant; relationship, signal, or mailbox presence cannot activate or
+  broaden it.
