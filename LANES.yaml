@@ -1,0 +1,56 @@
+lane_contract_version: '1.0'
+manifest_revision: 1
+owner:
+  owner_id: cai-mechanism-design
+  display_name: CAI Mechanism Design
+  scope_type: repository
+  charter_ref: GOVERNANCE.md
+  governance_refs: [AGENTS.md, GOVERNANCE.md]
+  authoritative_state_refs: [STATUS.md, ROADMAP.md, candidates/README.md, proving/README.md, dispositions/README.md, graduations/README.md]
+lanes:
+- id: '1'
+  label: Lane 1
+  ordinal: 1
+  kind: progress
+  title: Solution discovery and proving
+  north_star: true
+  purpose: Move accepted inquiries through broad solution search, explicit design, legitimate instantiation, least-consequential proving, disposition, and earned graduation.
+  purpose_type: north_star
+  relation_to_lane_1: primary_operational_expression
+  environment: Public, licensed, safely shareable, or synthetic candidate and proving material.
+  beneficiaries: [Joe, affected people, destination owners, public users of accepted designs]
+  admission: {posture: governed, authority_ref: GOVERNANCE.md}
+  execution_posture: automation_eligible
+  health_profile: run_observed
+  directed_flow: null
+  authoritative_work_refs: [candidates/README.md, proving/README.md, dispositions/README.md, graduations/README.md]
+  durable_outputs: [Candidate records, alternative maps, proving plans and evidence, explicit dispositions, and destination-accepted graduation proposals.]
+  eligible_outputs: [Candidate records, alternative maps, proving plans and evidence, explicit dispositions, and destination-accepted graduation proposals.]
+  forbidden_outputs: &forbidden [another owner's canon or authoritative state, confidential personal regulated or field data, consequential deployment or live incentives, an external action without exact direct-chat authorization]
+  control: &control {state: active, in_flight_policy: continue_current, control_revision: 1, scheduling_preference: normal, changed_at: '2026-07-16T00:00:00-05:00', changed_by: 'Joe direct chat, 2026-07-16', authority_ref: 'Ratified CAI-GATE-003', reason: Initial CAI formation}
+  provenance: &provenance {revision: 1, approved_at: '2026-07-16T00:00:00-05:00', approved_by: 'Joe direct chat, 2026-07-16'}
+- id: A
+  label: Lane A
+  letter: A
+  kind: stewardship
+  title: Mechanism Design stewardship
+  north_star: false
+  purpose: Preserve candidate integrity, test safety, evidence and disposition health, correction, security, and repository viability.
+  purpose_type: integrated_stewardship
+  relation_to_lane_1: stewardship_of_owner
+  environment: Public, licensed, safely shareable, or synthetic candidate and proving material.
+  beneficiaries: [Joe, affected people, destination owners, public users of accepted designs]
+  admission: {posture: governed, authority_ref: GOVERNANCE.md}
+  execution_posture: automation_eligible
+  health_profile: run_observed
+  directed_flow: null
+  authoritative_work_refs: [GOVERNANCE.md, STATUS.md, proving/README.md, dispositions/README.md]
+  durable_outputs: &steward [Safety stops, evidence audits, disposition corrections, boundary repairs, recovery records, and escalations.]
+  eligible_outputs: *steward
+  forbidden_outputs: *forbidden
+  control: *control
+  provenance: *provenance
+  stewardship_obligations: [coordination, control, audit, intelligence_adaptation, policy_identity, escalation]
+special_rules:
+- Automation is eligible but unenrolled; relationship, signal, or mailbox presence cannot activate it.
+- Graduation requires destination-owner acceptance and unresolved-risk disclosure.
