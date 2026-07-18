@@ -9,6 +9,8 @@ has a standing obligation to serve as proving ground.
 
 - `CMD-0001-synthetic-assumption-drift-test.md` - first synthetic fixture test
   for candidate `CMD-0001`.
+- `CMD-0001-P2-typed-register-hostile-paperwork-test.md` - second synthetic
+  test plan for the typed minimum register revision.
 
 ## Scores
 
