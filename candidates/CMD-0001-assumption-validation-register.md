@@ -1,6 +1,6 @@
 ---
 candidate_id: CMD-0001
-status: admitted_synthetic_candidate
+status: admitted_revision_required
 lane: "1"
 source_inquiry: cai-systemic-failure/SFQ-0001
 created: 2026-07-18
@@ -92,3 +92,11 @@ fixture can pass by filling paperwork while leaving the contradiction invisible.
 After synthetic testing, choose kill, revise, defer, transfer, or propose
 graduation. Graduation would require a destination owner, unresolved-risk
 disclosure, and explicit acceptance; none exists now.
+
+## First Synthetic Score
+
+`proving/CMD-0001-P1-synthetic-score.md` scored the first synthetic fixture as
+revision required. The candidate can expose changed-function, human-response,
+and delegated-review contradictions only if typed drift events, validation
+status, lowest-fitting owner routing, and correction routes are required fields.
+Free-text completion remains a paperwork-theater absorber.

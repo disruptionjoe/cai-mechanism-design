@@ -1,7 +1,7 @@
 ---
 proving_id: CMD-0001-P1
 candidate_id: CMD-0001
-status: drafted_synthetic_plan
+status: scored_revision_required
 created: 2026-07-18
 external_action: none
 ---
@@ -58,3 +58,10 @@ The next run may create a synthetic fixture table and score it against these
 conditions. It may not contact parties, publish externally, create accounts,
 deploy tools, recruit participants, change another owner's work, or claim an
 aviation remedy.
+
+## Result
+
+The first score is `CMD-0001-P1-synthetic-score.md`. Result: revise. The
+candidate exposes the target contradictions in the synthetic fixture only when
+the register has typed minimum fields. A free-text checklist can still hide the
+contradiction while appearing complete.

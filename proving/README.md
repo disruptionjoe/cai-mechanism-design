@@ -9,3 +9,8 @@ has a standing obligation to serve as proving ground.
 
 - `CMD-0001-synthetic-assumption-drift-test.md` - first synthetic fixture test
   for candidate `CMD-0001`.
+
+## Scores
+
+- `CMD-0001-P1-synthetic-score.md` - first synthetic score; disposition is
+  revise because typed contradiction-visibility fields are required.
