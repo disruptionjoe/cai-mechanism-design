@@ -1,7 +1,7 @@
 schema_version: "1.0"
 owner_id: cai-mechanism-design
 rule_ref: system/runtime/flows/derive-lane-health.md
-evaluated_at: "2026-07-18T13:55:00-05:00"
+evaluated_at: "2026-07-18T13:42:00-05:00"
 run_ref: RUN-20260718-491-repository-work-cycle-cai-hourly
 lanes:
   - lane_id: "1"
@@ -9,12 +9,12 @@ lanes:
     reason_code: first_candidate_admitted_synthetic_test_next
     evidence_ref: "candidates/CMD-0001-assumption-validation-register.md; proving/CMD-0001-synthetic-assumption-drift-test.md"
     summary: "Candidate CMD-0001 admitted; synthetic fixture scoring is next."
-    evaluated_at: "2026-07-18T13:55:00-05:00"
+    evaluated_at: "2026-07-18T13:42:00-05:00"
     run_ref: RUN-20260718-491-repository-work-cycle-cai-hourly
   - lane_id: A
     light: green
     reason_code: mailbox_disposition_and_safety_controls_intact
     evidence_ref: "AGENTS.md; GOVERNANCE.md; STATUS.md; LANES.yaml; candidates/README.md; proving/README.md"
     summary: "Mailbox disposition preserved safety, owner-fit, and no-external-action gates."
-    evaluated_at: "2026-07-18T13:55:00-05:00"
+    evaluated_at: "2026-07-18T13:42:00-05:00"
     run_ref: RUN-20260718-491-repository-work-cycle-cai-hourly
