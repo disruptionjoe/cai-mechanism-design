@@ -1,0 +1,20 @@
+schema_version: "1.0"
+owner_id: cai-mechanism-design
+rule_ref: system/runtime/flows/derive-lane-health.md
+evaluated_at: "2026-07-18T12:38:00-05:00"
+run_ref: RUN-20260718-489-repository-work-cycle-cai-hourly
+lanes:
+  - lane_id: "1"
+    light: yellow
+    reason_code: formed_no_candidate_admitted_yet
+    evidence_ref: "STATUS.md; ROADMAP.md; candidates/README.md; proving/README.md"
+    summary: "Lane 1 has a defined candidate path; first admitted candidate remains next."
+    evaluated_at: "2026-07-18T12:38:00-05:00"
+    run_ref: RUN-20260718-489-repository-work-cycle-cai-hourly
+  - lane_id: A
+    light: green
+    reason_code: stewardship_controls_intact
+    evidence_ref: "AGENTS.md; GOVERNANCE.md; STATUS.md; LANES.yaml"
+    summary: "Lane A has active candidate, proving, and safety stewardship controls."
+    evaluated_at: "2026-07-18T12:38:00-05:00"
+    run_ref: RUN-20260718-489-repository-work-cycle-cai-hourly
