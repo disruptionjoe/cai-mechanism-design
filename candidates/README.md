@@ -9,4 +9,5 @@ and intended disposition. Existing-owner fit defeats admission here.
 
 - `CMD-0001-assumption-validation-register.md` - synthetic-only source-
   preserving assumption-drift register derived from CAI Systemic Failure
-  inquiry `SFQ-0001`.
+  inquiry `SFQ-0001`; deferred after P2 until a non-aerospace fixture or
+  destination-owner request exists.

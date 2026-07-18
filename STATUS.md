@@ -11,7 +11,10 @@ Failure inquiry `SFQ-0001`. The first synthetic proving score for
 `CMD-0001-P1` is complete and required revision. The candidate now has a typed
 minimum register revision that requires source revision, typed drift,
 validation-status, owner-routing, correction, and stop-condition fields before
-any stronger disposition.
+any stronger disposition. `CMD-0001-P2` scored that typed revision as a bounded
+synthetic pass against the current hostile paperwork absorber, then deferred
+stronger disposition pending a non-aerospace source-backed fixture or explicit
+destination-owner request.
 
 No human testing, field work, live incentive, deployment, participation,
 external action, consequential proving, or spin-out is active.

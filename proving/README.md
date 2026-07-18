@@ -16,3 +16,5 @@ has a standing obligation to serve as proving ground.
 
 - `CMD-0001-P1-synthetic-score.md` - first synthetic score; disposition is
   revise because typed contradiction-visibility fields are required.
+- `CMD-0001-P2-synthetic-score.md` - second synthetic score; typed revision
+  blocks the current paperwork absorber and defers stronger disposition.

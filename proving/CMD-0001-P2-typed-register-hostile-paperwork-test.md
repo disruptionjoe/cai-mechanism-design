@@ -1,7 +1,7 @@
 ---
 proving_id: CMD-0001-P2
 candidate_id: CMD-0001
-status: planned
+status: scored_bounded_pass_deferred
 created: 2026-07-18
 external_action: none
 ---
@@ -52,3 +52,10 @@ The next score may conclude only one of:
 No graduation, transfer, broader proving, deployment, participation, field
 test, incentive, spin-out, aviation remedy, or destination-owner obligation is
 authorized by this plan.
+
+## Score
+
+`CMD-0001-P2-synthetic-score.md` scored the typed revision as a bounded pass
+against the current hostile paperwork fixture. `CMD-0001-P2-defer.md` keeps the
+candidate admitted but deferred until a non-aerospace source-backed fixture or
+destination-owner request exists.

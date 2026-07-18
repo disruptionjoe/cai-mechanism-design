@@ -1,6 +1,6 @@
 ---
 candidate_id: CMD-0001
-status: admitted_typed_revision_pending_second_score
+status: admitted_typed_revision_scored_deferred
 lane: "1"
 source_inquiry: cai-systemic-failure/SFQ-0001
 created: 2026-07-18
@@ -147,3 +147,11 @@ The next proving surface is
 whether the typed revision blocks a formally complete but contradiction-hiding
 paperwork row before any graduation, transfer, broader proving, or destination
 proposal is considered.
+
+## Second Synthetic Score
+
+`proving/CMD-0001-P2-synthetic-score.md` scored the typed minimum register as a
+bounded pass against the hostile paperwork fixture. The candidate remains
+admitted but deferred, not graduated or transferred. The next legitimate reopen
+condition is a non-aerospace source-backed fixture from CAI Systemic Failure or
+an explicit destination-owner request for synthetic translation review.

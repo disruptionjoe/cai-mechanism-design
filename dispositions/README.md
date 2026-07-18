@@ -8,3 +8,5 @@ prototype does not override safety, legitimacy, source uncertainty, or owner con
 
 - `CMD-0001-P1-revise.md` - first synthetic test requires revision before any
   graduation, transfer, or broader proving.
+- `CMD-0001-P2-defer.md` - second synthetic test blocks the named paperwork
+  absorber but defers graduation, transfer, or broader proving.
