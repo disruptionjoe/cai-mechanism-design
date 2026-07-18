@@ -1,7 +1,7 @@
 schema_version: "1.0"
 owner_id: cai-mechanism-design
 rule_ref: system/runtime/flows/derive-lane-health.md
-evaluated_at: "2026-07-18T16:49:00-05:00"
+evaluated_at: "2026-07-18T16:39:00-05:00"
 run_ref: RUN-20260718-498-repository-work-cycle-cai-hourly
 lanes:
   - lane_id: "1"
@@ -9,12 +9,12 @@ lanes:
     reason_code: p2_blocks_paperwork_absorber_deferred
     evidence_ref: "proving/CMD-0001-P2-synthetic-score.md; dispositions/CMD-0001-P2-defer.md"
     summary: "P2 blocked the paperwork absorber; stronger disposition waits on new fixture."
-    evaluated_at: "2026-07-18T16:49:00-05:00"
+    evaluated_at: "2026-07-18T16:39:00-05:00"
     run_ref: RUN-20260718-498-repository-work-cycle-cai-hourly
   - lane_id: A
     light: green
     reason_code: mailbox_disposition_and_safety_controls_intact
     evidence_ref: "AGENTS.md; GOVERNANCE.md; STATUS.md; LANES.yaml; candidates/README.md; proving/README.md"
     summary: "Safety, owner-fit, and no-external-action gates remain explicit after P2 defer."
-    evaluated_at: "2026-07-18T16:49:00-05:00"
+    evaluated_at: "2026-07-18T16:39:00-05:00"
     run_ref: RUN-20260718-498-repository-work-cycle-cai-hourly
