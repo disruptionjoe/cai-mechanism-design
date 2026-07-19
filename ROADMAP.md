@@ -13,7 +13,10 @@
    non-aerospace, public-source negative absorber fixture.
 7. Done: draft `CMD-0001-P3` Station negative absorber translation plan without
    adding new source facts.
-8. Next: score `CMD-0001-P3` before any stronger disposition.
+8. Done: score `CMD-0001-P3` as bounded refusal and defer stronger disposition.
+9. Next: wait for a source-backed positive or ambiguous assumption-reuse
+   fixture, explicit destination-owner synthetic review request, or stewardship
+   routing change.
 
 Do not create prototypes, institutions, incentive systems, or spin-outs merely
 to make the incubator look active.

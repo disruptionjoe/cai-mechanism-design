@@ -10,3 +10,6 @@ prototype does not override safety, legitimacy, source uncertainty, or owner con
   graduation, transfer, or broader proving.
 - `CMD-0001-P2-defer.md` - second synthetic test blocks the named paperwork
   absorber but defers graduation, transfer, or broader proving.
+- `CMD-0001-P3-defer.md` - third proving test refuses the Station negative
+  absorber as positive evidence and defers graduation, transfer, broader
+  proving, or domain remedy.

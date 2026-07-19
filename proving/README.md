@@ -13,7 +13,8 @@ has a standing obligation to serve as proving ground.
   test plan for the typed minimum register revision.
 - `CMD-0001-P3-station-negative-absorber-translation-test.md` - source-fixture
   translation test using CAI Systemic Failure's Station nightclub negative
-  absorber without adding new source facts.
+  absorber without adding new source facts; scored as bounded refusal and
+  defer.
 
 ## Scores
 
@@ -21,3 +22,6 @@ has a standing obligation to serve as proving ground.
   revise because typed contradiction-visibility fields are required.
 - `CMD-0001-P2-synthetic-score.md` - second synthetic score; typed revision
   blocks the current paperwork absorber and defers stronger disposition.
+- `CMD-0001-P3-source-fixture-score.md` - third proving score; typed revision
+  refuses the Station negative absorber as positive evidence and defers
+  stronger disposition.

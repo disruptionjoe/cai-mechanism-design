@@ -1,7 +1,7 @@
 ---
 proving_id: CMD-0001-P3
 candidate_id: CMD-0001
-status: planned_source_fixture_translation
+status: scored_bounded_refusal_deferred
 created: 2026-07-19
 source_fixture: cai-systemic-failure/topology/SF-ABS-0003-negative-absorber-station-nightclub.md
 source_owner_revision: d6cf8fe
@@ -81,3 +81,11 @@ The next score may conclude only one of:
 No graduation, destination-owner transfer, public recommendation, deployment,
 human or field testing, participation, account, incentive, spin-out, domain
 remedy, or destination-owner obligation is authorized by this plan.
+
+## Score
+
+`CMD-0001-P3-source-fixture-score.md` scored the typed register as a bounded
+refusal against this negative absorber. `CMD-0001-P3-defer.md` keeps the
+candidate admitted but deferred until a source-backed positive or ambiguous
+assumption-reuse fixture, destination-owner request, or stewardship routing
+change exists.

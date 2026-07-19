@@ -1,6 +1,6 @@
 ---
 candidate_id: CMD-0001
-status: admitted_p3_source_fixture_test_planned
+status: admitted_deferred_after_p3_bounded_refusal
 lane: "1"
 source_inquiry: cai-systemic-failure/SFQ-0001
 created: 2026-07-18
@@ -173,3 +173,21 @@ absorbers rather than source-backed assumption reuse under changed conditions.
 No graduation, transfer, broader proving, deployment, participation, field
 test, incentive, spin-out, domain remedy, or destination-owner obligation is
 authorized by this plan.
+
+## Third Proving Score
+
+`proving/CMD-0001-P3-source-fixture-score.md` scored the typed register as a
+bounded refusal against the Station negative absorber. The candidate survived
+the test by refusing severity-only, affected-standing-only, and
+complexity-only positive fit while preserving source context and keeping
+domain-remedy ownership outside this repository.
+
+`dispositions/CMD-0001-P3-defer.md` keeps `CMD-0001` admitted but deferred. The
+next legitimate reopen condition is a source-backed positive or ambiguous
+assumption-reuse fixture, an explicit destination-owner request for synthetic
+translation review, or a later stewardship finding that identifies a narrower
+owner or safer home.
+
+No graduation, transfer, broader proving, deployment, participation, field
+test, incentive, spin-out, domain remedy, or destination-owner obligation is
+authorized by this score.
