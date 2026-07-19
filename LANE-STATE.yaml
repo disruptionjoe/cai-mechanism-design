@@ -1,32 +1,32 @@
 schema_version: "1.0"
 owner_id: cai-mechanism-design
 rule_ref: system/runtime/flows/derive-lane-health.md
-evaluated_at: "2026-07-18T22:44:51-05:00"
-run_ref: RUN-20260718-516-repository-work-cycle-cai-hourly
+evaluated_at: "2026-07-19T08:55:00-05:00"
+run_ref: RUN-20260719-526-repository-work-cycle-cai-hourly
 lanes:
   - lane_id: "1"
-    work_status: thin
-    last_movement: "P2 scored bounded pass and deferred CMD-0001 pending new fixture/request."
-    movement_ref: "proving/CMD-0001-P2-synthetic-score.md; dispositions/CMD-0001-P2-defer.md"
+    work_status: moving
+    last_movement: "P3 source-fixture translation plan drafted from SF-ABS-0003."
+    movement_ref: "proving/CMD-0001-P3-station-negative-absorber-translation-test.md"
     steering_attention: watch
-    steering_prompt: "Reopen only with a non-aerospace fixture or destination-owner request."
-    steering_ref: "ROADMAP.md; dispositions/CMD-0001-P2-defer.md"
-    light: green
-    reason_code: deferred_with_clear_reopen_conditions
-    evidence_ref: "proving/CMD-0001-P2-synthetic-score.md; dispositions/CMD-0001-P2-defer.md"
-    summary: "CMD-0001 is properly deferred; no stronger claim without new source/request."
-    evaluated_at: "2026-07-18T22:44:51-05:00"
-    run_ref: RUN-20260718-516-repository-work-cycle-cai-hourly
+    steering_prompt: "Score P3 before any stronger disposition."
+    steering_ref: "proving/CMD-0001-P3-station-negative-absorber-translation-test.md; ROADMAP.md"
+    light: yellow
+    reason_code: source_fixture_plan_drafted_score_next
+    evidence_ref: "cai-systemic-failure/topology/SF-ABS-0003-negative-absorber-station-nightclub.md; proving/CMD-0001-P3-station-negative-absorber-translation-test.md"
+    summary: "P3 plan drafted from Station absorber; score before stronger disposition."
+    evaluated_at: "2026-07-19T08:55:00-05:00"
+    run_ref: RUN-20260719-526-repository-work-cycle-cai-hourly
   - lane_id: A
     work_status: moving
-    last_movement: "RUN-516 refreshed Lane state to current movement/steering contract."
+    last_movement: "Closeout refreshed state after P3 source-fixture plan."
     movement_ref: "LANE-STATE.yaml"
     steering_attention: none
     steering_prompt: "none"
     steering_ref: "AGENTS.md; GOVERNANCE.md; LANES.yaml"
     light: green
-    reason_code: lane_state_contract_refreshed_controls_intact
+    reason_code: controls_intact_after_p3_plan
     evidence_ref: "AGENTS.md; GOVERNANCE.md; LANES.yaml; LANE-STATE.yaml"
-    summary: "Stewardship controls intact; Lane state now carries movement and steering."
-    evaluated_at: "2026-07-18T22:44:51-05:00"
-    run_ref: RUN-20260718-516-repository-work-cycle-cai-hourly
+    summary: "Stewardship controls intact after bounded P3 plan update."
+    evaluated_at: "2026-07-19T08:55:00-05:00"
+    run_ref: RUN-20260719-526-repository-work-cycle-cai-hourly

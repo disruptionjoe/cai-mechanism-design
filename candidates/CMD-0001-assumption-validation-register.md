@@ -1,6 +1,6 @@
 ---
 candidate_id: CMD-0001
-status: admitted_typed_revision_scored_deferred
+status: admitted_p3_source_fixture_test_planned
 lane: "1"
 source_inquiry: cai-systemic-failure/SFQ-0001
 created: 2026-07-18
@@ -155,3 +155,21 @@ bounded pass against the hostile paperwork fixture. The candidate remains
 admitted but deferred, not graduated or transferred. The next legitimate reopen
 condition is a non-aerospace source-backed fixture from CAI Systemic Failure or
 an explicit destination-owner request for synthetic translation review.
+
+## Third Proving Plan
+
+CAI Systemic Failure later supplied
+`topology/SF-ABS-0003-negative-absorber-station-nightclub.md` at source-owner
+revision `d6cf8fe`. That artifact is a non-aerospace, public-source negative
+absorber, not a destination-owner request and not a new source claim by this
+repository.
+
+`proving/CMD-0001-P3-station-negative-absorber-translation-test.md` reopens the
+candidate only for bounded source-fixture translation. The planned test asks
+whether the typed register refuses the Station fixture as positive evidence
+when the source-owner artifact centers fire/life-safety and protection-system
+absorbers rather than source-backed assumption reuse under changed conditions.
+
+No graduation, transfer, broader proving, deployment, participation, field
+test, incentive, spin-out, domain remedy, or destination-owner obligation is
+authorized by this plan.

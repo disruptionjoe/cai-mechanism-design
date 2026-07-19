@@ -11,6 +11,9 @@ has a standing obligation to serve as proving ground.
   for candidate `CMD-0001`.
 - `CMD-0001-P2-typed-register-hostile-paperwork-test.md` - second synthetic
   test plan for the typed minimum register revision.
+- `CMD-0001-P3-station-negative-absorber-translation-test.md` - source-fixture
+  translation test using CAI Systemic Failure's Station nightclub negative
+  absorber without adding new source facts.
 
 ## Scores
 

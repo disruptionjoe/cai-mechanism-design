@@ -14,7 +14,14 @@ validation-status, owner-routing, correction, and stop-condition fields before
 any stronger disposition. `CMD-0001-P2` scored that typed revision as a bounded
 synthetic pass against the current hostile paperwork absorber, then deferred
 stronger disposition pending a non-aerospace source-backed fixture or explicit
-destination-owner request.
+destination-owner request. CAI Systemic Failure's prior-run `SF-ABS-0003`
+Station nightclub negative absorber now supplies a bounded non-aerospace,
+public-source source fixture. `CMD-0001-P3` has been drafted to translate that
+existing fixture without adding source facts or making domain-remedy claims.
+
+The next admissible work is to score `CMD-0001-P3` and record whether the typed
+register refuses the Station negative absorber, requires revision, or returns
+to defer.
 
 No human testing, field work, live incentive, deployment, participation,
 external action, consequential proving, or spin-out is active.

@@ -9,8 +9,11 @@
 4. Done: revise `CMD-0001` into a typed minimum register.
 5. Done: run `CMD-0001-P2` hostile paperwork test and record bounded pass plus
    defer disposition.
-6. Next: reopen only with a non-aerospace source-backed fixture or explicit
-   destination-owner request.
+6. Done: verify prior-run CAI Systemic Failure `SF-ABS-0003` as a
+   non-aerospace, public-source negative absorber fixture.
+7. Done: draft `CMD-0001-P3` Station negative absorber translation plan without
+   adding new source facts.
+8. Next: score `CMD-0001-P3` before any stronger disposition.
 
 Do not create prototypes, institutions, incentive systems, or spin-outs merely
 to make the incubator look active.
