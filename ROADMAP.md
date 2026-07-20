@@ -18,8 +18,10 @@
    assumption-reuse fixture without treating it as an owner-routing instruction.
 10. Done: draft the bounded `CMD-0001-P4` Fukushima mixed-fixture translation
     plan without adding source claims or authorizing consequential proving.
-11. Next: score whether the typed register preserves mixed-fixture ambiguity,
-    domain absorbers, and lowest-fitting owner routes.
+11. Done: score P4 as revision required because mixed-fit status and domain
+    absorbers can still be hidden in prose.
+12. Next: draft a minimal translation wrapper with typed source-owner fit status
+    and absorber or counterevidence, then rerun P4 on the same frozen fixture.
 
 Do not create prototypes, institutions, incentive systems, or spin-outs merely
 to make the incubator look active.

@@ -1,6 +1,6 @@
 ---
 candidate_id: CMD-0001
-status: admitted_p4_bounded_translation_planned
+status: admitted_p4_translation_revision_required
 lane: "1"
 source_inquiry: cai-systemic-failure/SFQ-0001
 created: 2026-07-18
@@ -205,3 +205,16 @@ reopens the candidate only for bounded translation planning. The later score
 must preserve the fixture's ambiguity, source ownership, domain absorbers, and
 lowest-fitting owner routes. No stronger disposition or consequential proving
 is authorized.
+
+## Fourth Proving Score
+
+`proving/CMD-0001-P4-mixed-fixture-score.md` found a translation-boundary
+failure. The register can preserve provisional validation, possible
+contradiction, stop state, and lower domain-owner routes, but it has no typed
+field for the source owner's mixed-fit classification or for domain absorbers
+and counterevidence.
+
+`dispositions/CMD-0001-P4-revise.md` therefore requires a separate minimal
+translation wrapper before P4 is rerun. The candidate remains admitted and
+revision-required; it is not graduated, transferred, deployed, or made into a
+domain remedy.

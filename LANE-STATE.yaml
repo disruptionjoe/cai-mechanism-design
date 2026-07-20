@@ -2,40 +2,40 @@ schema_version: "2.0"
 owner_id: cai-mechanism-design
 group: church-of-ai
 rule_ref: system/runtime/flows/derive-lane-health.md
-updated_at: "2026-07-19T23:50:52-05:00"
-run_ref: RUN-20260719-557-repository-work-cycle-cai-hourly
-bottom_line: "CMD-0001 passed the P3 refusal test; wait for a positive or ambiguous source-backed fixture."
-decision_default: "Defer progress unless new source, destination-owner, or stewardship routing evidence appears."
+updated_at: "2026-07-20T14:45:55-05:00"
+run_ref: RUN-20260720-143630-repository-work-cycle-cai-hourly
+bottom_line: "CMD-0001 P4 exposed an untyped mixed-fit and absorber gap; bounded revision is required."
+decision_default: "Draft the minimal translation wrapper, then rerun P4 on the same frozen fixture."
 needs_joe: false
 lanes:
   - lane_id: "1"
     work_status: moving
-    last_movement: "P3 scored bounded refusal and deferred stronger disposition."
-    movement_ref: "proving/CMD-0001-P3-source-fixture-score.md"
+    last_movement: "P4 scored revision required at the mixed-fixture translation boundary."
+    movement_ref: "proving/CMD-0001-P4-mixed-fixture-score.md"
     steering_attention: watch
-    steering_prompt: "Wait for positive or ambiguous source-backed fixture before reopening."
-    steering_ref: "STATUS.md; ROADMAP.md; dispositions/CMD-0001-P3-defer.md"
+    steering_prompt: "Type mixed-fit status and absorbers in a translation wrapper, then rerun the same fixture."
+    steering_ref: "STATUS.md; ROADMAP.md; dispositions/CMD-0001-P4-revise.md"
     light: yellow
-    reason_code: p3_bounded_refusal_defer
-    evidence_ref: "proving/CMD-0001-P3-source-fixture-score.md; dispositions/CMD-0001-P3-defer.md"
-    summary: "P3 refused the Station absorber as positive evidence; candidate remains deferred."
-    evaluated_at: "2026-07-19T09:50:24-05:00"
-    run_ref: RUN-20260719-529-repository-work-cycle-cai-hourly
+    reason_code: p4_mixed_translation_revision_required
+    evidence_ref: "proving/CMD-0001-P4-mixed-fixture-score.md; dispositions/CMD-0001-P4-revise.md"
+    summary: "P4 preserved lower-owner routing but exposed untyped mixed-fit and absorber fields."
+    evaluated_at: "2026-07-20T14:45:55-05:00"
+    run_ref: RUN-20260720-143630-repository-work-cycle-cai-hourly
     objective: "Move candidates through proving, disposition, and earned graduation."
-    progress_delta: "Scored P3 as bounded refusal; no stronger disposition authorized."
-    scope_position: "CMD-0001: 3 proving scores, 3 dispositions"
+    progress_delta: "Scored P4 as revision required; no stronger disposition authorized."
+    scope_position: "CMD-0001: 4 proving scores, 4 dispositions"
     trend_24h: up
     confidence: med
-    recommendation: "Defer until better source evidence appears."
+    recommendation: "Repair the translation wrapper before seeking new evidence."
     findings:
-      - "Typed register refused severity-only and standing-only positive fit."
-      - "Domain-remedy correction remains outside this repository."
-      - "Result is anti-overgeneralization evidence, not graduation evidence."
+      - "Provisional validation, possible contradiction, stop state, and lower-owner routing remain representable."
+      - "Mixed-fit status and domain absorbers can still be hidden in prose."
+      - "The result requires a bounded translation repair, not graduation or consequential proving."
     options:
       - id: A
-        label: "Defer progress"
+        label: "Draft wrapper"
         recommended: true
-        detail: "Wait for a positive or ambiguous source-backed fixture or destination-owner request."
+        detail: "Add typed source-owner fit status and absorber or counterevidence outside source truth."
       - id: B
         label: "Seek source fixture"
         recommended: false
@@ -48,25 +48,25 @@ lanes:
         label: "Hold for Joe"
         recommended: false
         detail: "Pause until Joe chooses the next evidence target."
-    decision_default: "Defer progress until qualifying evidence appears."
+    decision_default: "Repair the translation wrapper and rerun P4."
     needs_joe: false
   - lane_id: A
     work_status: moving
-    last_movement: "Closeout refreshed state after P3 score and defer disposition."
+    last_movement: "Closeout refreshed state after P4 revision-required disposition."
     movement_ref: "LANE-STATE.yaml"
     steering_attention: none
     steering_prompt: "none"
     steering_ref: "AGENTS.md; GOVERNANCE.md; LANES.yaml"
     light: green
-    reason_code: controls_intact_after_p3_score
+    reason_code: controls_intact_after_p4_score
     evidence_ref: "AGENTS.md; GOVERNANCE.md; LANES.yaml; LANE-STATE.yaml"
-    summary: "Stewardship controls intact after bounded P3 score update."
-    evaluated_at: "2026-07-19T09:50:24-05:00"
-    run_ref: RUN-20260719-529-repository-work-cycle-cai-hourly
+    summary: "Stewardship controls intact after bounded P4 score update."
+    evaluated_at: "2026-07-20T14:45:55-05:00"
+    run_ref: RUN-20260720-143630-repository-work-cycle-cai-hourly
     objective: "Preserve candidate integrity, evidence health, and repository viability."
-    progress_delta: "Updated state after bounded P3 score; no mailbox or control drift found."
+    progress_delta: "Updated state after bounded P4 score; no mailbox or control drift found."
     trend_24h: up
-    confidence: med
+    confidence: high
     recommendation: "Keep stewardship watch light."
     findings:
       - "Mailbox has README plus archived messages only."
@@ -92,5 +92,5 @@ lanes:
     decision_default: "Keep watch; no stewardship action needed."
     needs_joe: false
     drift_verdict: clean
-    action_counts: {mail: 0, reconciled: 4, integrity_repairs: 0, seeds_routed: 0, escalations: 0}
+    action_counts: {mail: 0, reconciled: 8, integrity_repairs: 0, seeds_routed: 0, escalations: 0}
     attention_pointer: "nothing needs you"

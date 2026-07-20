@@ -13,3 +13,5 @@ prototype does not override safety, legitimacy, source uncertainty, or owner con
 - `CMD-0001-P3-defer.md` - third proving test refuses the Station negative
   absorber as positive evidence and defers graduation, transfer, broader
   proving, or domain remedy.
+- `CMD-0001-P4-revise.md` - fourth proving test requires a typed translation
+  wrapper before the mixed fixture can earn a bounded pass.

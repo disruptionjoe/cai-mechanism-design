@@ -15,6 +15,9 @@ has a standing obligation to serve as proving ground.
   translation test using CAI Systemic Failure's Station nightclub negative
   absorber without adding new source facts; scored as bounded refusal and
   defer.
+- `CMD-0001-P4-fukushima-mixed-fixture-translation-test.md` - bounded
+  translation test using CAI Systemic Failure's Fukushima mixed fixture without
+  adding source facts; scored as revision required.
 
 ## Scores
 
@@ -25,3 +28,5 @@ has a standing obligation to serve as proving ground.
 - `CMD-0001-P3-source-fixture-score.md` - third proving score; typed revision
   refuses the Station negative absorber as positive evidence and defers
   stronger disposition.
+- `CMD-0001-P4-mixed-fixture-score.md` - fourth proving score; mixed-fit status
+  and domain absorbers are not yet typed, so translation revision is required.
