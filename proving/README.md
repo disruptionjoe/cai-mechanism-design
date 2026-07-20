@@ -17,7 +17,11 @@ has a standing obligation to serve as proving ground.
   defer.
 - `CMD-0001-P4-fukushima-mixed-fixture-translation-test.md` - bounded
   translation test using CAI Systemic Failure's Fukushima mixed fixture without
-  adding source facts; scored as revision required.
+  adding source facts; first scored as revision required, then bounded pass
+  after the minimal typed wrapper.
+- `CMD-0001-P4-typed-translation-wrapper.md` - separate two-field wrapper that
+  types the source owner's fit status and absorbers without changing source
+  truth or the operational register.
 
 ## Scores
 
@@ -30,3 +34,5 @@ has a standing obligation to serve as proving ground.
   stronger disposition.
 - `CMD-0001-P4-mixed-fixture-score.md` - fourth proving score; mixed-fit status
   and domain absorbers are not yet typed, so translation revision is required.
+- `CMD-0001-P4-mixed-fixture-rerun-score.md` - same frozen fixture rerun after
+  the minimal wrapper; bounded mixed-translation pass and defer.

@@ -1,7 +1,7 @@
 ---
 proving_id: CMD-0001-P4
 candidate_id: CMD-0001
-status: planned_bounded_translation
+status: scored_bounded_mixed_translation_pass_deferred
 created: 2026-07-20
 source_fixture: cai-systemic-failure/topology/SF-MIX-0001-fukushima-tsunami-design-basis.md
 source_owner_revision: 19c21ca
@@ -68,3 +68,11 @@ The next score may conclude only that the typed register preserves the mixed
 fixture as a bounded ambiguous fit, overgeneralizes and requires revision or
 kill, or cannot safely translate the fixture and returns to defer. No stronger
 disposition is authorized by this plan.
+
+## Rerun Result
+
+After P4-S1 exposed an untyped mixed-fit and absorber gap,
+`CMD-0001-P4-typed-translation-wrapper.md` added only those two typed values.
+`CMD-0001-P4-mixed-fixture-rerun-score.md` reran this same frozen fixture and
+earned a bounded translation pass. `CMD-0001-P4-defer.md` keeps the candidate
+admitted and deferred; no stronger disposition is authorized.

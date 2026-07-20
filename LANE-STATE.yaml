@@ -2,40 +2,40 @@ schema_version: "2.0"
 owner_id: cai-mechanism-design
 group: church-of-ai
 rule_ref: system/runtime/flows/derive-lane-health.md
-updated_at: "2026-07-20T14:45:55-05:00"
-run_ref: RUN-20260720-143630-repository-work-cycle-cai-hourly
-bottom_line: "CMD-0001 P4 exposed an untyped mixed-fit and absorber gap; bounded revision is required."
-decision_default: "Draft the minimal translation wrapper, then rerun P4 on the same frozen fixture."
+updated_at: "2026-07-20T15:39:22-05:00"
+run_ref: RUN-20260720-153631-repository-work-cycle-cai-hourly
+bottom_line: "CMD-0001 P4 passed bounded mixed-fixture translation after the exact two-field wrapper repair."
+decision_default: "Keep the candidate deferred until materially new source, destination-owner, or stewardship evidence appears."
 needs_joe: false
 lanes:
   - lane_id: "1"
     work_status: moving
-    last_movement: "P4 scored revision required at the mixed-fixture translation boundary."
-    movement_ref: "proving/CMD-0001-P4-mixed-fixture-score.md"
+    last_movement: "P4 rerun passed the mixed-fixture translation boundary after the minimal wrapper repair."
+    movement_ref: "proving/CMD-0001-P4-mixed-fixture-rerun-score.md"
     steering_attention: watch
-    steering_prompt: "Type mixed-fit status and absorbers in a translation wrapper, then rerun the same fixture."
-    steering_ref: "STATUS.md; ROADMAP.md; dispositions/CMD-0001-P4-revise.md"
-    light: yellow
-    reason_code: p4_mixed_translation_revision_required
-    evidence_ref: "proving/CMD-0001-P4-mixed-fixture-score.md; dispositions/CMD-0001-P4-revise.md"
-    summary: "P4 preserved lower-owner routing but exposed untyped mixed-fit and absorber fields."
-    evaluated_at: "2026-07-20T14:45:55-05:00"
-    run_ref: RUN-20260720-143630-repository-work-cycle-cai-hourly
+    steering_prompt: "Wait for materially new evidence; do not extend the proving count."
+    steering_ref: "STATUS.md; ROADMAP.md; dispositions/CMD-0001-P4-defer.md"
+    light: green
+    reason_code: p4_bounded_mixed_translation_pass_defer
+    evidence_ref: "proving/CMD-0001-P4-typed-translation-wrapper.md; proving/CMD-0001-P4-mixed-fixture-rerun-score.md; dispositions/CMD-0001-P4-defer.md"
+    summary: "Typed mixed-fit and absorber values repaired the translation gap without changing source truth."
+    evaluated_at: "2026-07-20T15:39:22-05:00"
+    run_ref: RUN-20260720-153631-repository-work-cycle-cai-hourly
     objective: "Move candidates through proving, disposition, and earned graduation."
-    progress_delta: "Scored P4 as revision required; no stronger disposition authorized."
-    scope_position: "CMD-0001: 4 proving scores, 4 dispositions"
+    progress_delta: "Added the exact two-field wrapper, reran the frozen fixture, and recorded bounded pass plus defer."
+    scope_position: "CMD-0001: 5 proving scores, 5 dispositions"
     trend_24h: up
     confidence: med
-    recommendation: "Repair the translation wrapper before seeking new evidence."
+    recommendation: "Keep deferred until materially new evidence appears."
     findings:
-      - "Provisional validation, possible contradiction, stop state, and lower-owner routing remain representable."
-      - "Mixed-fit status and domain absorbers can still be hidden in prose."
-      - "The result requires a bounded translation repair, not graduation or consequential proving."
+      - "The wrapper types source-owner fit status and absorber or counterevidence outside source truth."
+      - "The same frozen fixture now preserves mixed status and domain absorbers structurally."
+      - "The bounded pass does not authorize graduation or consequential proving."
     options:
       - id: A
-        label: "Draft wrapper"
+        label: "Keep deferred"
         recommended: true
-        detail: "Add typed source-owner fit status and absorber or counterevidence outside source truth."
+        detail: "Wait for materially new source, destination-owner, or stewardship evidence."
       - id: B
         label: "Seek source fixture"
         recommended: false
@@ -48,23 +48,23 @@ lanes:
         label: "Hold for Joe"
         recommended: false
         detail: "Pause until Joe chooses the next evidence target."
-    decision_default: "Repair the translation wrapper and rerun P4."
+    decision_default: "Keep deferred; do not seek another fixture for count alone."
     needs_joe: false
   - lane_id: A
     work_status: moving
-    last_movement: "Closeout refreshed state after P4 revision-required disposition."
+    last_movement: "Closeout refreshed state after the bounded P4 rerun pass and defer."
     movement_ref: "LANE-STATE.yaml"
     steering_attention: none
     steering_prompt: "none"
     steering_ref: "AGENTS.md; GOVERNANCE.md; LANES.yaml"
     light: green
-    reason_code: controls_intact_after_p4_score
+    reason_code: controls_intact_after_p4_rerun
     evidence_ref: "AGENTS.md; GOVERNANCE.md; LANES.yaml; LANE-STATE.yaml"
-    summary: "Stewardship controls intact after bounded P4 score update."
-    evaluated_at: "2026-07-20T14:45:55-05:00"
-    run_ref: RUN-20260720-143630-repository-work-cycle-cai-hourly
+    summary: "Stewardship controls intact after bounded P4 wrapper repair and rerun."
+    evaluated_at: "2026-07-20T15:39:22-05:00"
+    run_ref: RUN-20260720-153631-repository-work-cycle-cai-hourly
     objective: "Preserve candidate integrity, evidence health, and repository viability."
-    progress_delta: "Updated state after bounded P4 score; no mailbox or control drift found."
+    progress_delta: "Updated state after exact wrapper repair and frozen-fixture rerun; no mailbox or control drift found."
     trend_24h: up
     confidence: high
     recommendation: "Keep stewardship watch light."
@@ -92,5 +92,5 @@ lanes:
     decision_default: "Keep watch; no stewardship action needed."
     needs_joe: false
     drift_verdict: clean
-    action_counts: {mail: 0, reconciled: 8, integrity_repairs: 0, seeds_routed: 0, escalations: 0}
+    action_counts: {mail: 0, reconciled: 11, integrity_repairs: 0, seeds_routed: 0, escalations: 0}
     attention_pointer: "nothing needs you"

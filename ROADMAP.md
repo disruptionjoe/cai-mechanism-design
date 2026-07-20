@@ -20,8 +20,12 @@
     plan without adding source claims or authorizing consequential proving.
 11. Done: score P4 as revision required because mixed-fit status and domain
     absorbers can still be hidden in prose.
-12. Next: draft a minimal translation wrapper with typed source-owner fit status
-    and absorber or counterevidence, then rerun P4 on the same frozen fixture.
+12. Done: add a minimal translation wrapper with typed source-owner fit status
+    and absorber or counterevidence.
+13. Done: rerun P4 on the same frozen fixture and record a bounded mixed-
+    translation pass plus defer disposition.
+14. Next: wait for materially new source, destination-owner, or stewardship
+    owner-fit evidence; do not extend the proving count for its own sake.
 
 Do not create prototypes, institutions, incentive systems, or spin-outs merely
 to make the incubator look active.

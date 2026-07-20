@@ -1,6 +1,6 @@
 ---
 candidate_id: CMD-0001
-status: admitted_p4_translation_revision_required
+status: admitted_deferred_after_p4_bounded_mixed_translation_pass
 lane: "1"
 source_inquiry: cai-systemic-failure/SFQ-0001
 created: 2026-07-18
@@ -218,3 +218,16 @@ and counterevidence.
 translation wrapper before P4 is rerun. The candidate remains admitted and
 revision-required; it is not graduated, transferred, deployed, or made into a
 domain remedy.
+
+## Fourth Proving Rerun
+
+`proving/CMD-0001-P4-typed-translation-wrapper.md` adds typed
+`source_owner_fit_status` and `absorber_or_counterevidence` values outside both
+source truth and the operational register. The same frozen fixture then earns a
+bounded translation pass in
+`proving/CMD-0001-P4-mixed-fixture-rerun-score.md` because mixed status and
+domain absorbers can no longer be hidden in prose.
+
+`dispositions/CMD-0001-P4-defer.md` keeps the candidate admitted and deferred.
+The wrapper does not validate deployment, change another owner's truth, or
+authorize a stronger disposition.

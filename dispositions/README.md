@@ -15,3 +15,5 @@ prototype does not override safety, legitimacy, source uncertainty, or owner con
   proving, or domain remedy.
 - `CMD-0001-P4-revise.md` - fourth proving test requires a typed translation
   wrapper before the mixed fixture can earn a bounded pass.
+- `CMD-0001-P4-defer.md` - same frozen fixture earns a bounded translation pass
+  after the wrapper repair; candidate remains admitted and deferred.

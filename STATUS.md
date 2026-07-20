@@ -25,11 +25,12 @@ CAI Systemic Failure's later `SF-MIX-0001` Fukushima mixed-case artifact
 satisfied the source-backed ambiguous assumption-reuse reopen condition without
 creating an owner-routing instruction. `CMD-0001-P4` scored the current typed
 register as revision required: source, provisional validation, possible
-contradiction, stop state, and lower-owner routes survive, but mixed-fit status
-and domain absorbers are not typed and can still be hidden in prose. The next
-admissible progress work is a minimal translation wrapper with typed
-source-owner fit status and absorber or counterevidence, followed by a rerun of
-the same frozen fixture.
+contradiction, stop state, and lower-owner routes survived, but mixed-fit status
+and domain absorbers were not typed and could still be hidden in prose. A
+minimal translation wrapper now types `source_owner_fit_status` and
+`absorber_or_counterevidence` outside source truth and the operational register.
+The same frozen fixture earned a bounded translation pass on rerun, and the
+candidate returns to defer without stronger disposition.
 
 No human testing, field work, live incentive, deployment, participation,
 external action, consequential proving, or spin-out is active.
