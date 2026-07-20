@@ -17,3 +17,12 @@ Joe's exact authorization and a destination-owner acceptance.
 
 Before writes, resolve `git rev-parse --git-path capacityos-writer.lock`. If it
 exists, stop unless the active approved run owns it. Never discard user work.
+
+## Versioning Default
+
+After any coherent batch of repository changes that Joe has authorized, commit
+and push the current branch by default. Do not wait for a separate commit or
+push request. Do not commit or push when an active writer lock, a
+repository-specific rule, failed verification, unrelated dirty changes, or
+Joe's explicit hold blocks it. GitHub push is routine versioning, not external
+publication; all other external-action rules remain in force.
