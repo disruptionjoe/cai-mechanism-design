@@ -6,7 +6,7 @@ dispositions, and earned graduation proposals. It is not the permanent home of
 every solution and cannot absorb another repository's work or truth.
 
 Load `GOVERNANCE.md`, `STATUS.md`, `ROADMAP.md`, and `LANES.yaml` before work.
-For CapacityOS routing, load `../../../system/stewards/cai-mechanism-design/README.md`.
+For CapacityOS routing, load `../../private/system-operations/stewards/cai-mechanism-design/README.md`.
 A direct mount must remain sufficient without CapacityOS. System may narrow
 local authority and never broaden it.
 
