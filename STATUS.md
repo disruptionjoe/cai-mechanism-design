@@ -21,10 +21,12 @@ refusal: the typed register refuses to treat severity, affected standing,
 institutional complexity, or domain-remedy pressure as positive evidence for
 this candidate without source-backed assumption reuse under changed conditions.
 
-The next admissible progress work requires a source-backed positive or
-ambiguous assumption-reuse fixture, an explicit destination-owner request for
-synthetic translation review, or a stewardship finding that identifies a
-narrower owner or safer home.
+CAI Systemic Failure's later `SF-MIX-0001` Fukushima mixed-case artifact now
+satisfies the source-backed ambiguous assumption-reuse reopen condition without
+creating an owner-routing instruction. `CMD-0001-P4` plans a bounded translation
+test only. The next admissible progress work is to score whether the typed
+register preserves the fixture's ambiguity, domain absorbers, and lowest-fitting
+owner routes without overgeneralizing or adding source claims.
 
 No human testing, field work, live incentive, deployment, participation,
 external action, consequential proving, or spin-out is active.

@@ -1,6 +1,6 @@
 ---
 candidate_id: CMD-0001
-status: admitted_deferred_after_p3_bounded_refusal
+status: admitted_p4_bounded_translation_planned
 lane: "1"
 source_inquiry: cai-systemic-failure/SFQ-0001
 created: 2026-07-18
@@ -191,3 +191,17 @@ owner or safer home.
 No graduation, transfer, broader proving, deployment, participation, field
 test, incentive, spin-out, domain remedy, or destination-owner obligation is
 authorized by this score.
+
+## Fourth Proving Plan
+
+CAI Systemic Failure subsequently supplied the public-source mixed fixture
+`topology/SF-MIX-0001-fukushima-tsunami-design-basis.md` at source-owner
+revision `19c21ca`. The fixture explicitly preserves source-backed old-
+assumption reuse under changed or reassessed external-hazard conditions while
+refusing to count the case as an ordinary positive record.
+
+`proving/CMD-0001-P4-fukushima-mixed-fixture-translation-test.md` therefore
+reopens the candidate only for bounded translation planning. The later score
+must preserve the fixture's ambiguity, source ownership, domain absorbers, and
+lowest-fitting owner routes. No stronger disposition or consequential proving
+is authorized.

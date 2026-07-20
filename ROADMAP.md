@@ -14,9 +14,12 @@
 7. Done: draft `CMD-0001-P3` Station negative absorber translation plan without
    adding new source facts.
 8. Done: score `CMD-0001-P3` as bounded refusal and defer stronger disposition.
-9. Next: wait for a source-backed positive or ambiguous assumption-reuse
-   fixture, explicit destination-owner synthetic review request, or stewardship
-   routing change.
+9. Done: verify `SF-MIX-0001` as a fresh source-backed ambiguous
+   assumption-reuse fixture without treating it as an owner-routing instruction.
+10. Done: draft the bounded `CMD-0001-P4` Fukushima mixed-fixture translation
+    plan without adding source claims or authorizing consequential proving.
+11. Next: score whether the typed register preserves mixed-fixture ambiguity,
+    domain absorbers, and lowest-fitting owner routes.
 
 Do not create prototypes, institutions, incentive systems, or spin-outs merely
 to make the incubator look active.
