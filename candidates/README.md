@@ -9,5 +9,6 @@ and intended disposition. Existing-owner fit defeats admission here.
 
 - `CMD-0001-assumption-validation-register.md` - synthetic-only source-
   preserving assumption-drift register derived from CAI Systemic Failure
-  inquiry `SFQ-0001`; P3 scored bounded refusal against `SF-ABS-0003`, so the
-  candidate remains admitted and deferred.
+  inquiry `SFQ-0001`; P4 preserved the source owner's mixed classification and
+  named absorbers through a minimal typed translation wrapper, earned a bounded
+  rerun pass, and returned the candidate to defer without stronger disposition.

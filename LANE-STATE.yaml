@@ -2,8 +2,8 @@ schema_version: "2.0"
 owner_id: cai-mechanism-design
 group: church-of-ai
 rule_ref: system/runtime/flows/derive-lane-health.md
-updated_at: "2026-07-20T15:39:22-05:00"
-run_ref: RUN-20260720-153631-repository-work-cycle-cai-hourly
+updated_at: "2026-07-20T19:45:27-05:00"
+run_ref: RUN-20260720-193705-repository-work-cycle-cai-hourly
 bottom_line: "CMD-0001 P4 passed bounded mixed-fixture translation after the exact two-field wrapper repair."
 decision_default: "Keep the candidate deferred until materially new source, destination-owner, or stewardship evidence appears."
 needs_joe: false
@@ -52,26 +52,26 @@ lanes:
     needs_joe: false
   - lane_id: A
     work_status: moving
-    last_movement: "Closeout refreshed state after the bounded P4 rerun pass and defer."
-    movement_ref: "LANE-STATE.yaml"
+    last_movement: "Reconciled the admitted-candidate index with the bounded P4 rerun pass and defer."
+    movement_ref: "candidates/README.md"
     steering_attention: none
     steering_prompt: "none"
     steering_ref: "AGENTS.md; GOVERNANCE.md; LANES.yaml"
     light: green
-    reason_code: controls_intact_after_p4_rerun
-    evidence_ref: "AGENTS.md; GOVERNANCE.md; LANES.yaml; LANE-STATE.yaml"
-    summary: "Stewardship controls intact after bounded P4 wrapper repair and rerun."
-    evaluated_at: "2026-07-20T15:39:22-05:00"
-    run_ref: RUN-20260720-153631-repository-work-cycle-cai-hourly
+    reason_code: candidate_index_reconciled_after_p4_defer
+    evidence_ref: "candidates/README.md; proving/CMD-0001-P4-mixed-fixture-rerun-score.md; dispositions/CMD-0001-P4-defer.md"
+    summary: "Candidate index now matches the bounded P4 wrapper pass and active defer disposition."
+    evaluated_at: "2026-07-20T19:45:27-05:00"
+    run_ref: RUN-20260720-193705-repository-work-cycle-cai-hourly
     objective: "Preserve candidate integrity, evidence health, and repository viability."
-    progress_delta: "Updated state after exact wrapper repair and frozen-fixture rerun; no mailbox or control drift found."
+    progress_delta: "Updated the stale admitted-candidate index from the P3 refusal state to the current P4 bounded pass and defer state."
     trend_24h: up
     confidence: high
     recommendation: "Keep stewardship watch light."
     findings:
+      - "The candidate index still named P3 as the latest disposition after P4 had closed."
+      - "The index now aligns with STATUS, ROADMAP, proving, and disposition truth."
       - "Mailbox has README plus archived messages only."
-      - "Emergency revocations remain empty."
-      - "No writer lock was present at write boundary."
     options:
       - id: A
         label: "Keep watch"
@@ -92,5 +92,5 @@ lanes:
     decision_default: "Keep watch; no stewardship action needed."
     needs_joe: false
     drift_verdict: clean
-    action_counts: {mail: 0, reconciled: 11, integrity_repairs: 0, seeds_routed: 0, escalations: 0}
+    action_counts: {mail: 0, reconciled: 12, integrity_repairs: 0, seeds_routed: 0, escalations: 0}
     attention_pointer: "nothing needs you"
