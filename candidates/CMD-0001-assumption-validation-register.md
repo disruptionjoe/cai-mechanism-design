@@ -3,6 +3,7 @@ candidate_id: CMD-0001
 status: admitted_deferred_after_p4_bounded_mixed_translation_pass
 lane: "1"
 source_inquiry: cai-systemic-failure/SFQ-0001
+source_inquiry_revision: f9784d7484de8f0a5cfe3344ca923a77ba1d8ea8
 created: 2026-07-18
 external_action: none
 ---
@@ -23,10 +24,13 @@ obligation for any other owner.
 
 ## Source Inquiry
 
-The source inquiry is `SFQ-0001` from CAI Systemic Failure, derived from the
-bounded public-source record `SF-0001`. The motivating pattern is not "one more
-checklist"; it is that changed function authority, delegated approval, and
-operator-response assumptions can become separated across review artifacts.
+The source inquiry is `SFQ-0001` from CAI Systemic Failure at revision
+`f9784d7484de8f0a5cfe3344ca923a77ba1d8ea8`, derived from the bounded public-
+source record `SF-0001`. Later source-owner corrections do not silently change
+the admitted basis; they require an explicit candidate review. The motivating
+pattern is not "one more checklist"; it is that changed function authority,
+delegated approval, and operator-response assumptions can become separated
+across review artifacts.
 
 ## Theory Of Change
 
