@@ -18,6 +18,18 @@ Joe's exact authorization and a destination-owner acceptance.
 Before writes, resolve `git rev-parse --git-path capacityos-writer.lock`. If it
 exists, stop unless the active approved run owns it. Never discard user work.
 
+## Purpose, Passion, and Practice
+
+- **Purpose:** Discover and incubate solutions for consequential problems
+  without a rightful existing owner, moving from inquiry through design,
+  least-consequential proof, disposition, and earned graduation.
+- **Passion:** Test whether agents can move from systemic diagnosis to viable
+  interventions without mistaking clever ideas, simulation, or premature
+  deployment for legitimate impact.
+- **Practice:** Orchestrate solution discovery: compare alternatives, design
+  safe proving steps, preserve negative evidence, and hand solutions to the
+  right enduring owner.
+
 ## Versioning Default
 
 After any coherent batch of repository changes that Joe has authorized, commit
