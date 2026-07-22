@@ -3,6 +3,7 @@ disposition_id: CMD-0001-P4-D1
 candidate_id: CMD-0001
 proving_id: CMD-0001-P4
 status: revise
+superseded_by: CMD-0001-P4-D2
 created: 2026-07-20
 external_action: none
 ---
