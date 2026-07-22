@@ -69,6 +69,16 @@ fixture as a bounded ambiguous fit, overgeneralizes and requires revision or
 kill, or cannot safely translate the fixture and returns to defer. No stronger
 disposition is authorized by this plan.
 
+## Stewardship Control Clarification
+
+Affected-party standing remains source-owned and creates no consent or
+authority here. Stop if translation needs new source claims, real-world data,
+contact, domain judgment, or suppression of the mixed classification. Recovery
+is to invalidate the translation result and wrapper, preserve the failure as
+negative evidence, and leave the source fixture unchanged. CAI Mechanism Design
+owns the translation test, scores, wrapper, and disposition; CAI Systemic
+Failure owns the fixture and its correction.
+
 ## Rerun Result
 
 After P4-S1 exposed an untyped mixed-fit and absorber gap,

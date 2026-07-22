@@ -82,6 +82,16 @@ No graduation, destination-owner transfer, public recommendation, deployment,
 human or field testing, participation, account, incentive, spin-out, domain
 remedy, or destination-owner obligation is authorized by this plan.
 
+## Stewardship Control Clarification
+
+Affected-party standing is preserved from the fixture but creates no consent or
+authority here. Stop if translation needs new source claims, real-world data,
+contact, domain judgment, or a positive fit manufactured from severity alone.
+Recovery is to invalidate the translation result, preserve the refusal or
+failure as negative evidence, and leave the source fixture unchanged. CAI
+Mechanism Design owns the translation test, score, and disposition; CAI
+Systemic Failure owns the fixture and its correction.
+
 ## Score
 
 `CMD-0001-P3-source-fixture-score.md` scored the typed register as a bounded

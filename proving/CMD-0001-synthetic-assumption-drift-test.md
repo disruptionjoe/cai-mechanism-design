@@ -59,6 +59,16 @@ conditions. It may not contact parties, publish externally, create accounts,
 deploy tools, recruit participants, change another owner's work, or claim an
 aviation remedy.
 
+## Stewardship Control Clarification
+
+Affected-party standing is represented only through synthetic user, operator,
+reviewer, and downstream-risk roles; no person is treated as having consented.
+Stop if the test needs real data, authority, contact, or domain judgment.
+Recovery is to reject the synthetic result, preserve it as negative evidence,
+and leave all source and operational systems unchanged. CAI Mechanism Design
+owns the test and score; CAI Systemic Failure retains the source inquiry and
+record.
+
 ## Result
 
 The first score is `CMD-0001-P1-synthetic-score.md`. Result: revise. The

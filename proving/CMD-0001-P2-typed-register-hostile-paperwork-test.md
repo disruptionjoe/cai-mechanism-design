@@ -53,6 +53,15 @@ No graduation, transfer, broader proving, deployment, participation, field
 test, incentive, spin-out, aviation remedy, or destination-owner obligation is
 authorized by this plan.
 
+## Stewardship Control Clarification
+
+Affected-party standing is represented only by synthetic roles and risks. Stop
+if scoring requires real records, human judgment, external contact, authority,
+or a domain answer. Recovery is to reject the synthetic score, preserve the
+failure as negative evidence, and leave source and operational systems
+unchanged. CAI Mechanism Design owns the fixture, score, and disposition; the
+source inquiry remains CAI Systemic Failure truth.
+
 ## Score
 
 `CMD-0001-P2-synthetic-score.md` scored the typed revision as a bounded pass
