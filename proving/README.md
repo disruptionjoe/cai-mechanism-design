@@ -22,6 +22,9 @@ has a standing obligation to serve as proving ground.
 - `CMD-0001-P4-typed-translation-wrapper.md` - separate two-field wrapper that
   types the source owner's fit status and absorbers without changing source
   truth or the operational register.
+- `CMD-0001-P5-intervention-boundary-absorption-test.md` - source-pinned
+  hostile translation test using CAI Systemic Failure's bounded five-record
+  intervention comparison without importing a domain remedy.
 
 ## Scores
 
@@ -36,3 +39,7 @@ has a standing obligation to serve as proving ground.
   and domain absorbers are not yet typed, so translation revision is required.
 - `CMD-0001-P4-mixed-fixture-rerun-score.md` - same frozen fixture rerun after
   the minimal wrapper; bounded mixed-translation pass and defer.
+- `CMD-0001-P5-intervention-boundary-score.md` - bounded pass showing that the
+  current candidate preserves the narrow cross-record residue while refusing a
+  transferable intervention, domain-remedy absorption, and central-review
+  capture.

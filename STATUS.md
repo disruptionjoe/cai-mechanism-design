@@ -30,7 +30,15 @@ and domain absorbers were not typed and could still be hidden in prose. A
 minimal translation wrapper now types `source_owner_fit_status` and
 `absorber_or_counterevidence` outside source truth and the operational register.
 The same frozen fixture earned a bounded translation pass on rerun, and the
-candidate returns to defer without stronger disposition.
+candidate returned to defer without stronger disposition. CAI Systemic
+Failure's later bounded five-record intervention comparison then provided
+materially new source-owner evidence: its common residue is limited to
+owner-visible changed evidence, affected-party standing, and a correction or
+stop route while each domain retains remedy authority. `CMD-0001-P5` scored the
+current candidate as a bounded intervention-boundary pass because it refuses a
+transferable intervention, domain-remedy absorption, generic central-review
+capture, and silent reuse after source change. The candidate remains deferred
+without an effectiveness, schema, transfer, graduation, or deployment claim.
 
 No human testing, field work, live incentive, deployment, participation,
 external action, consequential proving, or spin-out is active.

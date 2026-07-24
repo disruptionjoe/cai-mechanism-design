@@ -6,8 +6,9 @@ prototype does not override safety, legitimacy, source uncertainty, or owner con
 
 ## Current Disposition
 
-- `CMD-0001-P4-defer.md` - same frozen fixture earns a bounded translation pass
-  after the wrapper repair; candidate remains admitted and deferred.
+- `CMD-0001-P5-defer.md` - the source-pinned five-record comparison earns a
+  bounded intervention-boundary pass; candidate remains admitted and deferred
+  without absorbing domain remedies or authority.
 
 ## Prior Dispositions
 
@@ -21,3 +22,5 @@ prototype does not override safety, legitimacy, source uncertainty, or owner con
 - `CMD-0001-P4-revise.md` - fourth proving test requires a typed translation
   wrapper before the mixed fixture can earn a bounded pass; superseded by
   `CMD-0001-P4-defer.md` after the bounded rerun pass.
+- `CMD-0001-P4-defer.md` - the frozen P4 fixture earns a bounded translation
+  pass after the wrapper repair; superseded by `CMD-0001-P5-defer.md`.

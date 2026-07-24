@@ -24,7 +24,16 @@
     and absorber or counterevidence.
 13. Done: rerun P4 on the same frozen fixture and record a bounded mixed-
     translation pass plus defer disposition.
-14. Next: wait for materially new source, destination-owner, or stewardship
+14. Done: verify CAI Systemic Failure's later bounded five-record intervention
+    comparison as materially new source-owner evidence without treating it as
+    an owner-routing instruction or a transferable intervention.
+15. Done: draft `CMD-0001-P5` as a source-pinned hostile
+    intervention-boundary absorption test without reopening the five source
+    records or adding source facts.
+16. Done: score P5 as a bounded boundary pass and defer because the candidate
+    preserves narrow owner-routed visibility while refusing domain-remedy
+    absorption and central-review capture.
+17. Next: wait for materially new source, destination-owner, or stewardship
     owner-fit evidence; do not extend the proving count for its own sake.
 
 Do not create prototypes, institutions, incentive systems, or spin-outs merely

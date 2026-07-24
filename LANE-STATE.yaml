@@ -2,35 +2,35 @@ schema_version: "2.0"
 owner_id: cai-mechanism-design
 group: church-of-ai
 rule_ref: system/runtime/flows/derive-lane-health.md
-updated_at: "2026-07-20T19:45:27-05:00"
-run_ref: RUN-20260720-193705-repository-work-cycle-cai-hourly
-bottom_line: "CMD-0001 P4 passed bounded mixed-fixture translation after the exact two-field wrapper repair."
+updated_at: "2026-07-24T17:13:27-05:00"
+run_ref: RUN-20260724-171230-cai-mechanism-progress
+bottom_line: "CMD-0001 P5 preserved five-record domain boundaries and refused transferable-intervention inflation."
 decision_default: "Keep the candidate deferred until materially new source, destination-owner, or stewardship evidence appears."
 needs_joe: false
 lanes:
   - lane_id: "1"
     work_status: moving
-    last_movement: "P4 rerun passed the mixed-fixture translation boundary after the minimal wrapper repair."
-    movement_ref: "proving/CMD-0001-P4-mixed-fixture-rerun-score.md"
+    last_movement: "P5 passed the five-record intervention-boundary absorption test without taking domain authority."
+    movement_ref: "proving/CMD-0001-P5-intervention-boundary-score.md"
     steering_attention: watch
     steering_prompt: "Wait for materially new evidence; do not extend the proving count."
-    steering_ref: "STATUS.md; ROADMAP.md; dispositions/CMD-0001-P4-defer.md"
+    steering_ref: "STATUS.md; ROADMAP.md; dispositions/CMD-0001-P5-defer.md"
     light: green
-    reason_code: p4_bounded_mixed_translation_pass_defer
-    evidence_ref: "proving/CMD-0001-P4-typed-translation-wrapper.md; proving/CMD-0001-P4-mixed-fixture-rerun-score.md; dispositions/CMD-0001-P4-defer.md"
-    summary: "Typed mixed-fit and absorber values repaired the translation gap without changing source truth."
-    evaluated_at: "2026-07-20T15:39:22-05:00"
-    run_ref: RUN-20260720-153631-repository-work-cycle-cai-hourly
+    reason_code: p5_bounded_intervention_boundary_pass_defer
+    evidence_ref: "proving/CMD-0001-P5-intervention-boundary-absorption-test.md; proving/CMD-0001-P5-intervention-boundary-score.md; dispositions/CMD-0001-P5-defer.md"
+    summary: "Candidate preserved narrow owner-routed visibility while refusing transferable remedy authority."
+    evaluated_at: "2026-07-24T17:13:27-05:00"
+    run_ref: RUN-20260724-171230-cai-mechanism-progress
     objective: "Move candidates through proving, disposition, and earned graduation."
-    progress_delta: "Added the exact two-field wrapper, reran the frozen fixture, and recorded bounded pass plus defer."
-    scope_position: "CMD-0001: 5 proving scores, 5 dispositions"
+    progress_delta: "Tested new five-record boundary evidence; rejected intervention inflation and retained defer."
+    scope_position: "CMD-0001: 6 proving scores, 6 dispositions"
     trend_24h: up
     confidence: med
     recommendation: "Keep deferred until materially new evidence appears."
     findings:
-      - "The wrapper types source-owner fit status and absorber or counterevidence outside source truth."
-      - "The same frozen fixture now preserves mixed status and domain absorbers structurally."
-      - "The bounded pass does not authorize graduation or consequential proving."
+      - "The source comparison supports only owner-visible changed evidence plus correction or stop routing."
+      - "The candidate refuses a cross-domain intervention and keeps each domain's remedy authority controlling."
+      - "The bounded pass does not establish effectiveness, adoption fit, graduation, or deployment readiness."
     options:
       - id: A
         label: "Keep deferred"

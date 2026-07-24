@@ -1,6 +1,6 @@
 ---
 candidate_id: CMD-0001
-status: admitted_deferred_after_p4_bounded_mixed_translation_pass
+status: admitted_deferred_after_p5_bounded_intervention_boundary_pass
 lane: "1"
 source_inquiry: cai-systemic-failure/SFQ-0001
 source_inquiry_revision: f9784d7484de8f0a5cfe3344ca923a77ba1d8ea8
@@ -235,3 +235,28 @@ domain absorbers can no longer be hidden in prose.
 `dispositions/CMD-0001-P4-defer.md` keeps the candidate admitted and deferred.
 The wrapper does not validate deployment, change another owner's truth, or
 authorize a stronger disposition.
+
+## Fifth Proving Test
+
+CAI Systemic Failure later published the bounded five-record comparison
+`prior-art/SF-PA-0001-review-chain-intervention-boundaries.md` at source-owner
+revision `2b53419b7c0bf13a193c92b43c73e0e84c9dc426`. The comparison finds only a
+narrow common residue—changed evidence should become visible to an accountable
+owner with affected-party standing and a correction or stop route—while keeping
+each domain's intervention meaning, authority, and evaluation controlling.
+
+`proving/CMD-0001-P5-intervention-boundary-absorption-test.md` uses that
+materially new source-owner synthesis to test whether the candidate inflates
+common residue into one transferable intervention, absorbs a domain remedy,
+routes everything centrally, or silently reuses changed source truth.
+
+## Fifth Proving Score
+
+`proving/CMD-0001-P5-intervention-boundary-score.md` records a bounded boundary
+pass. The current source, affected-standing, lowest-fitting-owner,
+correction-route, and stop controls reject all four absorbers while preserving
+only source-backed owner-routed visibility.
+
+`dispositions/CMD-0001-P5-defer.md` keeps the candidate admitted and deferred.
+The score does not prove effectiveness, validate deployment, accept a schema,
+or authorize transfer, graduation, or consequential proving.
