@@ -13,7 +13,7 @@ Status: complete
 
 - Phase: `progress`
 - Workflow: `system-runtime#repo-progress-run`
-- Workflow revision: `sha256:09ceebd5cdcb21090c418dd504a529b7bd10a906f5709a709a70f14d9adc918c`
+- Workflow revision: `sha256:3cc3db78e03c512e64206aa63ee96059c981f018888ed7b215776368fc38104d`
 - Mode: `system-canon#execute`
 - Lane: `1`
 - Method refs: [`cai-mechanism-design#GOVERNANCE.md`]
