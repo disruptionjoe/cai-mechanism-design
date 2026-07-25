@@ -43,7 +43,14 @@ inheriting `valid` from the prior revision. `CMD-0001-P6` preserved that false
 pass as negative evidence, added typed previous-source and validation-basis
 revisions plus a source-revision-change rule, and reran the unchanged synthetic
 facts as a bounded coherence pass. The candidate remains deferred without an
-effectiveness, schema, transfer, graduation, or deployment claim.
+effectiveness, schema, transfer, graduation, or deployment claim. CAI Systemic
+Failure's later `SF-CEQ-0001` counterevidence-quality falsifier then supplied
+source-pinned pressure distinct from P6: the P4 translation wrapper could
+accept generic alternatives as an ungraded string list. `CMD-0001-P7`
+preserves that false pass, requires each competing explanation's basis, claim
+posture, and residue effect, and keeps unsupported alternatives visible only as
+leads. The candidate remains deferred without an effectiveness, schema,
+transfer, graduation, or deployment claim.
 
 No human testing, field work, live incentive, deployment, participation,
 external action, consequential proving, or spin-out is active.

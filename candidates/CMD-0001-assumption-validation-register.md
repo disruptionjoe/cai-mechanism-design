@@ -292,3 +292,24 @@ stale or unvalidated with a possible or active contradiction.
 `dispositions/CMD-0001-P6-defer.md` records the bounded coherence pass and keeps
 the candidate admitted and deferred. The revision does not validate
 effectiveness, destination fit, transfer, graduation, or deployment.
+
+## Seventh Proving Test And Revision
+
+CAI Systemic Failure's `SF-CEQ-0001-counterevidence-quality-asymmetry.md` at
+source-owner revision `6fd348f08664a142749b0cd5e4c2697370a9284a` provides new
+source-pinned pressure on the P4 translation wrapper. Its bounded synthetic
+falsifier shows that a generic alternative can appear to be counterevidence
+without a source context, synthetic basis, claim posture, or stated effect on
+the apparent residue.
+
+`proving/CMD-0001-P7-counterevidence-quality-test.md` freezes that generic-
+alternative trace without adding a source fact or a new source revision. The
+test asks whether the wrapper refuses ungraded strings and keeps unsupported
+alternatives visible as leads rather than silently treating them as absorbers.
+
+`proving/CMD-0001-P7-counterevidence-quality-score.md` preserves the baseline
+false pass, then requires each competing explanation to declare a basis, claim
+posture, and residue effect. `not_available` basis can only be `lead_only`.
+`dispositions/CMD-0001-P7-defer.md` records the bounded pass and keeps the
+candidate deferred; it does not validate effectiveness, destination fit,
+transfer, graduation, or deployment.

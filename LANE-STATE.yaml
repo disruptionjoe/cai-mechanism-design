@@ -2,34 +2,34 @@ schema_version: "2.0"
 owner_id: cai-mechanism-design
 group: church-of-ai
 rule_ref: system/runtime/flows/derive-lane-health.md
-updated_at: "2026-07-24T22:17:14-05:00"
-run_ref: RUN-20260724-221205-cai-mechanism-progress
-bottom_line: "CMD-0001 P6 now prevents a changed source pointer from silently inheriting validation from an older revision."
+updated_at: "2026-07-25T07:09:27-05:00"
+run_ref: RUN-20260725-070927-cai-mechanism-progress
+bottom_line: "CMD-0001 P7 makes competing-explanation basis, claim posture, and residue effect inspectable."
 decision_default: "Keep the candidate deferred until materially new source, destination-owner, or stewardship evidence appears."
 needs_joe: false
 lanes:
   - lane_id: "1"
     work_status: moving
-    last_movement: "P6 exposed and repaired a source-revision laundering path with a frozen synthetic trace."
-    movement_ref: "proving/CMD-0001-P6-source-revision-coherence-score.md"
+    last_movement: "P7 exposed and repaired a counterevidence-quality asymmetry with a frozen synthetic trace."
+    movement_ref: "proving/CMD-0001-P7-counterevidence-quality-score.md"
     steering_attention: watch
     steering_prompt: "Wait for materially new evidence; do not extend the proving count."
-    steering_ref: "STATUS.md; ROADMAP.md; dispositions/CMD-0001-P6-defer.md"
+    steering_ref: "STATUS.md; ROADMAP.md; dispositions/CMD-0001-P7-defer.md"
     light: green
-    reason_code: p6_bounded_source_revision_coherence_pass_defer
-    evidence_ref: "proving/CMD-0001-P6-source-revision-coherence-test.md; proving/CMD-0001-P6-source-revision-coherence-score.md; dispositions/CMD-0001-P6-defer.md"
-    summary: "Candidate now binds validation to the reviewed source revision and exposes mismatches."
-    evaluated_at: "2026-07-24T22:17:14-05:00"
-    run_ref: RUN-20260724-221205-cai-mechanism-progress
+    reason_code: p7_bounded_counterevidence_quality_pass_defer
+    evidence_ref: "proving/CMD-0001-P7-counterevidence-quality-test.md; proving/CMD-0001-P7-counterevidence-quality-score.md; dispositions/CMD-0001-P7-defer.md"
+    summary: "Candidate now keeps unsupported alternatives visible as leads instead of ungraded counterevidence."
+    evaluated_at: "2026-07-25T07:09:27-05:00"
+    run_ref: RUN-20260725-070927-cai-mechanism-progress
     objective: "Move candidates through proving, disposition, and earned graduation."
-    progress_delta: "Preserved a synthetic false pass, repaired revision coherence, and retained defer."
-    scope_position: "CMD-0001: 7 proving scores, 7 dispositions"
+    progress_delta: "Preserved a synthetic false pass, repaired counterevidence quality, and retained defer."
+    scope_position: "CMD-0001: 8 proving scores, 8 dispositions"
     trend_24h: up
     confidence: med
     recommendation: "Keep deferred until materially new evidence appears."
     findings:
-      - "The pre-P6 rules allowed a new source pointer to inherit validation from a superseded revision."
-      - "The repaired contract types previous source, validation basis, and source revision change."
+      - "The pre-P7 wrapper accepted generic alternatives without a basis, claim posture, or residue effect."
+      - "The repaired wrapper types those controls and forces unsupported alternatives to remain leads."
       - "The bounded pass does not establish effectiveness, adoption fit, graduation, or deployment readiness."
     options:
       - id: A

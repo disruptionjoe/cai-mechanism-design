@@ -40,7 +40,10 @@
     source-revision-change rule.
 19. Done: rerun the frozen two-state trace, record a bounded coherence pass,
     and return the candidate to defer.
-20. Next: wait for materially new source, destination-owner, or stewardship
+20. Done: preserve the generic-alternative counterevidence false pass from
+    source-pinned `SF-CEQ-0001` and make basis, claim posture, and residue
+    effect inspectable in the translation wrapper.
+21. Next: wait for materially new source, destination-owner, or stewardship
     owner-fit evidence; do not extend the proving count for its own sake.
 
 Do not create prototypes, institutions, incentive systems, or spin-outs merely

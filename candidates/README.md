@@ -9,6 +9,6 @@ and intended disposition. Existing-owner fit defeats admission here.
 
 - `CMD-0001-assumption-validation-register.md` - synthetic-only source-
   preserving assumption-drift register derived from CAI Systemic Failure
-  inquiry `SFQ-0001`; P6 exposed and repaired a source-revision laundering
-  path by binding validation status to the revision actually reviewed, then
-  returned the candidate to defer without stronger disposition.
+  inquiry `SFQ-0001`; P7 closes a counterevidence-quality asymmetry by making
+  each competing explanation's basis, claim posture, and residue effect
+  inspectable, then returns the candidate to defer without stronger disposition.

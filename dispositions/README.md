@@ -6,8 +6,8 @@ prototype does not override safety, legitimacy, source uncertainty, or owner con
 
 ## Current Disposition
 
-- `CMD-0001-P6-defer.md` - the frozen synthetic revision trace exposes and
-  repairs source-validation laundering; candidate remains admitted and
+- `CMD-0001-P7-defer.md` - the frozen generic-alternative trace exposes and
+  repairs a counterevidence-quality asymmetry; candidate remains admitted and
   deferred without an effectiveness, destination-fit, or deployment claim.
 
 ## Prior Dispositions
@@ -27,3 +27,5 @@ prototype does not override safety, legitimacy, source uncertainty, or owner con
 - `CMD-0001-P5-defer.md` - the source-pinned five-record comparison earns a
   bounded intervention-boundary pass without absorbing domain remedies or
   authority; superseded by `CMD-0001-P6-defer.md`.
+- `CMD-0001-P6-defer.md` - the frozen synthetic revision trace repairs
+  source-validation laundering; superseded by `CMD-0001-P7-defer.md`.

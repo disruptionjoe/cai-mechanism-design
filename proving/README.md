@@ -28,6 +28,9 @@ has a standing obligation to serve as proving ground.
 - `CMD-0001-P6-source-revision-coherence-test.md` - local synthetic two-state
   trace testing whether a changed source revision can silently inherit prior
   validation.
+- `CMD-0001-P7-counterevidence-quality-test.md` - source-pinned synthetic
+  trace testing whether generic alternatives can masquerade as counterevidence
+  without an inspectable basis, claim posture, or residue effect.
 
 ## Scores
 
@@ -49,3 +52,6 @@ has a standing obligation to serve as proving ground.
 - `CMD-0001-P6-source-revision-coherence-score.md` - preserves the baseline
   false pass, adds minimal revision-coherence controls, and records a bounded
   rerun pass without an effectiveness or destination-fit claim.
+- `CMD-0001-P7-counterevidence-quality-score.md` - preserves the generic-
+  alternative false pass, types counterevidence basis, posture, and effect, and
+  records a bounded rerun pass without an effectiveness or destination-fit claim.
