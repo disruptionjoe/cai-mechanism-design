@@ -1,5 +1,5 @@
 lane_contract_version: '1.0'
-manifest_revision: 2
+manifest_revision: 3
 owner:
   owner_id: cai-mechanism-design
   display_name: CAI Mechanism Design
@@ -54,3 +54,11 @@ lanes:
 special_rules:
 - CAI-directed automation is owner-permitted only through an explicit live System grant; relationship, signal, or mailbox presence cannot activate or broaden it.
 - Graduation requires destination-owner acceptance and unresolved-risk disclosure.
+extensions:
+  operating_architecture:
+    contract_version: "1.0"
+    operating_contract_refs: ["candidates/README.md", "proving/README.md", "dispositions/README.md"]
+    work_state_refs: ["STATUS.md", "ROADMAP.md", "candidates/README.md", "proving/README.md", "dispositions/README.md", "graduations/README.md"]
+    channel_contract_refs: []
+    lane_a_portfolio_refs: ["LANE-STATE.yaml"]
+    return_contract_refs: ["candidates/README.md"]

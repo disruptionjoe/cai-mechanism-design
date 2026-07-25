@@ -55,3 +55,8 @@ has a standing obligation to serve as proving ground.
 - `CMD-0001-P7-counterevidence-quality-score.md` - preserves the generic-
   alternative false pass, types counterevidence basis, posture, and effect, and
   records a bounded rerun pass without an effectiveness or destination-fit claim.
+
+Each proving result returns to the owning candidate with the tested assumption,
+evidence grade, absorber or failure, residual uncertainty, and permitted next
+disposition. A bounded pass does not establish effectiveness, destination fit,
+authority, deployment readiness, or external outcome.

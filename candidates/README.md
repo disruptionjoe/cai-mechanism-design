@@ -12,3 +12,10 @@ and intended disposition. Existing-owner fit defeats admission here.
   inquiry `SFQ-0001`; P7 closes a counterevidence-quality asymmetry by making
   each competing explanation's basis, claim posture, and residue effect
   inspectable, then returns the candidate to defer without stronger disposition.
+
+## Operating path
+
+Candidates move through inquiry acceptance, divergent mechanism design,
+instantiation, proving, and dispose-or-graduate. Candidate, formal, simulation,
+and adversarial work remain evidence-typed treatments rather than automatic
+status changes.

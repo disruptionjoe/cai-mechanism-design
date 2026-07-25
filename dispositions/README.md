@@ -29,3 +29,8 @@ prototype does not override safety, legitimacy, source uncertainty, or owner con
   authority; superseded by `CMD-0001-P6-defer.md`.
 - `CMD-0001-P6-defer.md` - the frozen synthetic revision trace repairs
   source-validation laundering; superseded by `CMD-0001-P7-defer.md`.
+
+Lane A keeps candidate phase, proving obligations, destination fit, and open
+returns coherent. Graduation closes only when the destination owner accepts the
+candidate and unresolved risk is disclosed; defer and reject remain valid
+evidence-backed outcomes.
