@@ -6,9 +6,9 @@ prototype does not override safety, legitimacy, source uncertainty, or owner con
 
 ## Current Disposition
 
-- `CMD-0001-P5-defer.md` - the source-pinned five-record comparison earns a
-  bounded intervention-boundary pass; candidate remains admitted and deferred
-  without absorbing domain remedies or authority.
+- `CMD-0001-P6-defer.md` - the frozen synthetic revision trace exposes and
+  repairs source-validation laundering; candidate remains admitted and
+  deferred without an effectiveness, destination-fit, or deployment claim.
 
 ## Prior Dispositions
 
@@ -24,3 +24,6 @@ prototype does not override safety, legitimacy, source uncertainty, or owner con
   `CMD-0001-P4-defer.md` after the bounded rerun pass.
 - `CMD-0001-P4-defer.md` - the frozen P4 fixture earns a bounded translation
   pass after the wrapper repair; superseded by `CMD-0001-P5-defer.md`.
+- `CMD-0001-P5-defer.md` - the source-pinned five-record comparison earns a
+  bounded intervention-boundary pass without absorbing domain remedies or
+  authority; superseded by `CMD-0001-P6-defer.md`.

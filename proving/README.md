@@ -25,6 +25,9 @@ has a standing obligation to serve as proving ground.
 - `CMD-0001-P5-intervention-boundary-absorption-test.md` - source-pinned
   hostile translation test using CAI Systemic Failure's bounded five-record
   intervention comparison without importing a domain remedy.
+- `CMD-0001-P6-source-revision-coherence-test.md` - local synthetic two-state
+  trace testing whether a changed source revision can silently inherit prior
+  validation.
 
 ## Scores
 
@@ -43,3 +46,6 @@ has a standing obligation to serve as proving ground.
   current candidate preserves the narrow cross-record residue while refusing a
   transferable intervention, domain-remedy absorption, and central-review
   capture.
+- `CMD-0001-P6-source-revision-coherence-score.md` - preserves the baseline
+  false pass, adds minimal revision-coherence controls, and records a bounded
+  rerun pass without an effectiveness or destination-fit claim.

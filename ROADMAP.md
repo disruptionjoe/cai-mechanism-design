@@ -33,7 +33,14 @@
 16. Done: score P5 as a bounded boundary pass and defer because the candidate
     preserves narrow owner-routed visibility while refusing domain-remedy
     absorption and central-review capture.
-17. Next: wait for materially new source, destination-owner, or stewardship
+17. Done: audit the typed register's own source-transition rules and preserve
+    the synthetic false pass in which a new source pointer inherits old
+    validation.
+18. Done: add minimal previous-source and validation-basis fields plus a typed
+    source-revision-change rule.
+19. Done: rerun the frozen two-state trace, record a bounded coherence pass,
+    and return the candidate to defer.
+20. Next: wait for materially new source, destination-owner, or stewardship
     owner-fit evidence; do not extend the proving count for its own sake.
 
 Do not create prototypes, institutions, incentive systems, or spin-outs merely

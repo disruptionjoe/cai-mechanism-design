@@ -1,6 +1,6 @@
 ---
 candidate_id: CMD-0001
-status: admitted_deferred_after_p5_bounded_intervention_boundary_pass
+status: admitted_deferred_after_p6_bounded_revision_coherence_pass
 lane: "1"
 source_inquiry: cai-systemic-failure/SFQ-0001
 source_inquiry_revision: f9784d7484de8f0a5cfe3344ca923a77ba1d8ea8
@@ -116,12 +116,14 @@ but it cannot substitute for these typed fields.
 | Field | Required type | Paperwork-theater guard |
 |---|---|---|
 | `assumption_id` | stable identifier | No row can be scored without a traceable assumption. |
+| `previous_source_revision` | prior source pointer or `initial` | A changed source cannot erase the revision it superseded. |
 | `source_revision` | source pointer or synthetic fixture revision | "Reviewed" is invalid without a source revision. |
+| `validation_basis_revision` | source revision actually reviewed or `not_validated` | `valid` cannot silently carry forward from an older source revision. |
 | `assumption_owner` | named role or owner class | The assumption cannot be ownerless. |
 | `review_owner` | named role or owner class | The review owner must differ from a generic central reviewer unless justified. |
 | `affected_system` | bounded system or interface | A record cannot hide the system affected by the assumption. |
 | `affected_party_standing` | user, operator, reviewer, exposed party, or synthetic analogue | The record must preserve who carries downstream risk. |
-| `change_event_type` | changed function, changed input path, changed environment, delegated review change, observation gap, or none | A material change cannot be buried in prose. |
+| `change_event_type` | source revision change, changed function, changed input path, changed environment, delegated review change, observation gap, or none | A material change cannot be buried in prose. |
 | `change_event_source` | source pointer or synthetic row | Drift must tie back to a specific event. |
 | `validation_environment` | baseline, changed alert/workload, changed operating environment, changed observation environment, or unknown | The environment cannot be silently inherited. |
 | `validation_status` | valid, unvalidated, contradicted, stale, not_applicable, or unknown | A stale assumption cannot pass as valid by omission. |
@@ -134,6 +136,18 @@ but it cannot substitute for these typed fields.
 
 - A row with `change_event_type` other than `none` must re-evaluate
   `validation_status`.
+- A row whose `source_revision` differs from `previous_source_revision` must
+  use `change_event_type: source_revision_change`, unless
+  `previous_source_revision: initial`.
+- `previous_source_revision: initial` is valid only on the first recorded state
+  of an `assumption_id`; every later state must name that assumption's
+  immediately preceding `source_revision`.
+- `validation_status: valid` is permitted only when
+  `validation_basis_revision` equals `source_revision`.
+- When `validation_basis_revision` differs from `source_revision`, the row must
+  set `validation_status` to `stale` or `unvalidated`, expose
+  `contradiction_flag: possible` or `active`, and retain a lowest-fitting owner
+  plus correction or stop route.
 - A row with `validation_status: contradicted`, `stale`, or `unknown` must set
   `contradiction_flag` to `possible` or `active` unless a source-backed
   resolution exists.
@@ -260,3 +274,21 @@ only source-backed owner-routed visibility.
 `dispositions/CMD-0001-P5-defer.md` keeps the candidate admitted and deferred.
 The score does not prove effectiveness, validate deployment, accept a schema,
 or authorize transfer, graduation, or consequential proving.
+
+## Sixth Proving Test And Revision
+
+`proving/CMD-0001-P6-source-revision-coherence-test.md` freezes a two-state
+synthetic trace in which R1 was validated, R2 becomes current, and no R2
+validation occurs. The pre-P6 typed rules falsely accept a state-B row with
+`source_revision: P6-SOURCE-R2`, `validation_status: valid`, and
+`change_event_type: none`.
+
+`proving/CMD-0001-P6-source-revision-coherence-score.md` preserves that negative
+evidence, adds the minimal `previous_source_revision` and
+`validation_basis_revision` fields plus the `source_revision_change` event,
+and reruns the same facts. The repaired row must expose the R1/R2 mismatch as
+stale or unvalidated with a possible or active contradiction.
+
+`dispositions/CMD-0001-P6-defer.md` records the bounded coherence pass and keeps
+the candidate admitted and deferred. The revision does not validate
+effectiveness, destination fit, transfer, graduation, or deployment.

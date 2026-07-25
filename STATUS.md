@@ -38,7 +38,12 @@ stop route while each domain retains remedy authority. `CMD-0001-P5` scored the
 current candidate as a bounded intervention-boundary pass because it refuses a
 transferable intervention, domain-remedy absorption, generic central-review
 capture, and silent reuse after source change. The candidate remains deferred
-without an effectiveness, schema, transfer, graduation, or deployment claim.
+but its own typed rules still allowed a source pointer to advance while
+inheriting `valid` from the prior revision. `CMD-0001-P6` preserved that false
+pass as negative evidence, added typed previous-source and validation-basis
+revisions plus a source-revision-change rule, and reran the unchanged synthetic
+facts as a bounded coherence pass. The candidate remains deferred without an
+effectiveness, schema, transfer, graduation, or deployment claim.
 
 No human testing, field work, live incentive, deployment, participation,
 external action, consequential proving, or spin-out is active.
