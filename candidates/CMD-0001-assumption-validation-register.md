@@ -1,6 +1,6 @@
 ---
 candidate_id: CMD-0001
-status: admitted_deferred_after_p6_bounded_revision_coherence_pass
+status: admitted_deferred_after_p7_bounded_counterevidence_quality_pass
 lane: "1"
 source_inquiry: cai-systemic-failure/SFQ-0001
 source_inquiry_revision: f9784d7484de8f0a5cfe3344ca923a77ba1d8ea8

@@ -27,6 +27,19 @@ def main() -> None:
     p7_score = read("proving/CMD-0001-P7-counterevidence-quality-score.md")
     p7_disposition = read("dispositions/CMD-0001-P7-defer.md")
 
+    # Candidate metadata must name the latest bounded disposition, not a
+    # superseded proving state that happens to retain the same defer posture.
+    require(
+        candidate,
+        "status: admitted_deferred_after_p7_bounded_counterevidence_quality_pass",
+        "candidate register",
+    )
+    require(
+        p7_disposition,
+        "Keep `CMD-0001` admitted and deferred after this bounded pass.",
+        "P7 defer disposition",
+    )
+
     # A changed source must not inherit an earlier validation silently.
     for control in (
         "previous_source_revision",
