@@ -78,3 +78,7 @@ authority, deployment readiness, or external outcome.
   trace, score, evidence package, residual uncertainty, correction, and bounded
   disposition support to the result owner without planning, executing, scoring,
   accepting, or dispositioning the work.
+- `PROVING-AUTHORIZATION-DECISION-TEMPLATE.md` prepares one exact decision on a
+  frozen proving request and plan with least-consequence, actor, authority,
+  affected-party, data, stop, deviation, correction, rollback, and handoff
+  controls; preparation alone creates no grant or execution authority.
