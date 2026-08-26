@@ -1,6 +1,6 @@
 # Mechanism Design mixed-model operating cycle
 
-Status: `ready_dormant`
+Status: `operational_pilot`
 
 One Frontier Repository Operating Cycle composes the existing read-only
 Repository Observation, Systemic Repository Stewardship, and conditional
@@ -52,10 +52,21 @@ graduation; and no human, field, institutional, incentive, consequential,
 account, publication, deployment, or other external action is authorized by a
 packet or local response.
 
-## Current wake
+## Live cadence and learning
 
-The interface is ready, but no local or Frontier schedule is activated by this
-change. Wake when Repository Observation or direct owner direction supplies
-one exact bounded work item that survives current `CMD-0001` defer and owner-
-fit rules. Prepare the packet and activate the corresponding slot in the same
-governed effect; do not add a separate readiness test.
+- minute 00: candidate-work local packet;
+- minute 12: hourly Frontier Repository Operating Cycle;
+- minute 30: proving-work local packet; and
+- minute 25 every four hours: shared cross-repository leverage review.
+
+The Frontier cycle consumes the completed minute-30 attempt from the prior
+hour and the completed minute-00 attempt from the current hour. Attempts that
+finish after its frozen boundary belong to the next cycle. The shared review
+reads sealed contribution evidence for both Mechanism Design and System
+Failures, maintains separate cursors, and recommends only the smallest future
+packet-authoring adjustment. It cannot edit active prompts, integrate work, or
+reinterpret target truth.
+
+Learn from real integrated owner effects. Do not add a separate readiness test
+or count an emitted artifact, a duplicate, a receipt, packet preparation, or
+`nothing to do` as Progress.
