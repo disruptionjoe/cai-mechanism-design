@@ -82,3 +82,7 @@ authority, deployment readiness, or external outcome.
   frozen proving request and plan with least-consequence, actor, authority,
   affected-party, data, stop, deviation, correction, rollback, and handoff
   controls; preparation alone creates no grant or execution authority.
+- `PROVING-EXECUTION-REQUEST-TEMPLATE.md` prepares one exact treatment request
+  against a frozen plan with least-consequence, requested-authority,
+  affected-party, data, stop, correction, recovery, and handoff controls; the
+  request and its acknowledgment create no grant or execution authority.

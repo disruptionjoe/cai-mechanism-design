@@ -12,3 +12,8 @@ transfer plan. No destination acceptance means no graduation.
   unresolved-risk, correction, revocation, and explicit non-effect controls;
   completing it does not create acceptance, graduation, transfer, contact,
   deployment, publication, or external action.
+- `GRADUATION-TRANSFER-PLAN-TEMPLATE.md` prepares one accepted-scope and
+  custody-bound transfer sequence with reversible gates, affected-party, risk,
+  correction, recovery, revocation, and explicit non-effect controls; plan
+  preparation cannot create acceptance, graduation, transfer, contact,
+  operation, deployment, publication, or external action.
