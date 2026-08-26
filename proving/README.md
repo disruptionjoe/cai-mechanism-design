@@ -60,3 +60,9 @@ Each proving result returns to the owning candidate with the tested assumption,
 evidence grade, absorber or failure, residual uncertainty, and permitted next
 disposition. A bounded pass does not establish effectiveness, destination fit,
 authority, deployment readiness, or external outcome.
+
+## Process artifacts
+
+- `LEAST-CONSEQUENTIAL-PROVING-PLAN-TEMPLATE.md` prepares a bounded proving plan
+  with explicit evidence, falsifier, affected-party, data, stop, correction,
+  conclusion, and return controls; it does not authorize test execution.
