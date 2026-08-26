@@ -1,107 +1,94 @@
-# Draft a candidate-disposition decision template
+# Draft a graduation-proposal template
 
 ## Boundary
 
 Write one complete reusable Mechanism Design process artifact from only the
-embedded evidence. Do not kill, revise, defer, transfer, graduate, reopen, or
-otherwise disposition a real candidate; do not invent an inquiry, owner,
-source, affected party, fact, evidence, authority, date, decision, or result;
-do not modify `CMD-0001`; and do not authorize contact, research, testing,
-transfer, graduation, deployment, or external action. The artifact is a
-candidate template for Frontier verification. External action is `none`.
+embedded evidence. Do not graduate, transfer, contact, send, publish, deploy,
+or otherwise act on a real candidate; do not invent an inquiry, candidate,
+destination owner, affected party, fact, acceptance, authority, risk, date,
+decision, or result; do not modify or reopen `CMD-0001`; and do not authorize
+research, testing, transfer, graduation, deployment, or external action. The
+artifact is a candidate template for Frontier verification. External action is `none`.
 
 ## Evidence
 
 <evidence path="GOVERNANCE.md">
-Joe is the current owner and decision authority. A candidate needs a source
-inquiry, owner-fit rationale, theory of change, alternatives, evidence route,
-affected-party and legitimacy analysis, stops, correction path, and intended
-disposition. Existing-owner fit defeats admission here. Human, field,
-institutional, incentive, consequential, account, publication, and deployment
-actions remain separately gated.
+Joe is the current owner and decision authority. Existing-owner fit defeats
+admission here. Human, field, institutional, incentive, consequential, account,
+publication, and deployment actions remain separately gated.
 </evidence>
 
-<evidence path="candidates/README.md">
-Candidate, formal, simulation, and adversarial work remain evidence-typed
-treatments rather than automatic status changes. No action must remain among
-the alternatives.
+<evidence path="graduations/README.md">
+Graduation requires an earned fit with a destination owner that accepts the
+work and its unresolved risks. Graduation is not deployment permission.
 </evidence>
 
-<evidence path="candidates/MECHANISM-ALTERNATIVE-MAP-TEMPLATE.md">
-A map preserves exact source and candidate revisions, no action, materially
-different mechanisms, owner routes, causal steps, evidence and counterevidence,
-affected-party standing, legitimacy, stops, correction, and comparison limits.
-Its prepared return is not a candidate disposition.
-</evidence>
-
-<evidence path="proving/LEAST-CONSEQUENTIAL-PROVING-SCORE-TEMPLATE.md">
-A proving score returns one bounded result and may support only a separate
-owner disposition. A bounded pass does not establish effectiveness,
-destination fit, authority, deployment readiness, or external outcome.
+<evidence path="dispositions/CANDIDATE-DISPOSITION-DECISION-TEMPLATE.md">
+A graduation proposal is one possible prepared disposition, not graduation.
+It requires exact source and candidate revisions, negative evidence, native-
+authority and better-existing-owner checks, destination acceptance, what
+remains with Mechanism Design, unresolved risks, validation, and explicit
+non-effects.
 </evidence>
 
 <evidence path="interfaces/DESTINATION-OWNER-SYNTHETIC-REVIEW-REQUEST-TEMPLATE.md">
-Owner fit requires the proposed owner's native authority, the better-existing-
-owner test, what remains with Mechanism Design, and the evidence still missing.
-Interest or expertise alone does not prove fit. Preparing a request does not
-authorize contact or sending, and a synthetic-review response is not transfer
-or graduation acceptance.
+A synthetic-review response is not transfer or graduation acceptance. Interest,
+expertise, relationship, or willingness to review does not establish owner fit,
+and preparing a request does not authorize contact or sending.
 </evidence>
 
-<evidence path="dispositions/README.md">
-Every candidate ends in kill, revise, defer, transfer, or propose graduation.
-Preserve negative evidence and reasons. A clean artifact does not override
-safety, legitimacy, source uncertainty, or owner consent. Graduation requires
-destination-owner acceptance and unresolved-risk disclosure.
+<evidence path="proving/PROVING-RESULT-RETURN-TEMPLATE.md">
+A proving return preserves the exact plan, authorized trace, score, evidence,
+counterevidence, standing, residual uncertainty, correction, recovery, and
+bounded disposition support. A bounded pass does not establish effectiveness,
+destination fit, authority, deployment readiness, or external outcome.
 </evidence>
 
 <evidence path="ROADMAP.md">
 CMD-0001 remains deferred until materially new source, destination-owner, or
-stewardship owner-fit evidence appears. Do not extend its proving count for its
-own sake. This is a boundary example only; do not reopen CMD-0001.
+stewardship owner-fit evidence appears. This is a boundary example only; do not
+reopen or graduate CMD-0001.
 </evidence>
 
 ## Work now
 
 Draft the finished Markdown artifact
-`dispositions/CANDIDATE-DISPOSITION-DECISION-TEMPLATE.md` with exactly these
-sections:
+`graduations/GRADUATION-PROPOSAL-TEMPLATE.md` with exactly these sections:
 
-1. YAML frontmatter with
-   `artifact_type: candidate_disposition_decision_template`,
+1. YAML frontmatter with `artifact_type: candidate_graduation_proposal_template`,
    `status: candidate_process_artifact`, and `external_action: none`.
-2. `# Candidate Disposition Decision Template`.
-3. `## Use Boundary` separating decision preparation from a real disposition,
-   owner acceptance, contact, transfer, graduation, deployment, or action.
-4. `## Decision Header` with fillable rows for `decision_id`, `candidate_id`,
-   `candidate_revision`, `source_inquiry`, `source_revision`, `decision_owner`,
-   `authorization_ref`, `decided_by`, `decided_at`, and `external_action`.
-5. `## Frozen Candidate And Evidence` requiring exact candidate, inquiry,
-   alternative map, proving plans, execution traces, scores, validation,
-   current disposition, and prohibited inference.
-6. `## Available Dispositions` defining exactly `kill`, `revise`, `defer`,
-   `transfer`, and `propose_graduation` without treating any as automatic.
-7. `## Decision Basis` requiring theory-of-change status, alternatives including
-   no action, evidence and counterevidence, residual uncertainty, owner fit,
-   nonduplication, and permitted conclusions.
-8. `## Negative Evidence And Reasons` requiring durable adverse evidence,
-   failed or absorbed paths, reasons, supersession status, and preservation
-   pointer.
-9. `## Owner Fit, Transfer, And Graduation Boundary` requiring native authority,
-   better-existing-owner result, destination acceptance, what remains with
-   Mechanism Design, unresolved risks, and missing evidence.
-10. `## Affected Parties And Legitimacy` requiring standing, risk bearers,
-    representation limits, capture risks, consent or authority gaps, and who
-    cannot be spoken for.
-11. `## Stops, Correction, Recovery, And Reopen` requiring stop and kill
-    conditions, correction owner, rollback or recovery, exact reopen condition,
-    and prohibited action.
-12. `## Prepared Decision` requiring exactly one available disposition,
-    evidence-bound rationale, owner effect proposed, explicit non-effects,
-    next owner, validation, and exact next wake; preparation must not execute
-    the disposition.
-13. `## Frontier Verification` listing only the checks Frontier must perform
-    before integrating the template or making a disposition with it.
+2. `# Candidate Graduation Proposal Template`.
+3. `## Use Boundary` separating proposal preparation from acceptance,
+   graduation, transfer, contact, deployment, publication, or action.
+4. `## Proposal Header` with fillable rows for `proposal_id`, `candidate_id`,
+   `candidate_revision`, `source_inquiry`, `source_revision`,
+   `proposing_owner`, `proposed_destination_owner`, `authorization_ref`,
+   `prepared_by`, `prepared_at`, and `external_action`.
+5. `## Frozen Graduation Package` requiring exact candidate, inquiry,
+   disposition, alternative map, proving returns, negative evidence,
+   validation, and prohibited inference.
+6. `## Earned Graduation Case` requiring theory of change, bounded evidence,
+   counterevidence, residual uncertainty, nonduplication, and why continued
+   incubation, no action, revision, defer, kill, or transfer review is weaker.
+7. `## Destination-Owner Fit And Acceptance` requiring native authority,
+   better-existing-owner result, exact scope proposed, acceptance state,
+   acceptance evidence, missing evidence, and what remains with Mechanism
+   Design; interest or synthetic review must not count as acceptance.
+8. `## Affected Parties And Legitimacy` requiring standing, risk bearers,
+   representation limits, capture risks, consent or authority gaps, and who
+   cannot be spoken for.
+9. `## Unresolved Risks And Negative Evidence` requiring durable adverse
+   evidence, risk allocation, disclosure pointer, supersession status, and
+   risks the destination owner must explicitly accept.
+10. `## Stops, Correction, Recovery, And Revocation` requiring stop and
+    revocation conditions, correction owner, rollback or recovery, return
+    boundary, and prohibited action.
+11. `## Prepared Proposal` requiring proposed owner effect, explicit non-effects,
+    validation, next owner, exact next wake, and one state from
+    `ready_for_owner_review`, `request_revision`, `defer`, `reject`, or
+    `needs_judgment`; preparation must not graduate the candidate.
+12. `## Frontier Verification` listing only the checks Frontier must perform
+    before integrating the template or a proposal made with it.
 
 Use clear fillable labels such as `[required: ...]`.
 

@@ -34,3 +34,12 @@ Lane A keeps candidate phase, proving obligations, destination fit, and open
 returns coherent. Graduation closes only when the destination owner accepts the
 candidate and unresolved risk is disclosed; defer and reject remain valid
 evidence-backed outcomes.
+
+## Process artifacts
+
+- `CANDIDATE-DISPOSITION-DECISION-TEMPLATE.md` prepares one source- and
+  revision-bound kill, revise, defer, transfer, or graduation-proposal decision
+  with negative-evidence, owner-fit, affected-party, legitimacy, stop,
+  correction, recovery, and authority controls; completing it does not execute
+  a disposition or authorize contact, transfer, graduation, deployment, or
+  external action.

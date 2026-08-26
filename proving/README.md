@@ -74,3 +74,7 @@ authority, deployment readiness, or external outcome.
   as evidence-linked chronological events, stops, deviations, data and
   legitimacy effects, correction, recovery, and a score-return package without
   scoring the trace or choosing a candidate disposition.
+- `PROVING-RESULT-RETURN-TEMPLATE.md` returns one completed plan, authorized
+  trace, score, evidence package, residual uncertainty, correction, and bounded
+  disposition support to the result owner without planning, executing, scoring,
+  accepting, or dispositioning the work.
