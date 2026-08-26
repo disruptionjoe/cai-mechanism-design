@@ -66,3 +66,7 @@ authority, deployment readiness, or external outcome.
 - `LEAST-CONSEQUENTIAL-PROVING-PLAN-TEMPLATE.md` prepares a bounded proving plan
   with explicit evidence, falsifier, affected-party, data, stop, correction,
   conclusion, and return controls; it does not authorize test execution.
+- `LEAST-CONSEQUENTIAL-PROVING-SCORE-TEMPLATE.md` scores one exactly authorized
+  trace against its frozen plan, separates the bounded result from the later
+  owner disposition, and preserves counterevidence, legitimacy, correction,
+  recovery, and prohibited-conclusion boundaries.

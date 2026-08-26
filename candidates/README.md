@@ -19,3 +19,10 @@ Candidates move through inquiry acceptance, divergent mechanism design,
 instantiation, proving, and dispose-or-graduate. Candidate, formal, simulation,
 and adversarial work remain evidence-typed treatments rather than automatic
 status changes.
+
+## Process artifacts
+
+- `CANDIDATE-ADMISSION-DECISION-TEMPLATE.md` prepares a source-bound admission
+  decision with owner fit, alternatives including no action, evidence,
+  affected-party legitimacy, stops, correction, and explicit authority limits;
+  completing it does not admit or disposition a candidate.
