@@ -26,3 +26,7 @@ status changes.
   decision with owner fit, alternatives including no action, evidence,
   affected-party legitimacy, stops, correction, and explicit authority limits;
   completing it does not admit or disposition a candidate.
+- `MECHANISM-ALTERNATIVE-MAP-TEMPLATE.md` preserves no action and materially
+  different mechanisms with explicit owner routes, causal steps, evidence,
+  legitimacy, stops, correction, nonduplication, and comparison boundaries;
+  completing it does not rank, admit, or disposition a candidate.
