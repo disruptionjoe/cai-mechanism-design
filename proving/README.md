@@ -86,3 +86,6 @@ authority, deployment readiness, or external outcome.
   against a frozen plan with least-consequence, requested-authority,
   affected-party, data, stop, correction, recovery, and handoff controls; the
   request and its acknowledgment create no grant or execution authority.
+- `PROVING-EXECUTION-REQUEST-BOUNDARY-FIXTURE.md` applies that template to a
+  frozen synthetic request and keeps missing authorization as a pre-start stop
+  without claiming execution, observation, score, candidate evidence, or P8.

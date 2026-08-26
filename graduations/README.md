@@ -17,3 +17,7 @@ transfer plan. No destination acceptance means no graduation.
   correction, recovery, revocation, and explicit non-effect controls; plan
   preparation cannot create acceptance, graduation, transfer, contact,
   operation, deployment, publication, or external action.
+- `GRADUATION-TRANSFER-PLAN-BOUNDARY-FIXTURE.md` applies that template to a
+  frozen synthetic pending-acceptance case and preserves empty accepted scope,
+  source custody, missing authority, retained risk, and a `defer` state without
+  creating contact, transfer, or graduation.
