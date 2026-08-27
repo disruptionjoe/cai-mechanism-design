@@ -111,6 +111,12 @@ authority, deployment readiness, or external outcome.
   replacement fails its immutable checksum; coverage cannot manufacture valid
   replacement evidence, so the score remains `unresolved` with `defer` support
   and creates no disposition authority or P8.
+- `LEAST-CONSEQUENTIAL-PROVING-SCORE-STALE-SUPERSESSION-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves complete exact coverage and two valid `equal` replacements while
+  the supersession signer's authority applies only to source revision r1; the
+  unchanged r2 originals remain unsuperseded and conflicting, so the result
+  stays `unresolved` with `defer` support and creates no disposition authority
+  or P8.
 - `PROVING-EXECUTION-TRACE-TEMPLATE.md` records one exactly authorized treatment
   as evidence-linked chronological events, stops, deviations, data and
   legitimacy effects, correction, recovery, and a score-return package without
