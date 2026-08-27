@@ -86,8 +86,3 @@ status changes.
   handoff while keeping the materially distinct dominated route visible and
   refusing to treat selection as destination-owner acceptance, route opening,
   admission, disposition, execution, or external-action authority.
-- `MECHANISM-ALTERNATIVE-MAP-ACCEPTED-ROUTE-NO-EXECUTION-AUTHORITY-BOUNDARY-FIXTURE.md`
-  preserves later destination-owner acceptance of that selected pointer for
-  one owner-controlled intake while keeping acceptance separate from contact,
-  route opening, sending, intake execution, admission, disposition, and
-  external-action authority.
