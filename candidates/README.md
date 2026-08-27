@@ -70,3 +70,9 @@ status changes.
   retains no action and returns `defer` without inventing probabilities,
   expected value, an overall winner, owner fit, admission, disposition,
   routing, or external action.
+- `MECHANISM-ALTERNATIVE-MAP-REVISION-SCOPED-DOMINANCE-BOUNDARY-FIXTURE.md`
+  preserves an r1 immediate-route dominance record as historical evidence
+  while refusing to apply it to a changed r2 source whose owner-condition
+  status requires a fresh record; it retains no action and returns `defer`
+  without inherited comparison, route, admission, disposition, or external
+  authority.
