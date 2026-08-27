@@ -111,3 +111,9 @@ status changes.
   and receipt, marks all three one-use grants consumed, and holds the route at
   `delivered_not_acknowledged` without inventing acknowledgment, content copy,
   intake, admission, disposition, owner effect, or external action.
+- `MECHANISM-ALTERNATIVE-MAP-ACKNOWLEDGED-ROUTE-NO-INTAKE-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves one separately authorized synthetic acknowledgment with a valid
+  trace and receipt, marks all four one-use grants consumed, and holds the
+  route at `acknowledged_not_intaken` without inventing content copy, intake,
+  candidate admission, disposition, result acceptance, owner effect, or
+  external action.

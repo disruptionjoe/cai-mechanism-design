@@ -138,6 +138,11 @@ authority, deployment readiness, or external outcome.
   then adds a distinct future-only regrant and one authorized but evidence-
   effect-redundant record; surviving evidence remains all-`equal`, so the
   bounded result is `bounded_pass` with `defer` support and no P8.
+- `LEAST-CONSEQUENTIAL-PROVING-SCORE-POST-REGRANT-REVOCATION-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves both valid records through the distinct regrant's future-only
+  revocation, keeps the attempted post-revocation record as negative evidence,
+  and leaves the surviving evidence all-`equal` with `bounded_pass`, `defer`,
+  and no P8.
 - `PROVING-EXECUTION-TRACE-TEMPLATE.md` records one exactly authorized treatment
   as evidence-linked chronological events, stops, deviations, data and
   legitimacy effects, correction, recovery, and a score-return package without
