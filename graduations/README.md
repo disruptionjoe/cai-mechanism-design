@@ -21,3 +21,8 @@ transfer plan. No destination acceptance means no graduation.
   frozen synthetic pending-acceptance case and preserves empty accepted scope,
   source custody, missing authority, retained risk, and a `defer` state without
   creating contact, transfer, or graduation.
+- `GRADUATION-PROPOSAL-BOUNDARY-FIXTURE.md` applies the proposal template to a
+  frozen synthetic case with no alternative-map revision, proving return,
+  destination-native fit, acceptance, or transfer authority and preserves
+  source custody, correction, retained risk, and `defer` without creating
+  contact, graduation, or transfer.

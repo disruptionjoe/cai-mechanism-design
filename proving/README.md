@@ -89,3 +89,7 @@ authority, deployment readiness, or external outcome.
 - `PROVING-EXECUTION-REQUEST-BOUNDARY-FIXTURE.md` applies that template to a
   frozen synthetic request and keeps missing authorization as a pre-start stop
   without claiming execution, observation, score, candidate evidence, or P8.
+- `PROVING-AUTHORIZATION-DECISION-BOUNDARY-FIXTURE.md` applies the authorization
+  template to that frozen request, keeps every requested field non-operative,
+  and records `defer` with exact authorized effect `none` while authority,
+  decision-maker, time, and stop-authority evidence remain missing.
