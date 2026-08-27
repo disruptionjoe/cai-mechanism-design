@@ -91,3 +91,8 @@ status changes.
   one owner-controlled intake while keeping acceptance separate from contact,
   route opening, sending, intake execution, admission, disposition, and
   external-action authority.
+- `MECHANISM-ALTERNATIVE-MAP-AUTHORIZED-ROUTE-OPENING-NO-PERFORMANCE-BOUNDARY-FIXTURE.md`
+  preserves one exact route-opening grant after comparison, selection, and
+  destination acceptance while the absent trace and receipt keep the route
+  `authorized_not_opened`; it creates no contact, sending, intake execution,
+  admission, disposition, owner effect, or external action.

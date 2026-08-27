@@ -117,6 +117,11 @@ authority, deployment readiness, or external outcome.
   unchanged r2 originals remain unsuperseded and conflicting, so the result
   stays `unresolved` with `defer` support and creates no disposition authority
   or P8.
+- `LEAST-CONSEQUENTIAL-PROVING-SCORE-NONRETROACTIVE-SUPERSESSION-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves exact coverage and two valid `equal` replacements from an earlier
+  unauthorized r2 record while a later r2 grant is explicitly future-only and
+  nonretroactive; every original remains unsuperseded, the conflict survives,
+  and the result stays `unresolved` with `defer` support and no P8.
 - `PROVING-EXECUTION-TRACE-TEMPLATE.md` records one exactly authorized treatment
   as evidence-linked chronological events, stops, deviations, data and
   legitimacy effects, correction, recovery, and a score-return package without
