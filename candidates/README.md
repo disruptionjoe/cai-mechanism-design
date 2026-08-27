@@ -26,6 +26,11 @@ status changes.
   decision with owner fit, alternatives including no action, evidence,
   affected-party legitimacy, stops, correction, and explicit authority limits;
   completing it does not admit or disposition a candidate.
+- `CANDIDATE-ADMISSION-EXISTING-OWNER-BOUNDARY-FIXTURE.md` applies that
+  template to frozen synthetic evidence where exact native authority and
+  current work establish a better existing owner; it prepares
+  `route_to_existing_owner` without admitting, routing, contacting, or
+  creating an owner effect.
 - `MECHANISM-ALTERNATIVE-MAP-TEMPLATE.md` preserves no action and materially
   different mechanisms with explicit owner routes, causal steps, evidence,
   legitimacy, stops, correction, nonduplication, and comparison boundaries;

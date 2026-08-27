@@ -1,16 +1,16 @@
-# Apply the result-return template to a frozen denied-start boundary
+# Apply the result-return template to a missing-validation boundary
 
 ## Boundary
 
 Write one complete synthetic Mechanism Design process fixture from only the
-embedded evidence. Do not create a proving result or return where no authorized
-execution trace and score exist; do not authorize or execute a treatment; do
-not invent events, observations, evidence, hashes, validation, authority,
-owners, dates, results, scores, acknowledgments, or dispositions; do not create
-`CMD-0001-P8`; do not modify or reopen `CMD-0001`; and do not authorize contact,
-transfer, graduation, deployment, publication, or external action. This tests
-whether the return boundary fails closed after a denied start. External action
-is `none`.
+embedded evidence. Preserve the supplied plan, authorization, trace, and score
+as frozen inputs, but do not create or return a proving result while required
+validation is missing; do not treat a score value as an accepted return; do not
+invent events, observations, evidence, hashes, validation, authority, owners,
+dates, results, acknowledgments, or dispositions; do not create `CMD-0001-P8`;
+do not modify or reopen `CMD-0001`; and do not authorize contact, transfer,
+graduation, deployment, publication, or external action. External action is
+`none`.
 
 ## Evidence
 
@@ -21,58 +21,66 @@ authorize, execute, score, choose a candidate disposition, or create transfer,
 graduation, contact, deployment, publication, or external action.
 </evidence>
 
-<evidence path="proving/PROVING-EXECUTION-TRACE-DENIED-START-BOUNDARY-FIXTURE.md">
-Trace `SYNTH-TRACE-DENIED-001@r1` records only a failed-closed pre-start
-authority check. Exact authorized effect is `none`; no execution event,
-operation, data handling, artifact, score package, result, disposition, or P8
-exists. Last-known-good state remains immutable input `alpha`.
+<evidence path="proving/PROVING-RESULT-RETURN-DENIED-START-BOUNDARY-FIXTURE.md">
+The denied-start boundary failed closed because no authorized observed trace or
+score existed. Its denied trace remained pre-start evidence and created no
+result, disposition support, owner return, acknowledgment, or P8.
 </evidence>
 
-<evidence path="proving/PROVING-AUTHORIZATION-DECISION-BOUNDARY-FIXTURE.md">
-Request `SYNTH-REQ-001` remains `defer`. Authority evidence, authorized
-decision-maker, decision time, stop-authority rule, and operative grant are
-missing or unresolved. The proposed actor and treatment remain non-operative.
-</evidence>
-
-<evidence fixture="SYNTHETIC-DENIED-RETURN-BOUNDARY-001-HEADER">
-Return record `SYNTH-RETURN-DENIED-001@r1` refers to proving plan
-`SYNTH-PROVE-001@r1`, denied trace `SYNTH-TRACE-DENIED-001@r1`, candidate
-`SYNTH-CANDIDATE-REQUEST-001@r1`, source
-`SYNTH-SOURCE-REQUEST-001@r1`, and intended result owner
+<evidence fixture="SYNTHETIC-RETURN-VALIDATION-MISSING-001-HEADER">
+Return record `SYNTH-RETURN-VALIDATION-MISSING-001@r1` refers to proving plan
+`SYNTH-PROVE-VALIDATION-001@r1`, trace
+`SYNTH-TRACE-VALIDATION-001@r1`, score
+`SYNTH-SCORE-VALIDATION-001@r1`, candidate
+`SYNTH-CANDIDATE-VALIDATION-001@r1`, source
+`SYNTH-SOURCE-VALIDATION-001@r1`, and intended result owner
 `synthetic-result-owner`. Prepared by `synthetic-return-preparer` at
-`2026-08-27T01:14:29Z`. Score revision is `none`. External action is `none`.
+`2026-08-27T02:15:52Z`. External action is `none`.
 </evidence>
 
-<evidence fixture="SYNTHETIC-DENIED-RETURN-BOUNDARY-001-PACKAGE">
-Plan pointer is `synthetic://plan/SYNTH-PROVE-001@r1`; request and decision
-pointer is `synthetic://decision/SYNTH-REQ-001@defer-r1`; fixture pointer is
-`synthetic://fixture/SYNTH-REQUEST-001@r1`; trace pointer is
-`synthetic://trace/SYNTH-TRACE-DENIED-001@r1`. Content hashes, observed
-execution evidence, score, score revision, validation, operative authority,
-and result package are `none`. No tested claim, falsifier, observable failure,
-bounded-pass condition, unresolved route, or prohibited-conclusion set was
-supplied as an authorized completed package.
+<evidence fixture="SYNTHETIC-RETURN-VALIDATION-MISSING-001-PACKAGE">
+Plan pointer is `synthetic://plan/SYNTH-PROVE-VALIDATION-001@r1` with content
+identifier `synthetic-content:plan-validation-001-r1`. Authorization pointer is
+`synthetic://authorization/SYNTH-AUTH-VALIDATION-001@grant-r1` with content
+identifier `synthetic-content:authorization-validation-001-r1`. Fixture
+pointer is `synthetic://fixture/SYNTH-VALIDATION-001@r1` with content identifier
+`synthetic-content:fixture-validation-001-r1`. Trace pointer is
+`synthetic://trace/SYNTH-TRACE-VALIDATION-001@r1` with content identifier
+`synthetic-content:trace-validation-001-r1`. Score pointer is
+`synthetic://score/SYNTH-SCORE-VALIDATION-001@r1` with content identifier
+`synthetic-content:score-validation-001-r1`. Required independent validation
+pointer and validation result are `none`. No result-return package exists.
 </evidence>
 
-<evidence fixture="SYNTHETIC-DENIED-RETURN-BOUNDARY-001-GATE">
-The return gate is `failed_closed`. Required execution trace status is
-`denied_start_only`; required score status is `missing`; result state is
-`not_created`; result value is `none`; permitted disposition support is
-`none`; owner return is `not_sent`; receipt acknowledgment is
-`unacknowledged`. The denial and missing package support no bounded pass,
-revise, kill, defer-result, unresolved-result, candidate disposition, or owner
-acceptance claim.
+<evidence fixture="SYNTHETIC-RETURN-VALIDATION-MISSING-001-TRACE-SCORE">
+The frozen trace states `completed_authorized_synthetic`, no deviation, no
+real people or data, and resulting synthetic state `beta@r1`. The frozen score
+states candidate score value `bounded_pass`, synthetic evidence only, and
+prohibited conclusions of effectiveness, destination fit, authority beyond
+the frozen grant, deployment readiness, and external outcome. These are
+supplied input claims awaiting validation, not an accepted result return.
 </evidence>
 
-<evidence fixture="SYNTHETIC-DENIED-RETURN-BOUNDARY-001-CONTROLS">
-Only one synthetic reviewer role represents standing; no real person,
-institution, source owner, result owner, candidate owner, or authority owner is
-represented. Actual data handling and treatment risk are `none` because no
-execution occurred. The authority gap caused the pre-start halt. No correction,
-rollback, recovery action, result return, acknowledgment, or external action
-occurred. Available recovery is remain at immutable input `alpha`. Exact next
-wake is an immutable operative authorization plus an authorized observed trace,
-score, and validation package for this exact frozen plan.
+<evidence fixture="SYNTHETIC-RETURN-VALIDATION-MISSING-001-GATE">
+The return gate is `failed_closed`. Required trace status is
+`completed_authorized_synthetic`; required score status is `present_unvalidated`;
+required validation status is `missing`; result state is `not_created`; result
+value is `none`; permitted disposition support is `none`; owner return is
+`not_sent`; receipt acknowledgment is `unacknowledged`. Missing validation
+prevents the score value from becoming a returned result or disposition
+support.
+</evidence>
+
+<evidence fixture="SYNTHETIC-RETURN-VALIDATION-MISSING-001-CONTROLS">
+Only one synthetic reviewer role represents standing. No real person,
+institution, source owner, result owner, candidate owner, authority owner, or
+independent validator is represented. Actual data handling is synthetic input
+only; treatment risk and external action are `none`. No correction, rollback,
+recovery action, result return, acknowledgment, or external action occurred.
+Available recovery is remain at last independently validated state `alpha@r1`;
+the trace's `beta@r1` remains unvalidated input. Exact next wake is immutable
+independent validation evidence for this exact plan, authorization, fixture,
+trace, and score package.
 </evidence>
 
 <evidence path="ROADMAP.md">
@@ -83,33 +91,33 @@ candidate evidence.
 ## Work now
 
 Draft the finished Markdown artifact
-`proving/PROVING-RESULT-RETURN-DENIED-START-BOUNDARY-FIXTURE.md` with exactly
-these sections:
+`proving/PROVING-RESULT-RETURN-MISSING-VALIDATION-BOUNDARY-FIXTURE.md` with
+exactly these sections:
 
 1. YAML frontmatter with
-   `artifact_type: synthetic_proving_result_return_denied_start_boundary_fixture`,
+   `artifact_type: synthetic_proving_result_return_missing_validation_boundary_fixture`,
    `status: candidate_process_fixture`, and `external_action: none`.
-2. `# Synthetic Proving Result Return Denied-Start Boundary Fixture`.
+2. `# Synthetic Proving Result Return Missing-Validation Boundary Fixture`.
 3. `## Use Boundary`.
-4. `## Return Header` using `none` for the absent score revision.
-5. `## Frozen Result Package` preserving every supplied pointer and missing
-   required component.
-6. `## Result-Return Gate` with `failed_closed`, `not_created`, and exact missing
-   prerequisites.
-7. `## Tested Claim And Conditions` stating that no authorized completed set
-   was supplied and copying none.
-8. `## Observed Result` with result `none`; do not select one of the template's
-   result values when no trace and score support it.
+4. `## Return Header` using only supplied fixture values.
+5. `## Frozen Result Package` preserving every supplied pointer and content
+   identifier and the missing validation.
+6. `## Result-Return Gate` with `failed_closed`, `not_created`, and the exact
+   validation prerequisite.
+7. `## Tested Claim And Conditions` keeping the trace and score statements as
+   supplied unvalidated inputs.
+8. `## Observed Result` with result `none`; do not convert the score's
+   `bounded_pass` value into a returned result.
 9. `## Evidence Grade, Counterevidence, And Failure`.
 10. `## Affected-Party, Data, And Legitimacy Return`.
-11. `## Residual Uncertainty, Correction, And Recovery`.
+11. `## Residual Uncertainty, Correction, And Recovery` preserving
+    `alpha@r1` as the last independently validated state.
 12. `## Permitted Disposition Support` with support `none` and no owner
     disposition.
 13. `## Owner Return` with state `not_sent` and acknowledgment
     `unacknowledged`.
 14. `## Frontier Verification` listing only checks grounded in this fixture.
 
-Do not use fillable placeholders. Do not turn a denial record into an observed
-trace, a missing score into a result, `defer` from the authorization decision
-into a proving-result disposition, or a result-owner pointer into return or
+Do not use fillable placeholders. Do not turn an unvalidated score into a
+result, `beta@r1` into accepted state, or a result-owner pointer into return or
 acceptance. Return only the finished artifact.

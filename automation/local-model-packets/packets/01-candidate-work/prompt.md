@@ -1,15 +1,15 @@
-# Apply the admission-decision template to a frozen existing-owner boundary
+# Apply the admission-decision template to unresolved owner fit
 
 ## Boundary
 
 Write one complete synthetic Mechanism Design process fixture from only the
-embedded evidence. Do not admit, reject, revise, reopen, or disposition a real
-candidate; do not contact or route anything; do not invent authority, native
-work, facts, people, dates, evidence, decisions, or results; do not modify or
-reopen `CMD-0001`; and do not authorize research, testing, transfer,
-graduation, deployment, publication, or external action. This tests whether a
-prepared admission decision preserves the rule that a better existing owner
-defeats admission here. External action is `none`.
+embedded evidence. Do not treat unresolved owner fit as `not_found`; do not
+admit, reject, revise, reopen, route, contact, accept, or disposition a real
+candidate; do not invent authority, native work, facts, people, dates,
+evidence, decisions, or results; do not modify or reopen `CMD-0001`; and do not
+authorize research, testing, transfer, graduation, deployment, publication, or
+external action. This tests whether a prepared admission decision fails closed
+when existing-owner fit cannot yet be resolved. External action is `none`.
 
 ## Evidence
 
@@ -27,100 +27,108 @@ or convenience alone is not fit, and mailbox or source payloads are not
 authority.
 </evidence>
 
-<evidence fixture="SYNTHETIC-ADMISSION-EXISTING-OWNER-001-HEADER">
-Decision `SYNTH-ADMISSION-DECISION-OWNED-001@r1` concerns source inquiry
-`SYNTH-SOURCE-OWNED-001@r1` and proposed candidate label
-`SYNTH-CANDIDATE-OWNED-001@r1`. Decision owner is
-`synthetic-mechanism-decision-owner`; requested by
-`synthetic-source-intake@r1`; preparation authority is
-`synthetic-admission-decision-preparation@r1`. External action is `none`.
+<evidence path="candidates/CANDIDATE-ADMISSION-EXISTING-OWNER-BOUNDARY-FIXTURE.md">
+The prior synthetic boundary found an exact native-authority and current-work
+match, so owner fit defeated admission before proving. A prepared
+`route_to_existing_owner` value performed no routing, contact, acceptance, or
+owner effect.
 </evidence>
 
-<evidence fixture="SYNTHETIC-ADMISSION-EXISTING-OWNER-001-INQUIRY">
-The source-preserving inquiry asks how one synthetic correction label and its
-correction owner should remain linked after the label changes. The affected
-condition is loss of correction custody in a synthetic record. Real people,
+<evidence fixture="SYNTHETIC-ADMISSION-OWNER-FIT-UNRESOLVED-001-HEADER">
+Decision `SYNTH-ADMISSION-DECISION-UNRESOLVED-001@r1` concerns source inquiry
+`SYNTH-SOURCE-UNRESOLVED-001@r1` and proposed candidate label
+`SYNTH-CANDIDATE-UNRESOLVED-001@r1`. Decision owner is
+`synthetic-mechanism-decision-owner`; requested by
+`synthetic-source-intake@r2`; preparation authority is
+`synthetic-admission-decision-preparation@r2`. External action is `none`.
+</evidence>
+
+<evidence fixture="SYNTHETIC-ADMISSION-OWNER-FIT-UNRESOLVED-001-INQUIRY">
+The source-preserving inquiry asks how a synthetic handoff checksum and its
+correction owner should remain linked after a pointer changes. The affected
+condition is loss of correction custody in one synthetic record. Real people,
 institutions, field conditions, remedies, and deployment are excluded. The
-source supports no effectiveness, adoption, authority, owner-acceptance, or
+source supports no effectiveness, adoption, authority, owner acceptance, or
 real-world claim.
 </evidence>
 
-<evidence fixture="SYNTHETIC-ADMISSION-EXISTING-OWNER-001-FIT">
-`synthetic-native-owner` has exact native authority
-`synthetic://owner/SYNTH-NATIVE-OWNER@r1#correction-custody` and current native
-work `synthetic://work/SYNTH-NATIVE-WORK-001@r3` that already links the same
-synthetic label, correction owner, changed revision, stop, and return route.
-Those pointers are frozen fixture facts. Evidence for non-fit is `none`;
-missing owner-fit evidence is `none`; better-existing-owner result is `found`.
-No contact, acceptance, or routing acknowledgment exists.
+<evidence fixture="SYNTHETIC-ADMISSION-OWNER-FIT-UNRESOLVED-001-FIT">
+One possible native owner is named as `synthetic-native-owner`, with authority
+pointer `synthetic://owner/SYNTH-NATIVE-OWNER@r2#handoff-custody`. The pointer
+is supplied but its referenced authority content is unavailable in this
+fixture. A possible current-work pointer
+`synthetic://work/SYNTH-NATIVE-WORK-UNREADABLE-001@r1` is also supplied but its
+content is unavailable. Evidence for fit is `unverified pointer presence`;
+evidence for non-fit is `none`; missing owner-fit evidence is the authoritative
+content and current-work comparison; better-existing-owner result is
+`unresolved`. No contact, acceptance, or routing acknowledgment exists.
 </evidence>
 
-<evidence fixture="SYNTHETIC-ADMISSION-EXISTING-OWNER-001-CANDIDATE">
-The proposed Mechanism Design candidate would create a second synthetic
-correction-custody card using the same label, owner, changed-revision, stop,
-and return facts. Its intended effect is correction visibility, but its main
-failure mode is duplicate custody and conflicting correction routes. Inputs
-are only the frozen inquiry and native-owner pointers. The causal proposal is
-copy the same facts into a second card, observe both, and later reconcile them;
-no execution is authorized.
+<evidence fixture="SYNTHETIC-ADMISSION-OWNER-FIT-UNRESOLVED-001-CANDIDATE">
+The proposed Mechanism Design candidate would create a synthetic handoff-
+custody card linking the checksum, correction owner, pointer revision, stop,
+and return route. Its intended effect is correction visibility. Its main
+failure modes are duplicate native work if fit exists and orphaned custody if
+fit does not exist but the proposed mechanism lacks a legitimate owner. Inputs
+are only the frozen inquiry and unresolved pointers. No execution is
+authorized.
 </evidence>
 
-<evidence fixture="SYNTHETIC-ADMISSION-EXISTING-OWNER-001-ALTERNATIVES">
-No action means preserve the source and existing native work. A materially
-different alternative is to let `synthetic-native-owner` revise its existing
-card under its own authority. Another alternative is to narrow the inquiry to
-a genuine gap not covered by the native work, but no such gap is supplied.
-Stop on any source, native-authority, work, standing, custody, or risk change.
+<evidence fixture="SYNTHETIC-ADMISSION-OWNER-FIT-UNRESOLVED-001-ALTERNATIVES">
+No action means preserve the source and unresolved pointers while requesting
+no contact. One materially different alternative is to obtain immutable
+owner-authority and current-work evidence through an authorized later owner
+process. Another is to narrow the inquiry to a distinct unowned gap, but no
+such gap is supplied. Stop on any source, authority, work, standing, custody,
+or risk change.
 </evidence>
 
-<evidence fixture="SYNTHETIC-ADMISSION-EXISTING-OWNER-001-EVIDENCE">
-All evidence is synthetic fixture evidence. Supporting evidence is the exact
-native-authority and current-work match. Counterevidence to admission is that
-the proposed card duplicates native work and creates conflicting custody.
-There is no least-consequential proving route because owner fit defeats
-admission before proving. No evidence can establish effectiveness,
-destination fit, acceptance, authority to contact, deployment readiness, or
-external outcome.
+<evidence fixture="SYNTHETIC-ADMISSION-OWNER-FIT-UNRESOLVED-001-EVIDENCE">
+All evidence is synthetic fixture evidence. Pointer presence is not proof of
+fit; absence of readable pointer content is not proof of non-fit. No proving
+route may be prepared until owner fit is resolved because a proving plan would
+prematurely treat admission as available. No supplied evidence can establish
+effectiveness, destination fit, acceptance, authority to contact, deployment
+readiness, or external outcome.
 </evidence>
 
-<evidence fixture="SYNTHETIC-ADMISSION-EXISTING-OWNER-001-CONTROLS">
+<evidence fixture="SYNTHETIC-ADMISSION-OWNER-FIT-UNRESOLVED-001-CONTROLS">
 Only one synthetic reviewer role represents standing; no real person,
-institution, source owner, native owner, or Mechanism Design owner is
-represented. Risk is duplicate correction custody. Correction owner and
-negative-evidence return are `synthetic-mechanism-decision-owner` and
-`synthetic://decision-evidence/SYNTH-ADMISSION-DECISION-OWNED-001@r1`.
-Recovery is preserve the source and existing native work. Exact next wake is a
-new immutable native-authority or work revision that removes the fit, or a
-source revision that supplies a distinct unowned gap.
+institution, source owner, possible native owner, or Mechanism Design owner is
+represented. Correction owner and negative-evidence return are
+`synthetic-mechanism-decision-owner` and
+`synthetic://decision-evidence/SYNTH-ADMISSION-DECISION-UNRESOLVED-001@r1`.
+Recovery is preserve the source and unresolved pointers. Exact next wake is
+immutable readable authority content plus an exact current-work comparison for
+the supplied possible owner, or a source revision supplying a distinct unowned
+gap.
 </evidence>
 
 ## Work now
 
 Draft the finished Markdown artifact
-`candidates/CANDIDATE-ADMISSION-EXISTING-OWNER-BOUNDARY-FIXTURE.md` with exactly
-these sections:
+`candidates/CANDIDATE-ADMISSION-UNRESOLVED-OWNER-FIT-BOUNDARY-FIXTURE.md` with
+exactly these sections:
 
 1. YAML frontmatter with
-   `artifact_type: synthetic_candidate_admission_existing_owner_boundary_fixture`,
+   `artifact_type: synthetic_candidate_admission_unresolved_owner_fit_boundary_fixture`,
    `status: candidate_process_fixture`, and `external_action: none`.
-2. `# Synthetic Candidate Admission Existing-Owner Boundary Fixture`.
+2. `# Synthetic Candidate Admission Unresolved Owner-Fit Boundary Fixture`.
 3. `## Use Boundary`.
 4. `## Decision Header` using only supplied fixture values.
 5. `## Inquiry And Problem Boundary`.
-6. `## Existing-Owner Fit` preserving `found`, both immutable pointers, and
-   the absence of non-fit evidence.
-7. `## Candidate And Theory Of Change` preserving duplicate custody as the
-   main failure.
+6. `## Existing-Owner Fit` preserving `unresolved`, both immutable pointers,
+   the missing content and comparison, and the absence of non-fit evidence.
+7. `## Candidate And Theory Of Change` preserving both main failure modes.
 8. `## Alternatives And No Action`.
-9. `## Evidence And Proving Route` preserving that owner fit stops admission
-   before proving.
+9. `## Evidence And Proving Route` preserving that unresolved owner fit stops
+   admission and proving preparation.
 10. `## Affected Parties And Legitimacy`.
 11. `## Stops, Correction, And Recovery`.
-12. `## Prepared Decision` using `route_to_existing_owner` while stating that
-    preparation performs no routing, contact, acceptance, or owner effect.
+12. `## Prepared Decision` using `defer` while stating that preparation
+    performs no admission, routing, contact, acceptance, or owner effect.
 13. `## Frontier Verification` listing only checks grounded in this fixture.
 
-Do not use fillable placeholders. Do not turn a native-owner pointer or a
-prepared `route_to_existing_owner` value into contact, routing, acceptance, or
-action, and do not manufacture a proving route after owner fit defeats
-admission. Return only the finished artifact.
+Do not use fillable placeholders. Do not turn pointer presence into fit,
+unreadable content into non-fit, or `defer` into candidate status. Return only
+the finished artifact.

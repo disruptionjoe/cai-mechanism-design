@@ -82,6 +82,9 @@ authority, deployment readiness, or external outcome.
   trace, score, evidence package, residual uncertainty, correction, and bounded
   disposition support to the result owner without planning, executing, scoring,
   accepting, or dispositioning the work.
+- `PROVING-RESULT-RETURN-DENIED-START-BOUNDARY-FIXTURE.md` applies that return
+  gate after a frozen denied start and fails closed with no score, result,
+  disposition support, owner return, acknowledgment, P8, or external action.
 - `PROVING-AUTHORIZATION-DECISION-TEMPLATE.md` prepares one exact decision on a
   frozen proving request and plan with least-consequence, actor, authority,
   affected-party, data, stop, deviation, correction, rollback, and handoff
