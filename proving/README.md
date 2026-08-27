@@ -106,6 +106,11 @@ authority, deployment readiness, or external outcome.
   observations, preserves the original conflict and replacements, and records
   the resulting all-`equal` evidence as a bounded pass without creating
   disposition authority or P8.
+- `LEAST-CONSEQUENTIAL-PROVING-SCORE-COMPLETE-SUPERSESSION-UNVERIFIED-REPLACEMENT-BOUNDARY-FIXTURE.md`
+  preserves complete exact supersession coverage while one named `equal`
+  replacement fails its immutable checksum; coverage cannot manufacture valid
+  replacement evidence, so the score remains `unresolved` with `defer` support
+  and creates no disposition authority or P8.
 - `PROVING-EXECUTION-TRACE-TEMPLATE.md` records one exactly authorized treatment
   as evidence-linked chronological events, stops, deviations, data and
   legitimacy effects, correction, recovery, and a score-return package without

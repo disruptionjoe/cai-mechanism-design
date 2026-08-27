@@ -81,3 +81,8 @@ status changes.
   dominance over a verified route on required timing while refusing to turn
   that relation into route selection, acceptance, admission, disposition,
   execution, or external-action authority.
+- `MECHANISM-ALTERNATIVE-MAP-SELECTED-ROUTE-NO-ACCEPTANCE-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves a valid immediate-route selection for one prepared pointer-only
+  handoff while keeping the materially distinct dominated route visible and
+  refusing to treat selection as destination-owner acceptance, route opening,
+  admission, disposition, execution, or external-action authority.
