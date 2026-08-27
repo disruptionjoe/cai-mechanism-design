@@ -85,6 +85,11 @@ authority, deployment readiness, or external outcome.
   direct `unequal` comparison contradicts a validator summary; direct evidence
   controls the bounded `revise` result, and the fixture creates no disposition
   or P8.
+- `LEAST-CONSEQUENTIAL-PROVING-SCORE-CONFLICTING-OBSERVATIONS-BOUNDARY-FIXTURE.md`
+  applies the score boundary to an authorized clean synthetic trace containing
+  valid direct `equal` and `unequal` comparison observations; a one-sided
+  validator summary cannot reconcile or select between them, so the result
+  remains `unresolved` with `defer` support and creates no disposition or P8.
 - `PROVING-EXECUTION-TRACE-TEMPLATE.md` records one exactly authorized treatment
   as evidence-linked chronological events, stops, deviations, data and
   legitimacy effects, correction, recovery, and a score-return package without

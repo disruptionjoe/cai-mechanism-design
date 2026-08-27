@@ -58,3 +58,9 @@ status changes.
   limiting its dominance to the supplied content-copy and synchronization
   dimensions; it retains no action and returns `defer` without forced overall
   ranking, owner fit, admission, disposition, routing, or external action.
+- `MECHANISM-ALTERNATIVE-MAP-INCOMMENSURABLE-DIMENSIONS-BOUNDARY-FIXTURE.md`
+  preserves direct and verified pointer-only routes whose supported earlier-
+  visibility and pre-visibility-checksum advantages lack a common scale or
+  affected-party weighting; it retains no action and returns `defer` without
+  inventing parity, dominance, overall ranking, selection, owner fit,
+  admission, disposition, routing, or external action.
