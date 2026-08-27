@@ -74,6 +74,10 @@ authority, deployment readiness, or external outcome.
   as evidence-linked chronological events, stops, deviations, data and
   legitimacy effects, correction, recovery, and a score-return package without
   scoring the trace or choosing a candidate disposition.
+- `PROVING-EXECUTION-TRACE-DENIED-START-BOUNDARY-FIXTURE.md` applies that
+  template to a frozen failed-closed authorization check and records the
+  triggered pre-start halt without inventing execution, data handling, a
+  score, result, disposition, or P8.
 - `PROVING-RESULT-RETURN-TEMPLATE.md` returns one completed plan, authorized
   trace, score, evidence package, residual uncertainty, correction, and bounded
   disposition support to the result owner without planning, executing, scoring,
