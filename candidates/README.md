@@ -106,3 +106,8 @@ status changes.
   marks both one-use grants consumed, and holds the route at
   `sent_not_delivered` without inventing delivery, acknowledgment, intake,
   admission, disposition, owner effect, or external action.
+- `MECHANISM-ALTERNATIVE-MAP-DELIVERED-ROUTE-NO-ACKNOWLEDGMENT-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves one separately authorized synthetic delivery with a valid trace
+  and receipt, marks all three one-use grants consumed, and holds the route at
+  `delivered_not_acknowledged` without inventing acknowledgment, content copy,
+  intake, admission, disposition, owner effect, or external action.
