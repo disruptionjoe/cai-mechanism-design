@@ -164,7 +164,7 @@ timing, nonretroactive future-only r2 authority, unchanged r2 originals,
 surviving conflict, `unresolved`, disposition separation, and unchanged
 `CMD-0001` and external-action state. First line must be `---`; close
 frontmatter with a later line containing only `---`; immediately after
-frontmatter use the title `# Synthetic Proving-Score Nonretroactive-Supersession-Authority Boundary Fixture`;
-use `##` for every named body section
+frontmatter use the title `# Synthetic Proving-Score Nonretroactive-
+Supersession-Authority Boundary Fixture`; use `##` for every named body section
 and deeper headings only within a named section; do not use a code fence.
 Return only the finished artifact.

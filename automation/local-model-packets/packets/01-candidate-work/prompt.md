@@ -157,8 +157,8 @@ without admission, retained dominated alternative, `authorized_not_opened`,
 non-operative `route_to_existing_owner`, and unchanged `CMD-0001` and
 external-action state. First line must be `---`; close frontmatter with a later
 line containing only `---`; immediately after frontmatter use the title
-`# Synthetic Mechanism Alternative-Map Authorized-Route-Opening No-Performance Boundary Fixture`;
-use `##` for every named body section and deeper headings
+`# Synthetic Mechanism Alternative-Map Authorized-Route-Opening No-Performance
+Boundary Fixture`; use `##` for every named body section and deeper headings
 only within a named section; do not use a code fence.
 
 Return only the finished artifact.
