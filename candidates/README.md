@@ -136,3 +136,8 @@ status changes.
   payload as its own synthetic candidate without creating Mechanism Design
   admission, candidate disposition, result acceptance, transfer, graduation,
   deployment, performance, or external action.
+- `MECHANISM-ALTERNATIVE-MAP-DESTINATION-CANDIDATE-DEFERRED-ROUTE-NO-TRANSFER-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves that complete lineage and destination admission, then records one
+  separately authorized destination-owner defer disposition while keeping
+  deferral distinct from Mechanism Design disposition, result acceptance,
+  transfer, graduation, deployment, performance, and external action.
