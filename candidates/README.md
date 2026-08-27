@@ -53,3 +53,8 @@ status changes.
   preserves them as aliases of one pointer-only route, retains no action, and
   returns `defer` without manufacturing cardinality, ranking, owner fit,
   admission, disposition, or external action.
+- `MECHANISM-ALTERNATIVE-MAP-DOMINATED-ALTERNATIVE-BOUNDARY-FIXTURE.md`
+  preserves a materially distinct mirrored route as negative evidence while
+  limiting its dominance to the supplied content-copy and synchronization
+  dimensions; it retains no action and returns `defer` without forced overall
+  ranking, owner fit, admission, disposition, routing, or external action.
