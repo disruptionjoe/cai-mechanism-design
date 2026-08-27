@@ -43,3 +43,8 @@ status changes.
   different mechanisms with explicit owner routes, causal steps, evidence,
   legitimacy, stops, correction, nonduplication, and comparison boundaries;
   completing it does not rank, admit, or disposition a candidate.
+- `MECHANISM-ALTERNATIVE-MAP-BOUNDARY-FIXTURE.md` applies that template to a
+  frozen synthetic relationship-custody gap, preserves no action and three
+  materially different operative routes without ranking, and returns
+  `retain_for_admission_review` without creating admission, routing,
+  disposition, owner authority, or external action.

@@ -70,6 +70,11 @@ authority, deployment readiness, or external outcome.
   trace against its frozen plan, separates the bounded result from the later
   owner disposition, and preserves counterevidence, legitimacy, correction,
   recovery, and prohibited-conclusion boundaries.
+- `LEAST-CONSEQUENTIAL-PROVING-SCORE-AUTHORITY-DEVIATION-BOUNDARY-FIXTURE.md`
+  applies that score boundary to a validated synthetic trace where an
+  unauthorized field mutation and triggered stop defeat a target-metric pass;
+  completed rollback supports recovery but not authority, bounded pass, or
+  disposition.
 - `PROVING-EXECUTION-TRACE-TEMPLATE.md` records one exactly authorized treatment
   as evidence-linked chronological events, stops, deviations, data and
   legitimacy effects, correction, recovery, and a score-return package without
