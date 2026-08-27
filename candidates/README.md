@@ -31,6 +31,10 @@ status changes.
   current work establish a better existing owner; it prepares
   `route_to_existing_owner` without admitting, routing, contacting, or
   creating an owner effect.
+- `CANDIDATE-ADMISSION-UNRESOLVED-OWNER-FIT-BOUNDARY-FIXTURE.md` applies the
+  same gate when possible-owner pointers are present but unreadable; it keeps
+  owner fit unresolved, stops admission and proving preparation, and records a
+  non-operative `defer` with an exact evidence wake.
 - `MECHANISM-ALTERNATIVE-MAP-TEMPLATE.md` preserves no action and materially
   different mechanisms with explicit owner routes, causal steps, evidence,
   legitimacy, stops, correction, nonduplication, and comparison boundaries;

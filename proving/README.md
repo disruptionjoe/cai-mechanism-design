@@ -85,6 +85,10 @@ authority, deployment readiness, or external outcome.
 - `PROVING-RESULT-RETURN-DENIED-START-BOUNDARY-FIXTURE.md` applies that return
   gate after a frozen denied start and fails closed with no score, result,
   disposition support, owner return, acknowledgment, P8, or external action.
+- `PROVING-RESULT-RETURN-MISSING-VALIDATION-BOUNDARY-FIXTURE.md` applies the
+  return gate to a completed synthetic trace and score that lack independent
+  validation; the score remains unvalidated input and creates no result,
+  disposition support, return, acknowledgment, P8, or external action.
 - `PROVING-AUTHORIZATION-DECISION-TEMPLATE.md` prepares one exact decision on a
   frozen proving request and plan with least-consequence, actor, authority,
   affected-party, data, stop, deviation, correction, rollback, and handoff
