@@ -122,6 +122,11 @@ authority, deployment readiness, or external outcome.
   unauthorized r2 record while a later r2 grant is explicitly future-only and
   nonretroactive; every original remains unsuperseded, the conflict survives,
   and the result stays `unresolved` with `defer` support and no P8.
+- `LEAST-CONSEQUENTIAL-PROVING-SCORE-POST-GRANT-SUPERSESSION-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves that earlier unauthorized record as negative evidence while a
+  distinct record signed after and within the future-only r2 grant validly
+  supersedes both unequal originals; surviving evidence agrees on `equal`, so
+  the bounded result is `bounded_pass` with `defer` support and no P8.
 - `PROVING-EXECUTION-TRACE-TEMPLATE.md` records one exactly authorized treatment
   as evidence-linked chronological events, stops, deviations, data and
   legitimacy effects, correction, recovery, and a score-return package without

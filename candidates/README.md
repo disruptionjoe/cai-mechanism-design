@@ -96,3 +96,8 @@ status changes.
   destination acceptance while the absent trace and receipt keep the route
   `authorized_not_opened`; it creates no contact, sending, intake execution,
   admission, disposition, owner effect, or external action.
+- `MECHANISM-ALTERNATIVE-MAP-OPENED-ROUTE-NO-DELIVERY-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves one valid opening trace and receipt under the exact one-use grant,
+  marks that grant consumed, and holds the route at `opened_not_sent` without
+  inventing contact, sending, delivery, acknowledgment, intake, admission,
+  disposition, owner effect, or external action.
