@@ -75,6 +75,11 @@ authority, deployment readiness, or external outcome.
   unauthorized field mutation and triggered stop defeat a target-metric pass;
   completed rollback supports recovery but not authority, bounded pass, or
   disposition.
+- `LEAST-CONSEQUENTIAL-PROVING-SCORE-MISSING-OBSERVATION-BOUNDARY-FIXTURE.md`
+  applies the score boundary to an authorized clean synthetic trace that lacks
+  one separately required comparison observation; validator success cannot
+  supply the missing fact, so the result remains `unresolved` with `defer`
+  support and creates no disposition or P8.
 - `PROVING-EXECUTION-TRACE-TEMPLATE.md` records one exactly authorized treatment
   as evidence-linked chronological events, stops, deviations, data and
   legitimacy effects, correction, recovery, and a score-return package without

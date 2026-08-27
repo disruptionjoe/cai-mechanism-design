@@ -48,3 +48,8 @@ status changes.
   materially different operative routes without ranking, and returns
   `retain_for_admission_review` without creating admission, routing,
   disposition, owner authority, or external action.
+- `MECHANISM-ALTERNATIVE-MAP-MERGED-VARIANT-BOUNDARY-FIXTURE.md` applies the
+  same boundary where two labels share every load-bearing mechanism field; it
+  preserves them as aliases of one pointer-only route, retains no action, and
+  returns `defer` without manufacturing cardinality, ranking, owner fit,
+  admission, disposition, or external action.
