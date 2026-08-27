@@ -64,3 +64,9 @@ status changes.
   affected-party weighting; it retains no action and returns `defer` without
   inventing parity, dominance, overall ranking, selection, owner fit,
   admission, disposition, routing, or external action.
+- `MECHANISM-ALTERNATIVE-MAP-CONTINGENT-DOMINANCE-BOUNDARY-FIXTURE.md`
+  preserves two pointer-only routes whose supplied dominance reverses under
+  mutually exclusive owner conditions while neither condition is current; it
+  retains no action and returns `defer` without inventing probabilities,
+  expected value, an overall winner, owner fit, admission, disposition,
+  routing, or external action.

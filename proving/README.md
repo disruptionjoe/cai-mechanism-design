@@ -90,6 +90,12 @@ authority, deployment readiness, or external outcome.
   valid direct `equal` and `unequal` comparison observations; a one-sided
   validator summary cannot reconcile or select between them, so the result
   remains `unresolved` with `defer` support and creates no disposition or P8.
+- `LEAST-CONSEQUENTIAL-PROVING-SCORE-UNAUTHORIZED-RECONCILIATION-BOUNDARY-FIXTURE.md`
+  applies the same conflict boundary when a later structurally valid record
+  asserts reconciliation without result-owner or supersession authority;
+  chronology and signature shape cannot erase either direct observation, so
+  the result remains `unresolved` with `defer` support and creates no
+  disposition or P8.
 - `PROVING-EXECUTION-TRACE-TEMPLATE.md` records one exactly authorized treatment
   as evidence-linked chronological events, stops, deviations, data and
   legitimacy effects, correction, recovery, and a score-return package without
