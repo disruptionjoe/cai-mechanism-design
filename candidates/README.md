@@ -35,6 +35,10 @@ status changes.
   same gate when possible-owner pointers are present but unreadable; it keeps
   owner fit unresolved, stops admission and proving preparation, and records a
   non-operative `defer` with an exact evidence wake.
+- `CANDIDATE-ADMISSION-NO-OWNER-FIT-BOUNDARY-FIXTURE.md` applies the gate after
+  a complete synthetic comparison finds no better existing owner; it prepares
+  `admit_synthetic_candidate` without creating admission, candidate status,
+  proving authority, disposition, routing, contact, or owner effect.
 - `MECHANISM-ALTERNATIVE-MAP-TEMPLATE.md` preserves no action and materially
   different mechanisms with explicit owner routes, causal steps, evidence,
   legitimacy, stops, correction, nonduplication, and comparison boundaries;

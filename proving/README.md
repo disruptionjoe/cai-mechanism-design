@@ -89,6 +89,10 @@ authority, deployment readiness, or external outcome.
   return gate to a completed synthetic trace and score that lack independent
   validation; the score remains unvalidated input and creates no result,
   disposition support, return, acknowledgment, P8, or external action.
+- `PROVING-RESULT-RETURN-ACKNOWLEDGMENT-BOUNDARY-FIXTURE.md` applies the return
+  gate to an independently validated synthetic mismatch and keeps receipt
+  acknowledgment separate from result acceptance and owner disposition; it
+  creates no P8, contact, transfer, graduation, deployment, or external action.
 - `PROVING-AUTHORIZATION-DECISION-TEMPLATE.md` prepares one exact decision on a
   frozen proving request and plan with least-consequence, actor, authority,
   affected-party, data, stop, deviation, correction, rollback, and handoff
