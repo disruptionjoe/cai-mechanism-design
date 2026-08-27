@@ -117,3 +117,9 @@ status changes.
   route at `acknowledged_not_intaken` without inventing content copy, intake,
   candidate admission, disposition, result acceptance, owner effect, or
   external action.
+- `MECHANISM-ALTERNATIVE-MAP-INTAKEN-ROUTE-NO-CANDIDATE-ADMISSION-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves one separately authorized synthetic pointer-package intake with a
+  valid trace and receipt, marks all five one-use grants consumed, and holds
+  the route at `intaken_not_admitted` without inventing native-content copy,
+  candidate admission, disposition, result acceptance, owner truth, or
+  external action.
