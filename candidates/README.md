@@ -123,3 +123,10 @@ status changes.
   the route at `intaken_not_admitted` without inventing native-content copy,
   candidate admission, disposition, result acceptance, owner truth, or
   external action.
+- `MECHANISM-ALTERNATIVE-MAP-NATIVE-CONTENT-COPIED-ROUTE-NO-CANDIDATE-ADMISSION-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves one separately authorized copy of the named immutable synthetic
+  payload into a destination-controlled staging surface, marks the sixth
+  one-use grant consumed, and holds the route at
+  `native_content_copied_not_admitted` without inventing candidate admission,
+  candidate status, disposition, result acceptance, owner truth, or external
+  action.
