@@ -130,3 +130,9 @@ status changes.
   `native_content_copied_not_admitted` without inventing candidate admission,
   candidate status, disposition, result acceptance, owner truth, or external
   action.
+- `MECHANISM-ALTERNATIVE-MAP-DESTINATION-CANDIDATE-ADMITTED-ROUTE-NO-DISPOSITION-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves the complete comparison-through-native-content-copy lineage, then
+  records one separately authorized destination-owner admission of the staged
+  payload as its own synthetic candidate without creating Mechanism Design
+  admission, candidate disposition, result acceptance, transfer, graduation,
+  deployment, performance, or external action.

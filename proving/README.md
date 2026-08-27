@@ -176,6 +176,12 @@ authority, deployment readiness, or external outcome.
   gate to an independently validated synthetic mismatch and keeps receipt
   acknowledgment separate from result acceptance and owner disposition; it
   creates no P8, contact, transfer, graduation, deployment, or external action.
+- `PROVING-RESULT-RETURN-OWNER-DEFER-ACCEPTANCE-NO-DISPOSITION-AUTHORITY-BOUNDARY-FIXTURE.md`
+  returns the validated three-grant score and bounded `defer` support, then
+  records one separately authorized owner acceptance of the unchanged package
+  while preserving candidate disposition as a later unconsumed decision and
+  creating no P8, state change, transfer, graduation, deployment, or external
+  action.
 - `PROVING-AUTHORIZATION-DECISION-TEMPLATE.md` prepares one exact decision on a
   frozen proving request and plan with least-consequence, actor, authority,
   affected-party, data, stop, deviation, correction, rollback, and handoff
