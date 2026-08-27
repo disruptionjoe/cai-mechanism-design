@@ -101,6 +101,11 @@ authority, deployment readiness, or external outcome.
   `unequal` observations; the uncovered `equal` and `unequal` records remain
   conflicting, so the result stays `unresolved` with `defer` support and
   creates no disposition or P8.
+- `LEAST-CONSEQUENTIAL-PROVING-SCORE-COMPLETE-SUPERSESSION-BOUNDARY-FIXTURE.md`
+  applies valid result-owner supersession to both direct `unequal`
+  observations, preserves the original conflict and replacements, and records
+  the resulting all-`equal` evidence as a bounded pass without creating
+  disposition authority or P8.
 - `PROVING-EXECUTION-TRACE-TEMPLATE.md` records one exactly authorized treatment
   as evidence-linked chronological events, stops, deviations, data and
   legitimacy effects, correction, recovery, and a score-return package without

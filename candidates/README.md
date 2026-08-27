@@ -76,3 +76,8 @@ status changes.
   status requires a fresh record; it retains no action and returns `defer`
   without inherited comparison, route, admission, disposition, or external
   authority.
+- `MECHANISM-ALTERNATIVE-MAP-CURRENT-CONDITION-NO-ROUTE-AUTHORITY-BOUNDARY-FIXTURE.md`
+  applies valid current comparison authority to preserve immediate-route
+  dominance over a verified route on required timing while refusing to turn
+  that relation into route selection, acceptance, admission, disposition,
+  execution, or external-action authority.
