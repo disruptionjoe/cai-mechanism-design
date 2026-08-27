@@ -101,3 +101,8 @@ status changes.
   marks that grant consumed, and holds the route at `opened_not_sent` without
   inventing contact, sending, delivery, acknowledgment, intake, admission,
   disposition, owner effect, or external action.
+- `MECHANISM-ALTERNATIVE-MAP-SENT-ROUTE-NO-DELIVERY-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves a separately authorized synthetic send and valid send receipt,
+  marks both one-use grants consumed, and holds the route at
+  `sent_not_delivered` without inventing delivery, acknowledgment, intake,
+  admission, disposition, owner effect, or external action.

@@ -127,6 +127,12 @@ authority, deployment readiness, or external outcome.
   distinct record signed after and within the future-only r2 grant validly
   supersedes both unequal originals; surviving evidence agrees on `equal`, so
   the bounded result is `bounded_pass` with `defer` support and no P8.
+- `LEAST-CONSEQUENTIAL-PROVING-SCORE-POST-RECORD-REVOCATION-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves a valid supersession record after a future-only grant, then keeps
+  a later future-only revocation and post-revocation attempted record from
+  retroactively erasing that valid effect; surviving evidence remains
+  all-`equal`, so the bounded result is `bounded_pass` with `defer` support and
+  no P8.
 - `PROVING-EXECUTION-TRACE-TEMPLATE.md` records one exactly authorized treatment
   as evidence-linked chronological events, stops, deviations, data and
   legitimacy effects, correction, recovery, and a score-return package without
