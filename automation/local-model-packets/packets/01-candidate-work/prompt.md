@@ -1,15 +1,16 @@
-# Execute one authorized synthetic deployment without performance authority
+# Execute one authorized synthetic performance without publication authority
 
 ## Boundary
 
 Write one complete synthetic Mechanism Design graduation-process fixture from
-only the embedded evidence. Preserve the complete graduated-but-not-deployed
-lineage, non-operative deployment request, authorized request review, refusal,
-risks, recovery, and no-action boundary. Add one exact one-use synthetic
-deployment execution authority, one authorized decision, one trace, and one
-receipt. Change only synthetic process state from `graduated_not_deployed` to
-`deployed_not_performed`. Deployment is not performance, publication, contact,
-a real owner effect, or external action. Do not modify `CMD-0001` or create P8.
+only the embedded evidence. Preserve the complete deployed-but-not-performed
+lineage, including the earlier non-operative deployment request, refusal, later
+deployment authority, execution decision, trace, receipt, risks, recovery, and
+no-action boundary. Add one exact one-use synthetic performance execution
+authority, one authorized performance decision, one trace, and one receipt.
+Change only synthetic process state from `deployed_not_performed` to
+`performed_not_published`. Performance is not publication, contact, a real
+owner effect, or external action. Do not modify `CMD-0001` or create P8.
 External action is `none`.
 
 ## Frozen evidence
@@ -18,9 +19,9 @@ Use `GOVERNANCE.md`,
 `interfaces/DESTINATION-OWNER-SYNTHETIC-REVIEW-REQUEST-TEMPLATE.md`,
 `graduations/GRADUATION-PROPOSAL-TEMPLATE.md`,
 `graduations/GRADUATION-TRANSFER-PLAN-TEMPLATE.md`, and
-`graduations/GRADUATION-POST-EXECUTION-DEPLOYMENT-REQUEST-REFUSED-NO-DEPLOYMENT-AUTHORITY-BOUNDARY-FIXTURE.md`.
+`graduations/GRADUATION-DEPLOYMENT-AUTHORIZED-NO-PERFORMANCE-AUTHORITY-BOUNDARY-FIXTURE.md`.
 
-Freeze these core values unchanged:
+Copy this literal header unchanged in the section that consumes it:
 
 | Key | Supplied value |
 | --- | --- |
@@ -40,9 +41,13 @@ Freeze these core values unchanged:
 | `graduation_receipt_content` | `synthetic-content:graduation-execution-receipt-001-r1` |
 | `deployment_request` | `SYNTH-DEPLOYMENT-REQUEST-001@r1` |
 | `deployment_request_content` | `synthetic-content:deployment-request-001-r1` |
-| `request_review_decision` | `SYNTH-DEPLOYMENT-REQUEST-REVIEW-DECISION-001@r1` |
-| `request_review_content` | `synthetic-content:deployment-request-review-refusal-decision-001-r1` |
-| `current_process_state` | `graduated_not_deployed` |
+| `deployment_request_refusal` | `SYNTH-DEPLOYMENT-REQUEST-REVIEW-DECISION-001@r1` |
+| `deployment_authority` | `SYNTH-DEPLOYMENT-EXECUTION-AUTHORITY-001@r1` |
+| `deployment_decision` | `SYNTH-DEPLOYMENT-EXECUTION-DECISION-001@r1` |
+| `deployment_trace` | `SYNTH-DEPLOYMENT-EXECUTION-TRACE-001@r1` |
+| `deployment_receipt` | `SYNTH-DEPLOYMENT-EXECUTION-RECEIPT-001@r1` |
+| `deployment_receipt_content` | `synthetic-content:deployment-execution-receipt-001-r1` |
+| `current_process_state` | `deployed_not_performed` |
 
 Preserve no action and alternatives `SYNTH-ALT-OPENED-NO-ACTION-001@r1`,
 `SYNTH-ALT-OPENED-IMMEDIATE-001@r1`, and
@@ -51,109 +56,84 @@ Preserve no action and alternatives `SYNTH-ALT-OPENED-NO-ACTION-001@r1`,
 `SYNTH-ROUTE-SELECTION-IMMEDIATE-004@r1`; and destination acceptance
 `SYNTH-DESTINATION-ACCEPTANCE-IMMEDIATE-003@r1`.
 
-Copy these route rows unchanged in the section that consumes them:
+Copy these literal deployment-custody rows unchanged in `Exact Deployment And
+Predecessor Custody`:
 
-| Route | Authority; signer; scope | Trace; receipt; content |
+| Step | Authority; signer; scope; actor | Decision; time; trace; receipt; content |
 | --- | --- | --- |
-| opening | `SYNTH-ROUTE-OPENING-AUTHORIZATION-002@r1`; `synthetic-route-opening-authority-owner`; `synthetic-route-opening-decision-authority@r1` | `SYNTH-ROUTE-OPENING-TRACE-001@r1`; `SYNTH-ROUTE-OPENING-RECEIPT-001@r1`; `synthetic-content:route-opening-receipt-opened-no-delivery-001-r1` |
-| sending | `SYNTH-ROUTE-SENDING-AUTHORIZATION-001@r1`; `synthetic-route-sending-authority-owner`; `synthetic-route-sending-decision-authority@r1` | `SYNTH-ROUTE-SENDING-TRACE-001@r1`; `SYNTH-ROUTE-SENDING-RECEIPT-001@r1`; `synthetic-content:route-sending-receipt-sent-no-delivery-001-r1` |
-| delivery | `SYNTH-ROUTE-DELIVERY-AUTHORIZATION-001@r1`; `synthetic-route-delivery-authority-owner`; `synthetic-route-delivery-decision-authority@r1` | `SYNTH-ROUTE-DELIVERY-TRACE-001@r1`; `SYNTH-ROUTE-DELIVERY-RECEIPT-001@r1`; `synthetic-content:route-delivery-receipt-delivered-no-acknowledgment-001-r1` |
-| acknowledgment | `SYNTH-ROUTE-ACKNOWLEDGMENT-AUTHORIZATION-001@r1`; `synthetic-route-acknowledgment-authority-owner`; `synthetic-route-acknowledgment-decision-authority@r1` | `SYNTH-ROUTE-ACKNOWLEDGMENT-TRACE-001@r1`; `SYNTH-ROUTE-ACKNOWLEDGMENT-RECEIPT-001@r1`; `synthetic-content:route-acknowledgment-receipt-acknowledged-no-intake-001-r1` |
-| intake | `SYNTH-ROUTE-INTAKE-AUTHORIZATION-001@r1`; `synthetic-destination-owner`; `synthetic-destination-pointer-intake-execution-authority@r1` | `SYNTH-ROUTE-INTAKE-TRACE-001@r1`; `SYNTH-ROUTE-INTAKE-RECEIPT-001@r1`; `synthetic-content:route-intake-receipt-intaken-no-candidate-001-r1` |
-| native-content copy | `SYNTH-ROUTE-NATIVE-CONTENT-COPY-AUTHORIZATION-001@r1`; `synthetic-destination-owner`; `synthetic-destination-native-content-copy-execution-authority@r1` | `SYNTH-ROUTE-NATIVE-CONTENT-COPY-TRACE-001@r1`; `SYNTH-ROUTE-NATIVE-CONTENT-COPY-RECEIPT-001@r1`; `synthetic-content:route-native-content-copy-receipt-copied-no-candidate-001-r1` |
+| graduation | `SYNTH-GRADUATION-EXECUTION-AUTHORITY-001@r1`; `synthetic-receiving-owner`; `synthetic-graduation-execution-decision-authority@r1`; `synthetic-graduation-executor` | `SYNTH-GRADUATION-EXECUTION-DECISION-001@r1`; `2026-08-27T23:22:12Z`; `SYNTH-GRADUATION-EXECUTION-TRACE-001@r1`; `SYNTH-GRADUATION-EXECUTION-RECEIPT-001@r1`; `synthetic-content:graduation-execution-receipt-001-r1` |
+| deployment request | `synthetic-deployment-request-record-creation-authority@r1`; `synthetic-deployment-requester`; record only | `SYNTH-DEPLOYMENT-REQUEST-001@r1`; `2026-08-27T23:30:12Z`; none; none; `synthetic-content:deployment-request-001-r1` |
+| request refusal | `SYNTH-DEPLOYMENT-REQUEST-REVIEW-AUTHORITY-001@r1`; `synthetic-receiving-owner`; `synthetic-deployment-request-review-decision-authority@r1`; `synthetic-deployment-request-reviewer` | `SYNTH-DEPLOYMENT-REQUEST-REVIEW-DECISION-001@r1`; `2026-08-27T23:35:12Z`; none; none; `synthetic-content:deployment-request-review-refusal-decision-001-r1` |
+| deployment | `SYNTH-DEPLOYMENT-EXECUTION-AUTHORITY-001@r1`; `synthetic-receiving-owner`; `synthetic-deployment-execution-decision-authority@r1`; `synthetic-deployment-executor` | `SYNTH-DEPLOYMENT-EXECUTION-DECISION-001@r1`; `2026-08-27T23:42:12Z`; `SYNTH-DEPLOYMENT-EXECUTION-TRACE-001@r1`; `SYNTH-DEPLOYMENT-EXECUTION-RECEIPT-001@r1`; `synthetic-content:deployment-execution-receipt-001-r1` |
 
-Copy these destination-state rows unchanged in the same consuming section:
+Preserve the complete route, destination-state, transfer-request, interest,
+acceptance, three transfer-review, transfer-execution, proposal-review, and
+graduation custody from the frozen fixture. Every prior authority remains
+consumed and every named checksum valid. The request refusal remains valid
+history; later deployment and performance authorities do not retroactively
+change it.
 
-| State | Authority | Decision; time; content |
-| --- | --- | --- |
-| admission | `SYNTH-DESTINATION-CANDIDATE-ADMISSION-AUTHORITY-001@r1` | `SYNTH-DESTINATION-CANDIDATE-ADMISSION-DECISION-001@r1`; `2026-08-27T21:20:12Z`; `synthetic-content:destination-candidate-admission-decision-001-r1` |
-| defer | `SYNTH-DESTINATION-CANDIDATE-DISPOSITION-AUTHORITY-001@r1` | `SYNTH-DESTINATION-CANDIDATE-DISPOSITION-DECISION-001@r1`; `2026-08-27T21:35:12Z`; `synthetic-content:destination-candidate-defer-disposition-decision-001-r1` |
-| rejection | `SYNTH-DESTINATION-CANDIDATE-RECONSIDERATION-AUTHORITY-001@r1` | `SYNTH-DESTINATION-CANDIDATE-RECONSIDERATION-DECISION-001@r1`; `2026-08-27T21:50:12Z`; `synthetic-content:destination-candidate-rejection-decision-001-r1` |
-| reopen | `SYNTH-DESTINATION-CANDIDATE-REOPEN-AUTHORITY-001@r1` | `SYNTH-DESTINATION-CANDIDATE-REOPEN-DECISION-001@r1`; `2026-08-27T22:10:12Z`; `synthetic-content:destination-candidate-reopen-decision-001-r1` |
-| re-defer | `SYNTH-DESTINATION-CANDIDATE-REOPEN-REVIEW-AUTHORITY-001@r1` | `SYNTH-DESTINATION-CANDIDATE-REOPEN-REVIEW-DECISION-001@r1`; `2026-08-27T22:25:12Z`; `synthetic-content:destination-candidate-reopen-review-redefer-decision-001-r1` |
-
-Preserve both transfer requests, interest, acceptance, three transfer-review
-authorities and refusal decisions, transfer authority, decision, trace, and
-receipt exactly from the frozen fixture. Preserve proposal
-`SYNTH-GRADUATION-PROPOSAL-001@r1`, content
-`synthetic-content:graduation-proposal-001-r1`, proposal-review authority and
-decision, graduation authority `SYNTH-GRADUATION-EXECUTION-AUTHORITY-001@r1`,
-decision `SYNTH-GRADUATION-EXECUTION-DECISION-001@r1`, trace
-`SYNTH-GRADUATION-EXECUTION-TRACE-001@r1`, and the exact graduation receipt.
-All prior authorities remain consumed and all checksums valid.
-
-Preserve request `SYNTH-DEPLOYMENT-REQUEST-001@r1`, signed at
-`2026-08-27T23:30:12Z` by `synthetic-deployment-requester` under
-`synthetic-deployment-request-record-creation-authority@r1`, and consumed
-review authority `SYNTH-DEPLOYMENT-REQUEST-REVIEW-AUTHORITY-001@r1`, signed at
-`2026-08-27T23:32:12Z` by `synthetic-receiving-owner` under
-`synthetic-deployment-request-review-decision-authority@r1`. Preserve the
-decision at `2026-08-27T23:35:12Z` as
-`deployment_request_refused_deployment_authority_absent`. The prior refusal is
-valid history; the new later authority does not retroactively change it.
-
-At `2026-08-27T23:40:12Z`, deployment authority
-`SYNTH-DEPLOYMENT-EXECUTION-AUTHORITY-001@r1` is signed by
+At `2026-08-27T23:50:12Z`, performance authority
+`SYNTH-PERFORMANCE-EXECUTION-AUTHORITY-001@r1` is signed by
 `synthetic-receiving-owner` under
-`synthetic-deployment-execution-decision-authority@r1`. It authorizes only
-`synthetic-deployment-executor` once to deploy the exact frozen synthetic
-graduation receipt after verifying the full lineage, request and refusal,
-risks, maintenance and correction custody, no revocation, and unconsumed
-authority. It authorizes no performance, publication, contact, real-owner
+`synthetic-performance-execution-decision-authority@r1`. It authorizes only
+`synthetic-performance-executor` once to perform the exact frozen synthetic
+deployment receipt after verifying full lineage, request and refusal,
+deployment decision, risks, maintenance and correction custody, no revocation,
+and unconsumed authority. It authorizes no publication, contact, real-owner
 effect, or external action.
 
-At `2026-08-27T23:42:12Z`, every required check matches. Decision
-`SYNTH-DEPLOYMENT-EXECUTION-DECISION-001@r1` is signed by the authorized
-executor and records `deploy_synthetic_graduated_candidate_without_performance`.
-Content `synthetic-content:deployment-execution-decision-001-r1` has a valid
-checksum. At `2026-08-27T23:45:12Z`, trace
-`SYNTH-DEPLOYMENT-EXECUTION-TRACE-001@r1` and receipt
-`SYNTH-DEPLOYMENT-EXECUTION-RECEIPT-001@r1`, content
-`synthetic-content:deployment-execution-receipt-001-r1`, record only the
-synthetic process transition. The authority is consumed. State becomes
-`deployed_not_performed`; prepared return is
-`synthetic_deployment_execution_record_only`.
+At `2026-08-27T23:52:12Z`, every required check matches. Decision
+`SYNTH-PERFORMANCE-EXECUTION-DECISION-001@r1` is signed by the authorized
+executor and records `perform_synthetic_deployed_candidate_without_publication`.
+Content `synthetic-content:performance-execution-decision-001-r1` has a valid
+checksum. At `2026-08-27T23:55:12Z`, trace
+`SYNTH-PERFORMANCE-EXECUTION-TRACE-001@r1` and receipt
+`SYNTH-PERFORMANCE-EXECUTION-RECEIPT-001@r1`, content
+`synthetic-content:performance-execution-receipt-001-r1`, record only the
+synthetic process transition. Authority is consumed. State becomes
+`performed_not_published`; prepared return is
+`synthetic_performance_execution_record_only`.
 
-Authority-laundering, scope-drift, custody-loss, premature-deployment, and
-unvalidated-performance risks remain explicit. Maintenance owner is
+Authority-laundering, scope-drift, custody-loss, premature-publication, and
+unvalidated-outcome risks remain explicit. Maintenance owner is
 `synthetic-receiving-owner`; correction owner is
 `synthetic-mechanism-map-owner`. All actors and evidence are synthetic.
 
 Stop on any named source, candidate, owner, risk, proposal, transfer receipt,
-graduation receipt, request, refusal, authority, decision, trace, receipt,
-content ID, checksum, or revocation change. Failure modes include request or
-refusal treated as authority, deployment treated as performance, authority
-reused, risks erased, custody lost, or a real downstream effect invented.
-Failed deployment recovery retracts only the deployment decision, trace, and
-receipt; preserves the request, refusal, graduation receipt, accepted proposal,
-and full transfer evidence; restores `graduated_not_deployed`; and changes no
-real owner or candidate. Exact next wake is exact performance authority plus
-an authorized performance decision under the frozen deployment receipt, or any
-named revision.
+graduation receipt, deployment request, refusal, authority, decision, trace,
+receipt, content ID, checksum, or revocation change. Failure modes include
+deployment treated as performance authority, performance treated as
+publication, authority reuse, erased risk, custody loss, or invented real
+downstream effect. Failed performance recovery retracts only the performance
+decision, trace, and receipt; preserves every predecessor; restores
+`deployed_not_performed`; and changes no real owner or candidate. Exact next
+wake is exact publication authority plus an authorized publication decision
+under the frozen performance receipt, or any named revision.
 
 ## Work now
 
 Draft
-`graduations/GRADUATION-DEPLOYMENT-AUTHORIZED-NO-PERFORMANCE-AUTHORITY-BOUNDARY-FIXTURE.md`
+`graduations/GRADUATION-PERFORMANCE-AUTHORIZED-NO-PUBLICATION-AUTHORITY-BOUNDARY-FIXTURE.md`
 with exactly this frontmatter:
 
 ---
-artifact_type: synthetic_graduation_deployment_authorized_no_performance_authority_boundary_fixture
+artifact_type: synthetic_graduation_performance_authorized_no_publication_authority_boundary_fixture
 status: candidate_process_fixture
 external_action: none
 ---
 
-Use title `# Synthetic Graduation Deployment Authorized No-Performance-Authority Boundary Fixture`
-and exactly these `##` sections: `Use Boundary`, `Deployment Header`, `Frozen
-Candidate, Transfer, Proposal, Graduation, And Request`, `Exact Predecessor
-Custody`, `Deployment Execution Authority`, `Authorized Deployment Decision,
-Trace, And Receipt`, `Unresolved Risk, Maintenance, And Legitimacy`, `Stops,
-Correction, Recovery, And Reopen`, `Prepared Return And Downstream
-Nonperformance`, and `Frontier Verification`. Copy every supplied keyed-row
-value unchanged into the named consuming section. Preserve every identifier,
-timestamp, signer, decider, authority scope, pointer, content ID, checksum
-assertion, historical state, risk, stop, failure mode, correction, recovery,
-non-effect, and exact wake.
+Use title `# Synthetic Graduation Performance Authorized No-Publication-Authority Boundary Fixture`
+and exactly these `##` sections: `Use Boundary`, `Performance Header`, `Frozen
+Deployment, Candidate, Transfer, Proposal, And Graduation`, `Exact Deployment
+And Predecessor Custody`, `Performance Execution Authority`, `Authorized
+Performance Decision, Trace, And Receipt`, `Unresolved Risk, Maintenance, And
+Legitimacy`, `Stops, Correction, Recovery, And Reopen`, `Prepared Return And
+Downstream Nonpublication`, and `Frontier Verification`. Copy every supplied
+literal row unchanged into the named consuming section. Preserve every named
+identifier, timestamp, signer, authority scope, pointer, content ID, checksum
+assertion, risk, stop, failure mode, correction, recovery, non-effect, and exact
+wake.
 
 Return only the finished artifact. First line must be `---`; do not use a code
 fence; copy the literal frontmatter exactly; and use `##` for every named body

@@ -203,3 +203,8 @@ authority, deployment readiness, or external outcome.
   candidate-content revision and independent-validation authorities to reach
   `candidate_content_revised_validated_no_p8` while withholding P8, real
   candidate change, transfer, graduation, deployment, and external action.
+- `CANDIDATE-REVISION-SYNTHETIC-P8-REQUEST-REFUSED-NO-EXECUTION-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves that validated revision lineage, adds one non-operative synthetic
+  P8 request, and consumes one request-review authority to refuse it because a
+  new frozen proving plan and P8 execution authority are absent; process state,
+  disposition, score, `CMD-0001`, real P8, and external action remain unchanged.

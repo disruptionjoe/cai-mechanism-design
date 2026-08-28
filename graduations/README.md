@@ -43,3 +43,7 @@ transfer plan. No destination acceptance means no graduation.
   to refuse it because deployment authority is absent; process state remains
   `graduated_not_deployed` with no performance, publication, contact,
   real-owner effect, or external action.
+- `GRADUATION-DEPLOYMENT-AUTHORIZED-NO-PERFORMANCE-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves that request and refusal history, then consumes one exact
+  deployment authority to reach `deployed_not_performed` while withholding
+  performance, publication, contact, real-owner effect, and external action.
