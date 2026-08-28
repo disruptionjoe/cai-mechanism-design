@@ -51,3 +51,9 @@ transfer plan. No destination acceptance means no graduation.
   preserves the complete deployment lineage and consumes one exact synthetic
   performance authority to reach `performed_not_published` while withholding
   publication, contact, real-owner effect, and external action.
+- `GRADUATION-PERFORMANCE-PUBLICATION-REQUEST-REFUSED-NO-PUBLICATION-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves that complete performance lineage, records one non-operative
+  publication request, and consumes one request-review authority to refuse it
+  because publication execution authority is absent; state remains
+  `performed_not_published` with no posting, sending, contact, real-owner
+  effect, or external action.

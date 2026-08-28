@@ -213,3 +213,9 @@ authority, deployment readiness, or external outcome.
   plan and execution authority to reach
   `synthetic_p8_executed_unobserved_unscored` while withholding observation,
   scoring, disposition, real P8, and external action.
+- `CANDIDATE-REVISION-SYNTHETIC-P8-OBSERVED-NO-SCORING-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves that complete synthetic P8 execution lineage and consumes one
+  exact observation authority to reach
+  `synthetic_p8_executed_observed_unscored` while keeping negative evidence
+  and `revision_required` visible and withholding scoring, disposition, real
+  P8, and external action.
