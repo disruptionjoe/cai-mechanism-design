@@ -255,3 +255,8 @@ authority, deployment readiness, or external outcome.
   `revision_required`, then consumes one exact acceptance authority to record
   internal synthetic result acceptance without candidate disposition, real
   candidate mutation, P8, transfer, graduation, or external action.
+- `CANDIDATE-ADMISSION-SYNTHETIC-LEAST-CONSEQUENTIAL-PROVING-PLAN-PREPARED-NO-PROVING-EFFECT-BOUNDARY-FIXTURE.md`
+  preserves the executed synthetic admission and no-owner-fit boundary, then
+  consumes one exact plan-preparation authority to prepare a reversible
+  pointer-comparison proving plan without executing proving, scoring, changing
+  a real candidate, or creating an external effect.

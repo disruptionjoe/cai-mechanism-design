@@ -94,3 +94,8 @@ evidence-backed outcomes.
   `revision_required`, then consumes one exact preparation authority to record
   a synthetic `revise` disposition as prepared but not executed, without real
   candidate mutation, P8, transfer, graduation, deployment, or external action.
+- `CANDIDATE-DISPOSITION-SYNTHETIC-P8-CORRECTED-RESULT-REVISION-EXECUTED-NO-REAL-CANDIDATE-CHANGE-BOUNDARY-FIXTURE.md`
+  preserves that prepared disposition and negative evidence, then consumes one
+  exact execution authority to execute only the synthetic `revise` disposition
+  while leaving candidate content, `CMD-0001`, real P8, transfer, graduation,
+  deployment, publication, contact, and external action unchanged.
