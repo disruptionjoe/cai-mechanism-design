@@ -260,3 +260,12 @@ authority, deployment readiness, or external outcome.
   consumes one exact plan-preparation authority to prepare a reversible
   pointer-comparison proving plan without executing proving, scoring, changing
   a real candidate, or creating an external effect.
+- `CANDIDATE-ADMISSION-SYNTHETIC-PROVING-EXECUTION-REQUEST-PREPARED-NO-PROVING-EFFECT-BOUNDARY-FIXTURE.md`
+  preserves that prepared plan and predecessor custody, then consumes one exact
+  request-preparation authority to prepare a non-operative synthetic treatment
+  request without granting or executing proving or changing a real candidate.
+- `CANDIDATE-REVISION-SYNTHETIC-P8-CORRECTED-RESULT-REVISION-PLAN-PREPARED-NO-REAL-CANDIDATE-CHANGE-BOUNDARY-FIXTURE.md`
+  preserves the executed synthetic `revise` disposition, negative evidence,
+  and `revision_required`, then consumes one exact plan-preparation authority
+  to prepare a field-bounded revision plan without changing candidate content,
+  real P8, disposition, or external state.
