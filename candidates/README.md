@@ -178,3 +178,10 @@ status changes.
   authority and transfer authority remains absent, without changing candidate
   state or creating transfer, graduation, deployment, performance, or external
   action.
+- `MECHANISM-ALTERNATIVE-MAP-DESTINATION-CANDIDATE-TRANSFERRED-AFTER-ACCEPTANCE-NO-GRADUATION-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves that full lineage and exact receiving-owner acceptance, then uses
+  one separately authorized transfer decision, trace, and receipt to move only
+  the synthetic route to `destination_candidate_transferred_not_graduated`
+  while keeping transfer distinct from Mechanism Design disposition,
+  graduation, deployment, performance, publication, contact, and external
+  action.

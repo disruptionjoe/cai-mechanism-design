@@ -76,3 +76,10 @@ evidence-backed outcomes.
   is not execution authority and exact revision authority remains absent,
   without changing real candidate state or creating P8, transfer, graduation,
   deployment, publication, contact, or external action.
+- `CANDIDATE-DISPOSITION-SYNTHETIC-REVISE-AUTHORIZED-AFTER-SOURCE-BACKED-EVIDENCE-NO-P8-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves that evidence, all three request refusals, bounded pass, negative
+  evidence, invalid defer, recovery, and reauthorized defer, then uses one
+  exact revision-disposition authority to change only synthetic disposition to
+  `revision_required` while leaving candidate content, P8, real disposition,
+  transfer, graduation, deployment, publication, contact, and external action
+  unchanged.
