@@ -197,3 +197,9 @@ authority, deployment readiness, or external outcome.
   template to that frozen request, keeps every requested field non-operative,
   and records `defer` with exact authorized effect `none` while authority,
   decision-maker, time, and stop-authority evidence remain missing.
+- `CANDIDATE-REVISION-SYNTHETIC-EXECUTED-VALIDATED-NO-P8-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves the complete bounded-pass, negative-evidence, disposition,
+  refusal, source-evidence, and planning lineage, then consumes exact
+  candidate-content revision and independent-validation authorities to reach
+  `candidate_content_revised_validated_no_p8` while withholding P8, real
+  candidate change, transfer, graduation, deployment, and external action.
