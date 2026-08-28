@@ -57,3 +57,8 @@ transfer plan. No destination acceptance means no graduation.
   because publication execution authority is absent; state remains
   `performed_not_published` with no posting, sending, contact, real-owner
   effect, or external action.
+- `GRADUATION-PUBLICATION-EXECUTION-AUTHORIZED-NO-EXTERNAL-EFFECT-BOUNDARY-FIXTURE.md`
+  preserves that complete request-and-refusal lineage, then consumes one exact
+  synthetic publication execution authority to record an internal process
+  transition without an endpoint, posting, sending, contact, public release,
+  real-owner effect, or external action.

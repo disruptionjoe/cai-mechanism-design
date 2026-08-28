@@ -219,3 +219,9 @@ authority, deployment readiness, or external outcome.
   `synthetic_p8_executed_observed_unscored` while keeping negative evidence
   and `revision_required` visible and withholding scoring, disposition, real
   P8, and external action.
+- `CANDIDATE-REVISION-SYNTHETIC-P8-SCORED-NO-DISPOSITION-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves that complete execution-and-observation lineage and consumes one
+  exact scoring authority to reach
+  `synthetic_p8_executed_observed_scored_no_disposition` while keeping
+  negative evidence and `revision_required` visible and withholding real
+  disposition, real P8, and external action.
