@@ -62,3 +62,10 @@ evidence-backed outcomes.
   review refusal because materially new evidence and revision authority are
   absent, without changing real candidate state or creating P8, transfer,
   graduation, deployment, publication, contact, or external action.
+- `CANDIDATE-DISPOSITION-SYNTHETIC-UNSUPPORTED-CONCERN-REVISE-REQUEST-REFUSED-NO-REVISION-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves both refused revise requests, the invalid first defer, recovery,
+  and current reauthorized defer, then records one unsupported concern as a
+  non-operative lead and refuses renewed revision because the concern is not
+  source-backed evidence and revision authority remains absent, without
+  changing real candidate state or creating P8, transfer, graduation,
+  deployment, publication, contact, or external action.

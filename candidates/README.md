@@ -164,3 +164,10 @@ status changes.
   because receiving-owner acceptance and transfer authority are absent,
   without changing candidate state or creating transfer, graduation,
   deployment, performance, or external action.
+- `MECHANISM-ALTERNATIVE-MAP-DESTINATION-CANDIDATE-RECEIVING-OWNER-INTEREST-NO-ACCEPTANCE-OR-TRANSFER-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves both refused transfer requests and the complete execution and
+  destination-state lineage, then records receiving-owner interest as
+  non-operative evidence and refuses renewed transfer because interest is not
+  acceptance and transfer authority remains absent, without changing candidate
+  state or creating transfer, graduation, deployment, performance, or external
+  action.
