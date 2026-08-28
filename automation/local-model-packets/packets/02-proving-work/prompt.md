@@ -12,7 +12,7 @@ one-use candidate-disposition revision authority and one authorized synthetic
 `revision_required`; it does not revise candidate content, execute a proving
 plan, create P8, or change a real candidate. It is not transfer, graduation,
 deployment, publication, contact, or external action. External action is
-`none`. Do not modify `CMD-0001` or create P8.
+`none`. External action is `none`. Do not modify `CMD-0001` or create P8.
 
 ## Frozen evidence
 
