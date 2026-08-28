@@ -89,3 +89,8 @@ evidence-backed outcomes.
   plan while holding synthetic state at `revision_plan_prepared_not_executed`,
   disposition at `revision_required`, and candidate content, score, P8, and
   all real state unchanged.
+- `CANDIDATE-DISPOSITION-SYNTHETIC-P8-CORRECTED-RESULT-REVISION-PREPARED-NO-REAL-CANDIDATE-CHANGE-BOUNDARY-FIXTURE.md`
+  preserves the accepted corrected-result package, negative evidence, and
+  `revision_required`, then consumes one exact preparation authority to record
+  a synthetic `revise` disposition as prepared but not executed, without real
+  candidate mutation, P8, transfer, graduation, deployment, or external action.

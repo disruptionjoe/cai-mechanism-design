@@ -190,3 +190,8 @@ status changes.
   result, and non-operative admission value, then consumes one exact review
   authority to record review only without candidate admission, proving,
   routing, disposition, transfer, graduation, deployment, or external action.
+- `CANDIDATE-ADMISSION-SYNTHETIC-DECISION-EXECUTED-NO-REAL-CANDIDATE-EFFECT-BOUNDARY-FIXTURE.md`
+  preserves the reviewed no-owner-fit decision and its exact custody, then
+  consumes one separate admission-execution authority to admit only the
+  synthetic process fixture without creating a real candidate, proving,
+  routing, disposition, transfer, graduation, deployment, or external action.
