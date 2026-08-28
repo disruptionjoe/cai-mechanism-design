@@ -13,7 +13,8 @@ artifact under 2,800 words.
 
 ## Frozen evidence
 
-Use `GOVERNANCE.md` and
+Use `GOVERNANCE.md`,
+`interfaces/DESTINATION-OWNER-SYNTHETIC-REVIEW-REQUEST-TEMPLATE.md`, and
 `graduations/GRADUATION-PERFORMANCE-AUTHORIZED-NO-PUBLICATION-AUTHORITY-BOUNDARY-FIXTURE.md`.
 Preserve its complete route, destination, transfer, proposal, graduation,
 deployment, and performance lineage; every consumed authority; all risks,

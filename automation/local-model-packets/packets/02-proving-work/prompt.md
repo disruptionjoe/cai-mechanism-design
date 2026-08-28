@@ -14,7 +14,8 @@ finished artifact under 2,800 words.
 
 ## Frozen evidence
 
-Use `GOVERNANCE.md`, `proving/PROVING-EXECUTION-TRACE-TEMPLATE.md`, and
+Use `GOVERNANCE.md`, `proving/LEAST-CONSEQUENTIAL-PROVING-PLAN-TEMPLATE.md`,
+`proving/PROVING-EXECUTION-TRACE-TEMPLATE.md`, and
 `proving/CANDIDATE-REVISION-SYNTHETIC-P8-EXECUTED-NO-OBSERVATION-AUTHORITY-BOUNDARY-FIXTURE.md`.
 Preserve its validated candidate revision, `revision_required` disposition,
 prior bounded score, negative evidence, non-operative P8 request and refusal,
