@@ -269,3 +269,13 @@ authority, deployment readiness, or external outcome.
   and `revision_required`, then consumes one exact plan-preparation authority
   to prepare a field-bounded revision plan without changing candidate content,
   real P8, disposition, or external state.
+- `CANDIDATE-ADMISSION-SYNTHETIC-PROVING-AUTHORIZED-NOT-EXECUTED-BOUNDARY-FIXTURE.md`
+  preserves the prepared synthetic proving request, plan, claim, falsifier,
+  data, standing, stops, and recovery, then consumes one exact decision
+  authority to authorize only a future frozen pointer comparison without
+  execution, observation, scoring, disposition, or real candidate effect.
+- `CANDIDATE-REVISION-SYNTHETIC-P8-CORRECTED-RESULT-REVISION-AUTHORIZED-NOT-EXECUTED-BOUNDARY-FIXTURE.md`
+  preserves the prepared synthetic revision plan, negative evidence, and
+  `revision_required`, then consumes one exact decision authority to authorize
+  only a future field-bounded content revision without executing or validating
+  it or changing `CMD-0001`, real P8, disposition, or external state.
