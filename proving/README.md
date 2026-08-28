@@ -230,3 +230,8 @@ authority, deployment readiness, or external outcome.
   authority to keep `revision_required` visible at
   `synthetic_p8_scored_disposition_reviewed_no_real_disposition` without real
   disposition, candidate mutation, real P8, or external action.
+- `CANDIDATE-REVISION-SYNTHETIC-P8-REVISION-CORRECTION-AUTHORIZED-NO-REAL-CANDIDATE-CHANGE-BOUNDARY-FIXTURE.md`
+  preserves that reviewed synthetic P8 lineage and negative evidence, then
+  consumes one exact correction authority to record an internal synthetic
+  revision-correction state while keeping `revision_required` visible and
+  creating no real candidate mutation, disposition, P8, or external action.

@@ -67,3 +67,9 @@ transfer plan. No destination acceptance means no graduation.
   one exact synthetic withdrawal authority to record an internal withdrawal
   transition without deletion, actual unpublishing, contact, posting, sending,
   public release, real-owner effect, or external action.
+- `GRADUATION-PUBLICATION-WITHDRAWAL-MAINTENANCE-AUTHORIZED-NO-EXTERNAL-EFFECT-BOUNDARY-FIXTURE.md`
+  preserves that withdrawal receipt and refusal history, then consumes one
+  exact synthetic maintenance authority to record an internal maintained-
+  withdrawal state without republication, deletion, actual unpublishing,
+  contact, posting, sending, public release, real-owner effect, or external
+  action.
