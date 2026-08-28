@@ -185,3 +185,8 @@ status changes.
   while keeping transfer distinct from Mechanism Design disposition,
   graduation, deployment, performance, publication, contact, and external
   action.
+- `CANDIDATE-ADMISSION-SYNTHETIC-DECISION-REVIEW-AUTHORIZED-NO-ADMISSION-EFFECT-BOUNDARY-FIXTURE.md`
+  preserves the prepared no-owner-fit decision, source, candidate, owner-fit
+  result, and non-operative admission value, then consumes one exact review
+  authority to record review only without candidate admission, proving,
+  routing, disposition, transfer, graduation, deployment, or external action.

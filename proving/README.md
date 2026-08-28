@@ -250,3 +250,8 @@ authority, deployment readiness, or external outcome.
   `revision_required`, then consumes one exact acknowledgment authority to
   record receipt only without result acceptance, real candidate mutation,
   disposition, P8, or external action.
+- `CANDIDATE-REVISION-SYNTHETIC-P8-CORRECTED-RESULT-ACCEPTED-NO-REAL-CANDIDATE-CHANGE-BOUNDARY-FIXTURE.md`
+  preserves that acknowledgment, negative evidence, and
+  `revision_required`, then consumes one exact acceptance authority to record
+  internal synthetic result acceptance without candidate disposition, real
+  candidate mutation, P8, transfer, graduation, or external action.
