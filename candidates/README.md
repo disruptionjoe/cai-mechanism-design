@@ -158,3 +158,9 @@ status changes.
   re-defers the unchanged synthetic candidate pending new evidence without
   acceptance, Mechanism Design disposition, transfer, graduation, deployment,
   performance, or external action.
+- `MECHANISM-ALTERNATIVE-MAP-DESTINATION-CANDIDATE-TRANSFER-REQUEST-REFUSED-AFTER-REDEFER-ROUTE-NO-TRANSFER-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves the complete lineage and current re-defer, then records one
+  non-operative transfer request and a separately authorized review refusal
+  because receiving-owner acceptance and transfer authority are absent,
+  without changing candidate state or creating transfer, graduation,
+  deployment, performance, or external action.

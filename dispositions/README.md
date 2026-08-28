@@ -56,3 +56,9 @@ evidence-backed outcomes.
   preserves the retracted first defer and recovered accepted-return state, then
   uses a new one-use authority to execute only defer again without restoring
   prior authority, inventing revision, or changing real candidate state.
+- `CANDIDATE-DISPOSITION-SYNTHETIC-REVISE-REQUEST-REFUSED-AFTER-DEFER-REAUTHORIZATION-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves the invalid first defer, recovery, and current reauthorized defer,
+  then records one non-operative revise request and a separately authorized
+  review refusal because materially new evidence and revision authority are
+  absent, without changing real candidate state or creating P8, transfer,
+  graduation, deployment, publication, contact, or external action.
