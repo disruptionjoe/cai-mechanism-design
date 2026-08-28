@@ -32,3 +32,8 @@ transfer plan. No destination acceptance means no graduation.
   holding process state at `graduation_proposal_accepted_not_graduated`
   without graduation execution, deployment, performance, publication,
   contact, real-owner effect, or external action.
+- `GRADUATION-EXECUTION-AUTHORIZED-AFTER-ACCEPTED-PROPOSAL-NO-DEPLOYMENT-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves that full transfer and proposal-acceptance lineage, then consumes
+  one exact graduation authority to reach `graduated_not_deployed` while
+  withholding deployment, performance, publication, contact, real-owner
+  effect, and external action.
