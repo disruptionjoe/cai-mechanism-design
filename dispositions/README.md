@@ -83,3 +83,9 @@ evidence-backed outcomes.
   `revision_required` while leaving candidate content, P8, real disposition,
   transfer, graduation, deployment, publication, contact, and external action
   unchanged.
+- `CANDIDATE-DISPOSITION-SYNTHETIC-REVISION-PLAN-AUTHORIZED-NO-CONTENT-REVISION-OR-P8-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves that complete evidence and authority lineage, then uses one exact
+  plan-preparation authority to record a non-operative source-backed revision
+  plan while holding synthetic state at `revision_plan_prepared_not_executed`,
+  disposition at `revision_required`, and candidate content, score, P8, and
+  all real state unchanged.

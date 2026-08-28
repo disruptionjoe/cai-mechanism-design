@@ -26,3 +26,9 @@ transfer plan. No destination acceptance means no graduation.
   destination-native fit, acceptance, or transfer authority and preserves
   source custody, correction, retained risk, and `defer` without creating
   contact, graduation, or transfer.
+- `GRADUATION-PROPOSAL-TRANSFERRED-CANDIDATE-ACCEPTED-NO-GRADUATION-EXECUTION-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves the full synthetic transfer lineage, concrete unresolved-risk
+  custody, one graduation proposal, and destination-owner acceptance while
+  holding process state at `graduation_proposal_accepted_not_graduated`
+  without graduation execution, deployment, performance, publication,
+  contact, real-owner effect, or external action.
