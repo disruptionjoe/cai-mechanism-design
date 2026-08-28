@@ -16,6 +16,28 @@ a governed Progress effect has installed its exact `prompt.md`. Only then may
 an explicitly authorized Mac job point to the slot. Do not install a no-work,
 placeholder, work-selecting, or repository-browsing prompt.
 
+### Current packet-selection priority
+
+Stewardship should use the next terminal slot opportunities to move away from
+serial synthetic candidate-lifecycle fixtures and toward the repository's
+intervention-discovery purpose. Prefer, in order:
+
+1. a source-bounded comparison of interventions tied to one admitted Systemic
+   Failure pattern or inquiry;
+2. a historical comparison of where the same intervention succeeded, failed,
+   or produced a new capture surface;
+3. an alternative map explaining how each mechanism changes incentives,
+   information, resource allocation, authority, enforcement, or recovery; or
+4. a least-consequential proving design for one sufficiently supported
+   intervention hypothesis.
+
+Every packet should make evidence strength, success conditions, prerequisites,
+cost, enforceability, affected-party standing, side effects, and
+prevention-versus-repair posture visible. Modern technological mechanisms may
+be explored only with explicit bias, error, appeal, correction, misuse, and
+accountability boundaries. Generic receipt, custody, authorization, transfer,
+or candidate-state permutations are not sufficient packet purposes.
+
 For every completed slot attempt, the next Frontier cycle must record a
 terminal disposition before replacing that prompt: `prepared_frontier_progress`,
 `already_handled`, `reject`, `defer`, or `needs_judgment`. It may then install

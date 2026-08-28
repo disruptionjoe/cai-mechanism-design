@@ -32,6 +32,15 @@ source and inquiry admission, existing-owner fit, materially new source claims,
 hard mechanism architecture, consequential proving, disposition, graduation,
 destination-owner acceptance, external action, and final integration.
 
+The current content priority is narrower than that general capability list:
+source-bounded comparisons of interventions for named systemic-failure
+patterns, historical success and failure conditions, mechanism and incentive
+analysis, implementation cost and enforceability, side effects and capture
+risk, and bounded modern-technology possibilities. Synthetic fixture work is
+deprioritized unless it tests one exact uncertainty in such an intervention.
+Repeated candidate-lifecycle or authority-boundary permutations are not useful
+progress by themselves.
+
 The initial packets create process-progress candidates: a reusable destination-
 owner synthetic-review intake template and a reusable least-consequential
 proving-plan template. They do not reopen deferred `CMD-0001`, increase its

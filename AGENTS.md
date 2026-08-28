@@ -31,6 +31,30 @@ Execution Boundary below. Never discard user work.
   safe proving steps, preserve negative evidence, and hand solutions to the
   right enduring owner.
 
+## Current Research Priority
+
+Prioritize interventions for source-backed systemic-failure patterns over
+further synthetic lifecycle and authority-boundary elaboration. For each
+admitted pattern or inquiry, determine what has been tried, what changed the
+relevant incentives or capabilities, when it worked or failed, and what it
+cost to implement and sustain.
+
+Compare candidate interventions by causal mechanism, evidence strength,
+success conditions, prerequisites, affordability, enforceability, side
+effects, new capture surfaces, affected-party standing, and prevention at
+creation versus repair after failure. Modern capabilities such as verifiable
+commitments, auditable bounded AI support, separation of functions or powers,
+term limits, distributed monitoring, and reversible delegation are hypotheses
+to test, not assumed solutions. AI support is never presumed unbiased and must
+retain error, appeal, correction, and accountable-human boundaries.
+
+Prefer a source-bounded intervention comparison, historical intervention case,
+mechanism alternative map, or least-consequential proving design tied to one
+named failure pattern. Do not create another custody, receipt, authorization,
+or candidate-state fixture merely to keep automation active. This priority
+does not reopen deferred `CMD-0001`, admit a new candidate without evidence,
+or authorize consequential proving or deployment.
+
 ## System Execution Boundary
 
 This repository owns its purpose, governance, authoritative work and Lane
