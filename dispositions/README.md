@@ -52,3 +52,7 @@ evidence-backed outcomes.
   preserves that accepted return, executed defer, and negative evidence, then
   uses separate checksum evidence and one-use correction authority to retract
   only the invalid defer decision without inventing revision or real state.
+- `CANDIDATE-DISPOSITION-SYNTHETIC-DEFER-REAUTHORIZED-AFTER-RECOVERY-NO-REVISION-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves the retracted first defer and recovered accepted-return state, then
+  uses a new one-use authority to execute only defer again without restoring
+  prior authority, inventing revision, or changing real candidate state.

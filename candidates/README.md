@@ -152,3 +152,9 @@ status changes.
   records one separately authorized destination-owner reopen for later review
   while keeping reopen distinct from acceptance, Mechanism Design disposition,
   transfer, graduation, deployment, performance, and external action.
+- `MECHANISM-ALTERNATIVE-MAP-DESTINATION-CANDIDATE-REDEFERRED-AFTER-REOPEN-ROUTE-NO-TRANSFER-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves that lineage plus historical defer, rejection, and reopen, then
+  records one separately authorized destination-owner review decision that
+  re-defers the unchanged synthetic candidate pending new evidence without
+  acceptance, Mechanism Design disposition, transfer, graduation, deployment,
+  performance, or external action.
