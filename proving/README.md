@@ -225,3 +225,8 @@ authority, deployment readiness, or external outcome.
   `synthetic_p8_executed_observed_scored_no_disposition` while keeping
   negative evidence and `revision_required` visible and withholding real
   disposition, real P8, and external action.
+- `CANDIDATE-REVISION-SYNTHETIC-P8-DISPOSITION-REVIEWED-NO-REAL-DISPOSITION-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves that scored synthetic P8 lineage and consumes one exact review
+  authority to keep `revision_required` visible at
+  `synthetic_p8_scored_disposition_reviewed_no_real_disposition` without real
+  disposition, candidate mutation, real P8, or external action.

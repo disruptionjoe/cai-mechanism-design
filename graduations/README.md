@@ -62,3 +62,8 @@ transfer plan. No destination acceptance means no graduation.
   synthetic publication execution authority to record an internal process
   transition without an endpoint, posting, sending, contact, public release,
   real-owner effect, or external action.
+- `GRADUATION-PUBLICATION-WITHDRAWAL-AUTHORIZED-NO-EXTERNAL-EFFECT-BOUNDARY-FIXTURE.md`
+  preserves that publication-process receipt and prior refusal, then consumes
+  one exact synthetic withdrawal authority to record an internal withdrawal
+  transition without deletion, actual unpublishing, contact, posting, sending,
+  public release, real-owner effect, or external action.
