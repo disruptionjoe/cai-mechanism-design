@@ -208,3 +208,8 @@ authority, deployment readiness, or external outcome.
   P8 request, and consumes one request-review authority to refuse it because a
   new frozen proving plan and P8 execution authority are absent; process state,
   disposition, score, `CMD-0001`, real P8, and external action remain unchanged.
+- `CANDIDATE-REVISION-SYNTHETIC-P8-EXECUTED-NO-OBSERVATION-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves that request and refusal history, then consumes exact synthetic P8
+  plan and execution authority to reach
+  `synthetic_p8_executed_unobserved_unscored` while withholding observation,
+  scoring, disposition, real P8, and external action.
