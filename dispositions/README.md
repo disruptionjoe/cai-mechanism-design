@@ -43,3 +43,8 @@ evidence-backed outcomes.
   correction, recovery, and authority controls; completing it does not execute
   a disposition or authorize contact, transfer, graduation, deployment, or
   external action.
+- `CANDIDATE-DISPOSITION-SYNTHETIC-DEFER-AFTER-ACCEPTED-RETURN-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves one validated synthetic `bounded_pass`, accepted return, and
+  negative evidence, then records one separately authorized `defer` decision
+  while keeping return acceptance, disposition authority, real candidate
+  state, transfer, graduation, deployment, and external action distinct.

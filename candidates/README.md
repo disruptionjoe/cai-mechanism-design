@@ -141,3 +141,9 @@ status changes.
   separately authorized destination-owner defer disposition while keeping
   deferral distinct from Mechanism Design disposition, result acceptance,
   transfer, graduation, deployment, performance, and external action.
+- `MECHANISM-ALTERNATIVE-MAP-DESTINATION-CANDIDATE-REJECTED-ROUTE-NO-TRANSFER-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves the complete lineage, destination admission, and historical defer,
+  then records one separately authorized destination-owner rejection while
+  keeping rejection distinct from Mechanism Design disposition, result
+  acceptance, transfer, graduation, deployment, performance, and external
+  action.
