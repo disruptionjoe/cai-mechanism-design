@@ -147,3 +147,8 @@ status changes.
   keeping rejection distinct from Mechanism Design disposition, result
   acceptance, transfer, graduation, deployment, performance, and external
   action.
+- `MECHANISM-ALTERNATIVE-MAP-DESTINATION-CANDIDATE-REOPENED-ROUTE-NO-TRANSFER-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves the complete lineage plus historical defer and rejection, then
+  records one separately authorized destination-owner reopen for later review
+  while keeping reopen distinct from acceptance, Mechanism Design disposition,
+  transfer, graduation, deployment, performance, and external action.

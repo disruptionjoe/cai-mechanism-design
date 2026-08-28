@@ -48,3 +48,7 @@ evidence-backed outcomes.
   negative evidence, then records one separately authorized `defer` decision
   while keeping return acceptance, disposition authority, real candidate
   state, transfer, graduation, deployment, and external action distinct.
+- `CANDIDATE-DISPOSITION-SYNTHETIC-DEFER-RECOVERY-NO-REVISION-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves that accepted return, executed defer, and negative evidence, then
+  uses separate checksum evidence and one-use correction authority to retract
+  only the invalid defer decision without inventing revision or real state.
