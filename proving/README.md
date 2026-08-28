@@ -235,3 +235,8 @@ authority, deployment readiness, or external outcome.
   consumes one exact correction authority to record an internal synthetic
   revision-correction state while keeping `revision_required` visible and
   creating no real candidate mutation, disposition, P8, or external action.
+- `CANDIDATE-REVISION-SYNTHETIC-P8-REVISION-CORRECTION-VALIDATED-NO-REAL-CANDIDATE-CHANGE-BOUNDARY-FIXTURE.md`
+  preserves that correction receipt, negative evidence, and
+  `revision_required`, then consumes one exact correction-validation authority
+  to validate only the synthetic correction record while creating no real
+  candidate validation, mutation, disposition, P8, or external action.

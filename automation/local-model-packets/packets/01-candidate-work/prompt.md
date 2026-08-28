@@ -1,67 +1,69 @@
-# Record one synthetic republication request refusal after withdrawal maintenance
+# Record one authorized synthetic republication process transition
 
 ## Boundary
 
 Return one compact synthetic graduation-process fixture from only the frozen
-evidence below. Add one non-operative synthetic republication request, one
-exact request-review authority, one refusal decision, and one receipt. Keep
-state at `synthetic_publication_withdrawal_maintained_no_external_effect`
-because republication execution authority is absent. This is not posting,
-sending, contact, public release, deletion, real-owner acceptance, or external
-action. Do not modify `CMD-0001` or create P8. External action is `none`.
+evidence below. Add one exact one-use synthetic republication execution
+authority, one decision, one internal trace, and one receipt. Change only
+synthetic process state from
+`synthetic_publication_withdrawal_maintained_no_external_effect` to
+`synthetic_publication_republication_recorded_no_external_effect`. There is no
+endpoint and no posting, sending, contact, public release, deletion,
+real-owner acceptance, or external action. Do not modify `CMD-0001` or create
+P8. External action is `none`.
 
 ## Frozen evidence
 
 Use `GOVERNANCE.md`,
 `interfaces/DESTINATION-OWNER-SYNTHETIC-REVIEW-REQUEST-TEMPLATE.md`, and
-`graduations/GRADUATION-PUBLICATION-WITHDRAWAL-MAINTENANCE-AUTHORIZED-NO-EXTERNAL-EFFECT-BOUNDARY-FIXTURE.md`.
+`graduations/GRADUATION-PUBLICATION-REPUBLICATION-REQUEST-REFUSED-NO-REPUBLICATION-AUTHORITY-BOUNDARY-FIXTURE.md`.
 Copy each row once in the section that consumes it:
 
 | Key | Exact value |
 | --- | --- |
+| `request_review_decision` | `SYNTH-PUBLICATION-REPUBLICATION-REQUEST-REVIEW-DECISION-001@r1` |
+| `request_review_receipt` | `SYNTH-PUBLICATION-REPUBLICATION-REQUEST-REVIEW-RECEIPT-001@r1` |
+| `request_review_receipt_content` | `synthetic-content:publication-republication-request-review-receipt-001-r1` |
 | `maintenance_receipt` | `SYNTH-PUBLICATION-WITHDRAWAL-MAINTENANCE-RECEIPT-001@r1` |
-| `maintenance_receipt_content` | `synthetic-content:publication-withdrawal-maintenance-receipt-001-r1` |
-| `withdrawal_receipt` | `SYNTH-PUBLICATION-WITHDRAWAL-RECEIPT-001@r1` |
 | `current_state` | `synthetic_publication_withdrawal_maintained_no_external_effect` |
-| `prior_return` | `synthetic_publication_withdrawal_maintenance_record_only` |
+| `prior_return` | `synthetic_publication_republication_request_refusal_record_only` |
 
-Every predecessor checksum is valid and prior records remain history. At
-`2026-08-28T00:40:12Z`, request
-`SYNTH-PUBLICATION-REPUBLICATION-REQUEST-001@r1` is prepared internally by
-`synthetic-publication-requester`; it requests republication but grants no
-authority and is never sent. At `2026-08-28T00:42:12Z`, authority
-`SYNTH-PUBLICATION-REPUBLICATION-REQUEST-REVIEW-AUTHORITY-001@r1` is signed by
+Every predecessor checksum is valid and the refusal remains history. At
+`2026-08-28T00:50:12Z`, authority
+`SYNTH-PUBLICATION-REPUBLICATION-EXECUTION-AUTHORITY-001@r1` is signed by
 `synthetic-receiving-owner` under
-`synthetic-publication-republication-request-review-decision-authority@r1` for
-one use by `synthetic-publication-request-reviewer`. It permits only internal
-review after lineage, maintenance-receipt, risk, no-revocation, and
-unconsumed-authority checks. At `2026-08-28T00:44:12Z`, decision
-`SYNTH-PUBLICATION-REPUBLICATION-REQUEST-REVIEW-DECISION-001@r1` records
-`refuse_synthetic_republication_request_no_execution_authority`; content
-`synthetic-content:publication-republication-request-review-decision-001-r1`
-is valid. At `2026-08-28T00:45:12Z`, receipt
-`SYNTH-PUBLICATION-REPUBLICATION-REQUEST-REVIEW-RECEIPT-001@r1`, content
-`synthetic-content:publication-republication-request-review-receipt-001-r1`,
-consumes review authority and leaves state unchanged.
+`synthetic-publication-republication-execution-decision-authority@r1` for one
+use by `synthetic-publication-republication-recorder`. It permits only one
+internal process transition after exact lineage, refusal-receipt, maintenance,
+risk, no-revocation, unconsumed-authority, and no-endpoint checks. At
+`2026-08-28T00:52:12Z`, decision
+`SYNTH-PUBLICATION-REPUBLICATION-EXECUTION-DECISION-001@r1` records
+`record_synthetic_republication_without_external_effect`; content
+`synthetic-content:publication-republication-execution-decision-001-r1` is
+valid. At `2026-08-28T00:55:12Z`, trace
+`SYNTH-PUBLICATION-REPUBLICATION-EXECUTION-TRACE-001@r1` and receipt
+`SYNTH-PUBLICATION-REPUBLICATION-EXECUTION-RECEIPT-001@r1`, content
+`synthetic-content:publication-republication-execution-receipt-001-r1`, consume
+authority and create only the new synthetic process state.
 
-Review owner is `synthetic-receiving-owner`; correction owner is
+Execution owner is `synthetic-receiving-owner`; correction owner is
 `synthetic-mechanism-map-owner`. Preserve concrete risks, stops, failure
-modes, correction, recovery to the unchanged current state, non-effect, and
-exact wake. Exact next wake is exact synthetic republication execution
-authority under the refusal receipt, or any named revision.
+modes, correction, recovery to the prior synthetic state, non-effect, and
+exact wake. Exact next wake is exact synthetic republication-withdrawal
+authority under the republication receipt, or any named revision.
 
 ## Work now
 
 Draft
-`graduations/GRADUATION-PUBLICATION-REPUBLICATION-REQUEST-REFUSED-NO-REPUBLICATION-AUTHORITY-BOUNDARY-FIXTURE.md`
+`graduations/GRADUATION-PUBLICATION-REPUBLICATION-AUTHORIZED-NO-EXTERNAL-EFFECT-BOUNDARY-FIXTURE.md`
 with frontmatter `artifact_type:
-synthetic_graduation_publication_republication_request_refused_no_republication_authority_boundary_fixture`,
+synthetic_graduation_publication_republication_authorized_no_external_effect_boundary_fixture`,
 `status: candidate_process_fixture`, and `external_action: none`. Use title
-`# Synthetic Graduation Publication Republication Request Refused No-Republication-Authority Boundary Fixture`
-and exactly these `##` sections: `Use Boundary`, `Frozen Maintenance And
-Predecessor Custody`, `Non-Operative Republication Request`, `Request Review
-Authority Decision And Receipt`, `Risk Owner Fit And Legitimacy`, `Stops
-Correction Recovery And Reopen`, `Prepared Return And Exact Wake`, and
+`# Synthetic Graduation Publication Republication Authorized No-External-Effect Boundary Fixture`
+and exactly these `##` sections: `Use Boundary`, `Frozen Refusal And
+Predecessor Custody`, `Republication Execution Authority`, `Authorized
+Republication Decision Trace And Receipt`, `Risk Owner Fit And Legitimacy`,
+`Stops Correction Recovery And Reopen`, `Prepared Return And Exact Wake`, and
 `Frontier Verification`.
 
 Begin the raw artifact now. Return only the finished artifact. First line must
