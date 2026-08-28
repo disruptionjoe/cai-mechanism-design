@@ -69,3 +69,10 @@ evidence-backed outcomes.
   source-backed evidence and revision authority remains absent, without
   changing real candidate state or creating P8, transfer, graduation,
   deployment, publication, contact, or external action.
+- `CANDIDATE-DISPOSITION-SYNTHETIC-SOURCE-BACKED-EVIDENCE-REVISE-REQUEST-REFUSED-NO-REVISION-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves both prior revise-request refusals, the unsupported concern, the
+  invalid first defer, recovery, and current reauthorized defer, then records
+  source-backed evidence as non-operative and refuses revision because evidence
+  is not execution authority and exact revision authority remains absent,
+  without changing real candidate state or creating P8, transfer, graduation,
+  deployment, publication, contact, or external action.

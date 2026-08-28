@@ -171,3 +171,10 @@ status changes.
   acceptance and transfer authority remains absent, without changing candidate
   state or creating transfer, graduation, deployment, performance, or external
   action.
+- `MECHANISM-ALTERNATIVE-MAP-DESTINATION-CANDIDATE-RECEIVING-OWNER-ACCEPTANCE-NO-TRANSFER-AUTHORITY-BOUNDARY-FIXTURE.md`
+  preserves the complete execution, destination-state, request, refusal, and
+  interest lineage, then records receiving-owner acceptance as non-operative
+  transfer evidence and refuses transfer because acceptance is not execution
+  authority and transfer authority remains absent, without changing candidate
+  state or creating transfer, graduation, deployment, performance, or external
+  action.
