@@ -16,8 +16,10 @@ work at minute 30. The local model writes immutable candidate output outside
 this repository; the hourly Frontier Repository Operating Cycle at minute 12
 dispositions completed work, verifies any useful material through Prepared
 Progress, and replenishes terminally handled slots. A shared four-hour review
-compares actual Frontier leverage across this repository and System Failures;
-it cannot edit either active prompt or gate integration.
+evaluates whether guidance changes behavior and improves retained owner effects
+across this repository and System Failures. It may refresh bounded Observation
+questions and Stewardship advice, but cannot interpret target truth, edit
+either active prompt, or gate integration.
 
 Systemic Repository Stewardship prepares each complete replacement prompt
 through normal Progress. A missing, empty, placeholder, self-selecting, or
