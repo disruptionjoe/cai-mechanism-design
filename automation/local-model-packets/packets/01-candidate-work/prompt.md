@@ -1,47 +1,47 @@
-# Execute one authorized synthetic pointer comparison without scoring
+# Draft one source-bounded SFQ-0001 intervention comparison
 
-Use only `GOVERNANCE.md`,
-`proving/CANDIDATE-ADMISSION-SYNTHETIC-LEAST-CONSEQUENTIAL-PROVING-PLAN-PREPARED-NO-PROVING-EFFECT-BOUNDARY-FIXTURE.md`,
-`proving/CANDIDATE-ADMISSION-SYNTHETIC-PROVING-EXECUTION-REQUEST-PREPARED-NO-PROVING-EFFECT-BOUNDARY-FIXTURE.md`,
-`proving/CANDIDATE-ADMISSION-SYNTHETIC-PROVING-AUTHORIZED-NOT-EXECUTED-BOUNDARY-FIXTURE.md`, and
-`interfaces/DESTINATION-OWNER-SYNTHETIC-REVIEW-REQUEST-TEMPLATE.md`, and
-`proving/PROVING-EXECUTION-TRACE-TEMPLATE.md`. External action is `none`.
-Do not modify `CMD-0001`, score, disposition, route, contact, transfer,
-graduate, deploy, publish, or execute any real proving.
+Family lineage: `MD-LIN-SFQ-0001-INTERVENTION-COMPARISON-01`.
+Begin the finished artifact immediately. Do not browse, deliberate between
+verdicts, score, rank, or add facts. Use only the frozen evidence below.
 
-Freeze authorization receipt
-`SYNTH-ADMISSION-PROVING-AUTHORIZATION-RECEIPT-001@r1`, plan
-`SYNTH-ADMISSION-PROVING-PLAN-001@r1`, request
-`SYNTH-ADMISSION-PROVING-EXECUTION-REQUEST-001@r1`, candidate
-`SYNTH-CANDIDATE-NO-FIT-001@r1`, source `SYNTH-SOURCE-NO-FIT-001@r1`, and
-prior state `synthetic_admission_proving_authorized_not_executed`. The receipt
-grants one use by `synthetic-pointer-comparison-executor` to compare only the
-frozen two-record synthetic fixture with the relationship-custody card.
-Execution at `2026-08-28T02:00:12Z`; immutable trace and receipt at
-`02:05:12Z` create only `synthetic_admission_proving_executed_unscored`.
-Correction owner is `synthetic-mechanism-decision-owner`. Exact wake: scoring
-authority under the execution receipt, or a named revision.
+Frozen evidence:
 
-Required invariant: authorized execution is not scoring, disposition, or real
-effect. Copy the prior state, concrete stop predicates, and evidence-bounded
-verification into the consuming sections. Preserve the exact claim,
-falsifier, observable failure, bounded-pass meaning, unresolved route, frozen
-inputs, permitted synthetic data, represented-standing limits, treatment,
-outputs, stops, rollback, actor, authority receipt, execution trace, receipt,
-and non-effects. On mismatch do not execute; fail closed to the authorized-
-not-executed prior state, preserve history, and never reuse authority.
+- `SFQ-0001` at source revision
+  `f9784d7484de8f0a5cfe3344ca923a77ba1d8ea8` identifies a pattern in which
+  changed function authority, delegated approval, and operator-response
+  assumptions can become separated across review artifacts.
+- Source-owner comparison `SF-PA-0001` at revision
+  `2b53419b7c0bf13a193c92b43c73e0e84c9dc426` supports only this common residue:
+  changed evidence should become visible to an accountable owner with
+  affected-party standing and a correction or stop route. Each domain retains
+  the meaning, authority, and evaluation of its remedies. The comparison does
+  not establish intervention effectiveness or one transferable remedy.
+- The existing owner corpus names five intervention classes: no action;
+  ordinary checklist; post-incident review; domain-specific safety-case
+  tooling; and a source-preserving assumption-drift register. `CMD-0001`
+  remains deferred and is not reopened by this task.
 
-Return
-`proving/CANDIDATE-ADMISSION-SYNTHETIC-PROVING-EXECUTED-NO-SCORE-BOUNDARY-FIXTURE.md`.
-Copy this frontmatter literally:
+Create a comparison with one row per class. For each row state: causal
+mechanism; current evidence strength (`source_supported`, `source_limited`, or
+`unknown`); success conditions; prerequisites; affordability and sustainment
+facts; enforceability; side effects and capture surfaces; affected-party
+standing; prevention-at-creation versus repair-after-failure posture; one
+falsifier; and the evidence needed next. When the frozen evidence does not
+support a field, write `unknown`; never invent a case, outcome, cost, owner,
+probability, or authority.
+
+Return only
+`candidates/SFQ-0001-SOURCE-BOUNDED-INTERVENTION-COMPARISON-DRAFT.md` with this
+literal frontmatter:
 ---
-artifact_type: synthetic_candidate_admission_proving_executed_no_score_boundary_fixture
-status: candidate_process_fixture
+artifact_type: source_bounded_intervention_comparison_draft
+status: unverified_local_candidate
+source_inquiry: SFQ-0001
 external_action: none
 ---
-Then one title and exactly eight `##` sections: Use Boundary; Frozen
-Authorization And Predecessor Custody; Execution Authority Receipt;
-Authorized Execution Trace And Receipt; Exact Treatment And Unscored Result;
-Affected Parties Stops Correction And Recovery; Prepared Return And Exact
-Wake; Frontier Verification. Maximum 900 words.
-Return only the finished artifact. Do not use a code fence or duplicate title.
+Then one title and exactly five `##` sections: Use Boundary; Frozen Source
+Claims; Intervention Comparison; Cross-Cutting Unknowns And Capture Risks;
+Frontier Verification And Stops. Maximum 900 words. This draft does not admit
+a candidate, change `CMD-0001`, choose a remedy, disposition work, contact an
+owner, authorize proving, or create an external effect. External action is
+`none`. Return only the finished artifact. Return no code fence.

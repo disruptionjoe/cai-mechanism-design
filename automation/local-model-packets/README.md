@@ -41,8 +41,18 @@ deprioritized unless it tests one exact uncertainty in such an intervention.
 Repeated candidate-lifecycle or authority-boundary permutations are not useful
 progress by themselves.
 
-The initial packets create process-progress candidates: a reusable destination-
-owner synthetic-review intake template and a reusable least-consequential
-proving-plan template. They do not reopen deferred `CMD-0001`, increase its
-proving count, or manufacture the new source, owner-fit, or destination-owner
-evidence named in `ROADMAP.md`.
+The current production slot is family
+`MD-LIN-SFQ-0001-INTERVENTION-COMPARISON-01`: it requests one source-bounded
+comparison of the intervention classes already named in the owner corpus. The
+current exploration slot is family
+`MD-LIN-SFQ-0001-MECHANISM-ALTERNATIVE-MAP-01`: it requests one bounded map of
+modern-capability hypotheses against the same admitted inquiry. Both prompts
+embed their complete evidence boundary and require unsupported facts to remain
+explicitly unknown.
+
+Earlier packets created reusable synthetic review and proving-process
+fixtures. Those artifacts remain history and negative evidence, but their
+retired lineages do not reset through prompt replacement. Neither current
+packet reopens deferred `CMD-0001`, increases its proving count, admits a new
+candidate, or manufactures source, owner-fit, destination-owner, or
+effectiveness evidence.
