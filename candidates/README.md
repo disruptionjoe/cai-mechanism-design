@@ -25,6 +25,16 @@ and intended disposition. Existing-owner fit defeats admission here.
   visibility, authority, and correction-or-stop roles. Unsupported standing
   and effectiveness remain unknown, domain remedy authority is retained, and
   no candidate, proving, transfer, or external effect is created.
+- `SFQ-0001-COMMON-RESIDUE-BOUNDARY-DRAFT.md` - source-pinned audit of which
+  frozen crosswalk roles explicitly support owner-visible changed evidence,
+  affected-party standing, and correction-or-stop routes. It preserves all
+  five domain boundaries, records standing support as unknown, and refuses a
+  common remedy, causal-link, effectiveness, or transfer inference.
+- `SFQ-0001-AFFECTED-PARTY-STANDING-INVENTORY-DRAFT.md` - source-pinned
+  inventory of the three explicit affected-party phrases in the frozen
+  evidence. It keeps every standing, participation-or-appeal, and legitimacy
+  claim unknown and preserves domain-owner remedy authority without creating
+  an effect.
 
 ## Operating path
 

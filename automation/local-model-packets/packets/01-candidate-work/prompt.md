@@ -1,60 +1,51 @@
-# Audit the SFQ-0001 common-residue boundary
+# Inventory the SFQ-0001 correction-or-stop boundary
 
-Family lineage: `MD-LIN-SFQ-0001-DOMAIN-MECHANISM-CROSSWALK-01`, opportunity
-2. Begin the finished artifact immediately. Do not browse, rank, prescribe, or
+Family lineage: `MD-LIN-SFQ-0001-CORRECTION-ROUTE-BOUNDARY-01`, opportunity 1.
+Begin the finished artifact immediately. Do not browse, rank, prescribe, or
 add facts.
 
-Frozen corrected crosswalk:
+Frozen source-owner evidence:
 
-- `SF-0001`: visibility `alert clarity; certification visibility`; authority
-  `delegation review`; correction or stop `safety-assessment revalidation`;
-  domain boundary `aviation certification, engineering, training, and
-  operational safety`.
-- `SF-0002`: visibility `imagery or inspection`; authority `independent
-  technical authority`; correction or stop `hazard control; accountable
-  escalation`; domain boundary `spaceflight engineering, mission operations,
-  and NASA governance`.
-- `SF-0003`: visibility `resident-facing notice`; authority `emergency
-  authority`; correction or stop `corrosion control; exposure mitigation`;
-  domain boundary `drinking-water engineering, public health, civil rights,
-  and regulation`.
-- `SF-0004`: visibility `unknown`; authority `unknown`; correction or stop
-  `stop, retest, escalate, or revise a barrier assumption when test evidence
-  remains contradictory`; domain boundary `offshore engineering, well control,
-  worker safety, environment, and regulation`.
-- `SF-0005`: visibility `resident-warning routes`; authority `regulatory
-  review`; correction or stop `building and product assurance`; domain
-  boundary `building safety, housing, fire response, certification, and
-  remediation`.
+- `SF-0001`: correction or stop `safety-assessment revalidation`; authority
+  role `delegation review`; domain boundary `aviation certification,
+  engineering, training, and operational safety`.
+- `SF-0002`: correction or stop `hazard control; accountable escalation`;
+  authority role `independent technical authority`; domain boundary
+  `spaceflight engineering, mission operations, and NASA governance`.
+- `SF-0003`: correction or stop `corrosion control; exposure mitigation`;
+  authority role `emergency authority`; domain boundary `drinking-water
+  engineering, public health, civil rights, and regulation`.
+- `SF-0004`: correction or stop `stop, retest, escalate, or revise a barrier
+  assumption when test evidence remains contradictory`; authority role
+  `unknown`; domain boundary `offshore engineering, well control, worker
+  safety, environment, and regulation`.
+- `SF-0005`: correction or stop `building and product assurance`; authority
+  role `regulatory review`; domain boundary `building safety, housing, fire
+  response, certification, and remediation`.
 
-Affected-party standing and effectiveness evidence are unknown for every row.
-The source-owner comparison supports only this common residue: changed
-evidence must become visible to an accountable owner with affected-party
-standing and a correction or stop route. It does not establish that every
-record supplies every element, one transferable mechanism, or remedy
-effectiveness. Domain owners retain remedy meaning, authority, and evaluation.
-`CMD-0001` remains deferred.
+These role assignments do not establish implementation, enforceability,
+effectiveness, accountable ownership, prevention-versus-repair posture,
+affected-party standing, or one transferable remedy. Domain owners retain
+remedy meaning, authority, and evaluation. `CMD-0001` remains deferred.
 
 Return only
-`candidates/SFQ-0001-COMMON-RESIDUE-BOUNDARY-DRAFT.md`. The first line must be
-`---`; do not use a code fence. Use valid YAML frontmatter with
-`artifact_type: common_residue_boundary_draft`,
+`candidates/SFQ-0001-CORRECTION-ROUTE-BOUNDARY-DRAFT.md`. The first line must
+be `---`; do not use a code fence. Use valid YAML frontmatter with
+`artifact_type: correction_route_boundary_draft`,
 `status: unverified_local_candidate`, `source_inquiry: SFQ-0001`, and
-`external_action: none`. Then one title and exactly four `##` sections: Use
-Boundary; Frozen Crosswalk; Common-Residue Audit; Frontier Verification And
-Stops.
+`external_action: none`. Then one title and exactly three `##` sections: Use
+Boundary; Correction Or Stop Inventory; Frontier Verification And Stops.
 
-Under `## Common-Residue Audit`, return one Markdown table with exactly three
-rows and this literal header:
+Under `## Correction Or Stop Inventory`, return one Markdown table with
+exactly five rows and this literal header:
 
-`Common-residue element | Explicit supporting records | Missing or unknown
-support | Domain-specific evidence retained | Unsupported inference`
+`Record | Correction or stop role | Authority role | Domain boundary |
+Prevention or repair posture | Effectiveness evidence | Unknowns and owner
+boundary`
 
-The three row labels are exactly `owner-visible changed evidence`,
-`affected-party standing`, and `correction or stop route`. Cite only record IDs
-whose frozen role explicitly supports that element. For affected-party
-standing, explicit supporting records are `unknown`. Preserve the five domain
-boundaries without treating them as a common remedy. Every inference beyond
-the frozen roles is literal `unknown`. Maximum 650 words. Do not admit a
-candidate, reopen `CMD-0001`, authorize proving, contact anyone, or create an
-external effect. Return no code fence.
+Copy every frozen role and domain boundary exactly. Prevention or repair
+posture and effectiveness evidence are literal `unknown` for every row. The
+final cell states that domain owners retain remedy authority and no effect is
+authorized. Maximum 600 words. Do not admit a candidate, reopen `CMD-0001`,
+authorize proving, contact anyone, or create an external effect. Return no code
+fence.

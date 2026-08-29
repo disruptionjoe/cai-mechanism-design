@@ -61,6 +61,23 @@ inventories only explicit affected-party phrases and leaves standing,
 participation, legitimacy, and class-effect claims unknown. Capacity and
 cadence are unchanged.
 
+The crosswalk audit opportunity retained substantial literal source structure
+but omitted the domain-specific boundary evidence from its decision table and
+asserted unsupported authority language. Frontier corrected and published the
+unverified audit, recorded material candidate error with light ordinary
+completion and marginal net leverage, and completed
+`MD-LIN-SFQ-0001-DOMAIN-MECHANISM-CROSSWALK-01`. Production rotates to
+`MD-LIN-SFQ-0001-CORRECTION-ROUTE-BOUNDARY-01`, opportunity 1.
+
+The standing-inventory opportunity returned a complete nonzero candidate with
+the exact phrases and unknowns. Frontier restored the owner boundary to four
+rows, published the unverified inventory, recorded substantial retention with
+light candidate and ordinary completion burdens and useful net leverage, and
+completed its one-opportunity diagnostic. Exploration rotates to
+`MD-LIN-SFQ-0001-VISIBILITY-CORRECTION-LINK-INVENTORY-01`, opportunity 1. The
+two slots, model capacity, cadence, `CMD-0001`, and external-action state remain
+unchanged.
+
 Earlier packets created reusable synthetic review and proving-process
 fixtures. Those artifacts remain history and negative evidence, but their
 retired lineages do not reset through prompt replacement. Neither current
