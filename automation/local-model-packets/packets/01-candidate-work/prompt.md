@@ -1,8 +1,9 @@
-# Inventory the SFQ-0001 correction-or-stop boundary
+# Audit SFQ-0001 correction-route domain separation
 
-Family lineage: `MD-LIN-SFQ-0001-CORRECTION-ROUTE-BOUNDARY-01`, opportunity 1.
-Begin the finished artifact immediately. Do not browse, rank, prescribe, or
-add facts.
+Family lineage:
+`MD-LIN-SFQ-0001-CORRECTION-ROUTE-DOMAIN-SEPARATION-AUDIT-01`, opportunity 1.
+Begin the finished artifact immediately. Do not browse, rank, prescribe,
+compare effectiveness, or add facts.
 
 Frozen source-owner evidence:
 
@@ -23,29 +24,30 @@ Frozen source-owner evidence:
   role `regulatory review`; domain boundary `building safety, housing, fire
   response, certification, and remediation`.
 
-These role assignments do not establish implementation, enforceability,
-effectiveness, accountable ownership, prevention-versus-repair posture,
-affected-party standing, or one transferable remedy. Domain owners retain
-remedy meaning, authority, and evaluation. `CMD-0001` remains deferred.
+The five correction-or-stop strings and domain boundaries are distinct frozen
+source-owner evidence. They do not establish a shared remedy, semantic
+equivalence, transferability, implementation, enforceability, effectiveness,
+accountable ownership, affected-party standing, or prevention-versus-repair
+posture. Domain owners retain remedy meaning, authority, and evaluation.
+`CMD-0001` remains deferred.
 
 Return only
-`candidates/SFQ-0001-CORRECTION-ROUTE-BOUNDARY-DRAFT.md`. The first line must
-be `---`; do not use a code fence. Use valid YAML frontmatter with
-`artifact_type: correction_route_boundary_draft`,
+`candidates/SFQ-0001-CORRECTION-ROUTE-DOMAIN-SEPARATION-AUDIT-DRAFT.md`. The
+first line must be `---`; do not use a code fence. Use valid YAML frontmatter
+with `artifact_type: correction_route_domain_separation_audit_draft`,
 `status: unverified_local_candidate`, `source_inquiry: SFQ-0001`, and
 `external_action: none`. Then one title and exactly three `##` sections: Use
-Boundary; Correction Or Stop Inventory; Frontier Verification And Stops.
+Boundary; Domain Separation Audit; Frontier Verification And Stops.
 
-Under `## Correction Or Stop Inventory`, return one Markdown table with
+Under `## Domain Separation Audit`, return one Markdown table with
 exactly five rows and this literal header:
 
-`Record | Correction or stop role | Authority role | Domain boundary |
-Prevention or repair posture | Effectiveness evidence | Unknowns and owner
-boundary`
+`Record | Correction or stop role | Domain boundary | Shared remedy evidence |
+Transferability evidence | Unknowns and owner boundary`
 
-Copy every frozen role and domain boundary exactly. Prevention or repair
-posture and effectiveness evidence are literal `unknown` for every row. The
-final cell states that domain owners retain remedy authority and no effect is
-authorized. Maximum 600 words. Do not admit a candidate, reopen `CMD-0001`,
-authorize proving, contact anyone, or create an external effect. Return no code
-fence.
+Copy every frozen correction-or-stop role and domain boundary exactly. Shared
+remedy evidence and transferability evidence are literal `unknown` for every
+row. Every final cell states that domain owners retain remedy authority and no
+effect is authorized. Maximum 525 words. Do not admit a candidate, reopen
+`CMD-0001`, authorize proving, contact anyone, or create an external effect.
+Return no code fence.

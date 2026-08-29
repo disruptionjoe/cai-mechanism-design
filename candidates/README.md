@@ -35,6 +35,15 @@ and intended disposition. Existing-owner fit defeats admission here.
   evidence. It keeps every standing, participation-or-appeal, and legitimacy
   claim unknown and preserves domain-owner remedy authority without creating
   an effect.
+- `SFQ-0001-CORRECTION-ROUTE-BOUNDARY-DRAFT.md` - source-pinned inventory of
+  the five correction-or-stop roles, authority roles, and domain boundaries.
+  Prevention-versus-repair posture and effectiveness remain unknown, domain
+  owners retain remedy authority, and no candidate or effect is created.
+- `SFQ-0001-VISIBILITY-CORRECTION-LINK-INVENTORY-DRAFT.md` - source-pinned
+  inventory of the five visibility and correction-or-stop pairs. It preserves
+  every explicit-link, affected-standing, and effectiveness value as unknown
+  and refuses causal, authorization, remedy-transfer, or external-effect
+  inference.
 
 ## Operating path
 
