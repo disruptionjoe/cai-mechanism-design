@@ -20,6 +20,11 @@ and intended disposition. Existing-owner fit defeats admission here.
   limited class claims that survived the final local repair, marks unsupported
   fields unknown, and retains domain remedy authority; it does not admit a
   candidate, establish effectiveness, or reopen `CMD-0001`.
+- `SFQ-0001-DOMAIN-MECHANISM-CROSSWALK-DRAFT.md` - source-pinned crosswalk of
+  the five owner-named intervention or correction classes into explicit
+  visibility, authority, and correction-or-stop roles. Unsupported standing
+  and effectiveness remain unknown, domain remedy authority is retained, and
+  no candidate, proving, transfer, or external effect is created.
 
 ## Operating path
 
