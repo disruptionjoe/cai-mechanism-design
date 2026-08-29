@@ -37,21 +37,22 @@ is not reopened by this draft.
 
 | Class | Causal mechanism | Evidence strength | Success conditions | Prerequisites | Affordability | Enforceability | Side effects | Affected-party standing | Posture | Falsifier | Evidence needed next |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| No action | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown |
-| Ordinary checklist | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown |
-| Post-incident review | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown |
-| Domain-specific safety-case tooling | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown |
-| Source-preserving assumption-drift register | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown |
+| No action | Preserves the failure record and designs no mechanism. | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown |
+| Ordinary checklist | unknown | unknown | unknown | unknown | `source_limited`: may be cheaper. | unknown | `source_limited`: may not preserve source revisions or owner fit. | unknown | unknown | unknown | unknown |
+| Post-incident review | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | `source_limited`: may be useful after harm but does not test earlier contradiction visibility. | unknown | unknown |
+| Domain-specific safety-case tooling | unknown | unknown | unknown | `source_limited`: may better fit regulated domains but is outside this owner's real-setting authority. | unknown | unknown | unknown | unknown | unknown | unknown | unknown |
+| Source-preserving assumption-drift register | `source_limited`: hypothesizes that named source, owner, validation, standing, and correction fields make later change visible. | unknown | unknown | unknown | unknown | unknown | Compliance theater, field gaming, central capture, unsafe evidence, and process delay. | unknown | unknown | unknown | unknown |
 
 ## Cross-Cutting Unknowns And Capture Risks
 
 Effectiveness is not established for any class. Authority and evaluation of
-remedies remain with each domain. Changed-evidence visibility is the only
-supported common residue. `CMD-0001` remains deferred. No transferable remedy
-is proven. Costs, owners, probabilities, authorities, and capture surfaces are
-unknown from the frozen evidence; the observed separation across review
-artifacts is the motivating pattern, not evidence of a particular capture
-surface.
+remedies remain with each domain. Owner-visible changed evidence,
+affected-party standing, and a correction or stop route are the only supported
+common residue; the class-specific standing evidence remains unknown.
+`CMD-0001` remains deferred. No transferable remedy is proven. Costs,
+probabilities, enforcement, success conditions, and class-specific falsifiers
+remain unknown from the frozen evidence. The listed register risks are
+owner-stated hypotheses, not observed outcomes.
 
 ## Frontier Verification And Stops
 

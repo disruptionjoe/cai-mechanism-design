@@ -16,9 +16,10 @@ and intended disposition. Existing-owner fit defeats admission here.
 ## Unverified Local Research Drafts
 
 - `SFQ-0001-SOURCE-BOUNDED-INTERVENTION-COMPARISON-DRAFT.md` - source-pinned
-  comparison of five owner-named intervention classes. It makes the current
-  evidence gaps explicit and preserves domain remedy authority; it does not
-  admit a candidate, establish effectiveness, or reopen `CMD-0001`.
+  comparison of five owner-named intervention classes. It preserves the
+  limited class claims that survived the final local repair, marks unsupported
+  fields unknown, and retains domain remedy authority; it does not admit a
+  candidate, establish effectiveness, or reopen `CMD-0001`.
 
 ## Operating path
 

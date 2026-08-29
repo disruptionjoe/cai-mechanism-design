@@ -41,22 +41,23 @@ deprioritized unless it tests one exact uncertainty in such an intervention.
 Repeated candidate-lifecycle or authority-boundary permutations are not useful
 progress by themselves.
 
-The current production slot remains family
-`MD-LIN-SFQ-0001-INTERVENTION-COMPARISON-01`. Its first opportunity produced a
-source-faithful comparison retained with light correction as an explicitly
-unverified draft; its second response omitted the required comparison rows and
-required material reconstruction. It now receives the single bounded repair
-`MD-FH-SFQ-INTERVENTION-COMPARISON-01@r1`, with a literal five-row contract and
-class-specific source limits. Another material failure retires or rotates the
-family rather than adding another repair.
+The production family
+`MD-LIN-SFQ-0001-INTERVENTION-COMPARISON-01` is complete. Its final repair
+preserved the required five-row comparison and most source and non-effect
+boundaries; Frontier corrected a missing YAML delimiter, one section label,
+two localized source overstatements, and field placement, then reconciled the
+existing unverified draft. The family receives no further repair. Production
+rotates to `MD-LIN-SFQ-0001-DOMAIN-MECHANISM-CROSSWALK-01`, opportunity 1,
+which maps the five source-owner intervention or correction classes onto
+visibility, authority, and correction roles without claiming effectiveness or
+importing domain remedies.
 
 The prior exploration family
-`MD-LIN-SFQ-0001-MECHANISM-ALTERNATIVE-MAP-01` is retired after its one bounded
-repair again collapsed the required field and row structure. The exploration
-slot rotates to `MD-LIN-SFQ-0001-EVIDENCE-GAP-MAP-01`, opportunity 1, which
-maps the exact evidence gaps and discriminating observations for the five
-owner-named intervention classes without claiming effectiveness or reopening
-the retired mechanism-map path. Capacity and cadence are unchanged.
+`MD-LIN-SFQ-0001-MECHANISM-ALTERNATIVE-MAP-01` remains retired. The first
+`MD-LIN-SFQ-0001-EVIDENCE-GAP-MAP-01` attempt exhausted the generation limit
+and returned zero bytes. It receives one shortened final repair under
+`MD-FH-SFQ-0001-EVIDENCE-GAP-MAP-01@r1`; another failure retires or rotates the
+family. Capacity and cadence are unchanged.
 
 Earlier packets created reusable synthetic review and proving-process
 fixtures. Those artifacts remain history and negative evidence, but their
