@@ -1,47 +1,46 @@
-# Draft one source-bounded SFQ-0001 intervention comparison
+# Revise the source-bounded SFQ-0001 intervention comparison
 
-Family lineage: `MD-LIN-SFQ-0001-INTERVENTION-COMPARISON-01`.
-Begin the finished artifact immediately. Do not browse, deliberate between
-verdicts, score, rank, or add facts. Use only the frozen evidence below.
+Family lineage: `MD-LIN-SFQ-0001-INTERVENTION-COMPARISON-01`, opportunity 2.
+This continues the family; it does not reset it. Begin the finished artifact
+immediately. Do not browse, score, rank, choose a remedy, or add facts.
 
 Frozen evidence:
 
-- `SFQ-0001` at source revision
-  `f9784d7484de8f0a5cfe3344ca923a77ba1d8ea8` identifies a pattern in which
-  changed function authority, delegated approval, and operator-response
-  assumptions can become separated across review artifacts.
-- Source-owner comparison `SF-PA-0001` at revision
-  `2b53419b7c0bf13a193c92b43c73e0e84c9dc426` supports only this common residue:
-  changed evidence should become visible to an accountable owner with
-  affected-party standing and a correction or stop route. Each domain retains
-  the meaning, authority, and evaluation of its remedies. The comparison does
-  not establish intervention effectiveness or one transferable remedy.
-- The existing owner corpus names five intervention classes: no action;
-  ordinary checklist; post-incident review; domain-specific safety-case
-  tooling; and a source-preserving assumption-drift register. `CMD-0001`
-  remains deferred and is not reopened by this task.
+- `SFQ-0001` at revision
+  `f9784d7484de8f0a5cfe3344ca923a77ba1d8ea8` identifies separation of changed
+  function authority, delegated approval, and operator-response assumptions.
+- `SF-PA-0001` at revision
+  `2b53419b7c0bf13a193c92b43c73e0e84c9dc426` supports only owner-visible
+  changed evidence, affected-party standing, and a correction or stop route as
+  common residue. Domain owners retain remedy meaning and authority; no
+  intervention effectiveness is established.
+- At target revision `8bf18fe5077028fe76323cee451c189f564a8b0f`, owner candidate
+  `CMD-0001` states: no action preserves the failure record and designs no
+  mechanism; an ordinary checklist may be cheaper but may not preserve source
+  revisions or owner fit; post-incident review is useful after harm but does
+  not test earlier contradiction visibility; domain-specific safety-case
+  tooling may better fit regulated domains but is outside this owner's real-
+  setting authority; the assumption-drift register hypothesizes that named
+  source, owner, validation, standing, and correction fields make later change
+  visible. Its stated risks include compliance theater, field gaming, central
+  capture, unsafe evidence, and process delay. `CMD-0001` remains deferred.
 
-Create a comparison with one row per class. For each row state: causal
-mechanism; current evidence strength (`source_supported`, `source_limited`, or
-`unknown`); success conditions; prerequisites; affordability and sustainment
-facts; enforceability; side effects and capture surfaces; affected-party
-standing; prevention-at-creation versus repair-after-failure posture; one
-falsifier; and the evidence needed next. When the frozen evidence does not
-support a field, write `unknown`; never invent a case, outcome, cost, owner,
-probability, or authority.
+Create one row for each of those five classes. State: causal mechanism;
+effectiveness evidence (`source_supported`, `source_limited`, or `unknown`);
+success conditions; prerequisites; affordability and sustainment facts;
+enforceability; side effects and capture surfaces; affected-party standing;
+prevention versus repair posture; one falsifier; and evidence needed next.
+Owner-stated hypotheses are at most `source_limited`, never effectiveness
+proof. Write literal `unknown` for every unsupported field. Invent no case,
+outcome, cost, owner, probability, authority, or historical result.
 
 Return only
-`candidates/SFQ-0001-SOURCE-BOUNDED-INTERVENTION-COMPARISON-DRAFT.md` with this
-literal frontmatter:
----
-artifact_type: source_bounded_intervention_comparison_draft
-status: unverified_local_candidate
-source_inquiry: SFQ-0001
-external_action: none
----
-Then one title and exactly five `##` sections: Use Boundary; Frozen Source
-Claims; Intervention Comparison; Cross-Cutting Unknowns And Capture Risks;
-Frontier Verification And Stops. Maximum 900 words. This draft does not admit
-a candidate, change `CMD-0001`, choose a remedy, disposition work, contact an
-owner, authorize proving, or create an external effect. External action is
-`none`. Return only the finished artifact. Return no code fence.
+`candidates/SFQ-0001-SOURCE-BOUNDED-INTERVENTION-COMPARISON-REVISION-DRAFT.md`
+with frontmatter `artifact_type: source_bounded_intervention_comparison_revision_draft`,
+`status: unverified_local_candidate`, `source_inquiry: SFQ-0001`, and
+`external_action: none`. Then one title and exactly five `##` sections: Use
+Boundary; Frozen Source Claims; Intervention Comparison; Cross-Cutting
+Unknowns And Capture Risks; Frontier Verification And Stops. Maximum 900
+words. Do not admit a candidate, reopen `CMD-0001`, authorize proving, contact
+anyone, or create an external effect. External action is `none`. Return only
+the finished artifact. Return no code fence.

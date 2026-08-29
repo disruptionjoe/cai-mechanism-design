@@ -41,14 +41,18 @@ deprioritized unless it tests one exact uncertainty in such an intervention.
 Repeated candidate-lifecycle or authority-boundary permutations are not useful
 progress by themselves.
 
-The current production slot is family
-`MD-LIN-SFQ-0001-INTERVENTION-COMPARISON-01`: it requests one source-bounded
-comparison of the intervention classes already named in the owner corpus. The
-current exploration slot is family
-`MD-LIN-SFQ-0001-MECHANISM-ALTERNATIVE-MAP-01`: it requests one bounded map of
-modern-capability hypotheses against the same admitted inquiry. Both prompts
-embed their complete evidence boundary and require unsupported facts to remain
-explicitly unknown.
+The current production slot remains family
+`MD-LIN-SFQ-0001-INTERVENTION-COMPARISON-01`. Its first opportunity produced a
+source-faithful comparison retained with light correction as an explicitly
+unverified draft; the successor freezes the owner-supported alternative facts
+needed to distinguish limited evidence from unknown effectiveness. The current
+exploration slot remains family
+`MD-LIN-SFQ-0001-MECHANISM-ALTERNATIVE-MAP-01`. Its first response was rejected
+after materially collapsing the requested field schema. It now receives the
+single bounded repair `MD-FH-SFQ-ALTERNATIVE-MAP-01@r1`, with a fixed-width
+table contract and literal unknown handling. Another material failure ends
+this repair path rather than adding another attempt. Capacity and cadence are
+unchanged.
 
 Earlier packets created reusable synthetic review and proving-process
 fixtures. Those artifacts remain history and negative evidence, but their

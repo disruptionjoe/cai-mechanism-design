@@ -13,6 +13,13 @@ and intended disposition. Existing-owner fit defeats admission here.
   each competing explanation's basis, claim posture, and residue effect
   inspectable, then returns the candidate to defer without stronger disposition.
 
+## Unverified Local Research Drafts
+
+- `SFQ-0001-SOURCE-BOUNDED-INTERVENTION-COMPARISON-DRAFT.md` - source-pinned
+  comparison of five owner-named intervention classes. It makes the current
+  evidence gaps explicit and preserves domain remedy authority; it does not
+  admit a candidate, establish effectiveness, or reopen `CMD-0001`.
+
 ## Operating path
 
 Candidates move through inquiry acceptance, divergent mechanism design,
