@@ -44,15 +44,19 @@ progress by themselves.
 The current production slot remains family
 `MD-LIN-SFQ-0001-INTERVENTION-COMPARISON-01`. Its first opportunity produced a
 source-faithful comparison retained with light correction as an explicitly
-unverified draft; the successor freezes the owner-supported alternative facts
-needed to distinguish limited evidence from unknown effectiveness. The current
-exploration slot remains family
-`MD-LIN-SFQ-0001-MECHANISM-ALTERNATIVE-MAP-01`. Its first response was rejected
-after materially collapsing the requested field schema. It now receives the
-single bounded repair `MD-FH-SFQ-ALTERNATIVE-MAP-01@r1`, with a fixed-width
-table contract and literal unknown handling. Another material failure ends
-this repair path rather than adding another attempt. Capacity and cadence are
-unchanged.
+unverified draft; its second response omitted the required comparison rows and
+required material reconstruction. It now receives the single bounded repair
+`MD-FH-SFQ-INTERVENTION-COMPARISON-01@r1`, with a literal five-row contract and
+class-specific source limits. Another material failure retires or rotates the
+family rather than adding another repair.
+
+The prior exploration family
+`MD-LIN-SFQ-0001-MECHANISM-ALTERNATIVE-MAP-01` is retired after its one bounded
+repair again collapsed the required field and row structure. The exploration
+slot rotates to `MD-LIN-SFQ-0001-EVIDENCE-GAP-MAP-01`, opportunity 1, which
+maps the exact evidence gaps and discriminating observations for the five
+owner-named intervention classes without claiming effectiveness or reopening
+the retired mechanism-map path. Capacity and cadence are unchanged.
 
 Earlier packets created reusable synthetic review and proving-process
 fixtures. Those artifacts remain history and negative evidence, but their

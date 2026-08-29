@@ -1,10 +1,10 @@
-# Repair the SFQ-0001 modern-capability alternative map
+# Map the evidence gaps for the five SFQ-0001 intervention classes
 
-Family lineage: `MD-LIN-SFQ-0001-MECHANISM-ALTERNATIVE-MAP-01`.
-Repair hypothesis: `MD-FH-SFQ-ALTERNATIVE-MAP-01@r1`. This is the family's one
-bounded repair and final opportunity on the current evidence. Begin the
-finished artifact immediately. Do not browse, score, rank, choose a mechanism,
-or add facts.
+Family lineage: `MD-LIN-SFQ-0001-EVIDENCE-GAP-MAP-01`, opportunity 1. This is
+a new exploration family after retirement of
+`MD-LIN-SFQ-0001-MECHANISM-ALTERNATIVE-MAP-01`; do not recreate or continue
+that retired family. Begin the finished artifact immediately. Do not browse,
+score, rank, choose a remedy, or add facts.
 
 Frozen evidence:
 
@@ -15,31 +15,42 @@ Frozen evidence:
   `2b53419b7c0bf13a193c92b43c73e0e84c9dc426` supports only owner-visible
   changed evidence, affected-party standing, and a correction or stop route.
   Domain owners retain remedy authority; effectiveness is unknown.
-- Treat these only as hypotheses: no action—preserve current state and the
-  failure record; verifiable commitments—make commitments inspectable against
-  changed evidence; auditable bounded AI support—surface changed evidence with
-  error visibility, appeal, correction, misuse controls, and accountable-human
-  boundaries; separation of review and execution—split those authorities;
-  distributed monitoring—use multiple observation points to surface
-  divergence; reversible delegation—make delegated authority recallable when
-  evidence changes.
+- At target revision `4fe038ca6ee34a854c8b8a2cbf37082d3853dda7`, the five owner-
+  named classes are `No action`, `Ordinary checklist`, `Post-incident review`,
+  `Domain-specific safety-case tooling`, and `Source-preserving assumption-
+  drift register`. The owner artifact says effectiveness, success conditions,
+  prerequisites, affordability, enforceability, affected-party standing, and
+  class-specific capture surfaces remain unknown from the frozen source. The
+  only supported cross-cutting residue is owner-visible changed evidence,
+  affected-party standing, and a correction or stop route. `CMD-0001` remains
+  deferred.
 
-Return exactly one 12-column row for each alternative under this literal
-header: `Alternative | Lever | Causal hypothesis | Source support | Necessary
-conditions | Observable failure | Affordability and enforceability | Side
-effects and capture | Affected-party standing | Prevention or repair |
-Correction and stop | Discriminating evidence`. Use `hypothesis_only` for
-source support. For every other cell not stated above, write literal `unknown`;
-do not merge, shift, or omit cells. Invent no history, outcome, cost, owner,
-probability, authority, or effectiveness claim.
+Under `## Evidence Gap Map`, return one Markdown table with this literal
+12-column header and exactly five rows in the literal class order above:
+
+`Class | Supported class claim | Effectiveness gap | Success-condition gap |
+Prerequisite gap | Cost and sustainment gap | Enforceability gap |
+Affected-party evidence gap | Capture-risk evidence gap | Discriminating
+observation needed | Stop boundary | Owner boundary`
+
+For `Supported class claim`, write only the class-specific statement supplied
+in the current owner artifact: no action designs no mechanism; an ordinary
+checklist may be cheaper but may not preserve source revisions or owner fit;
+post-incident review may help after harm but does not test earlier visibility;
+domain-specific safety-case tooling may better fit regulated settings but is
+outside this owner's real-setting authority; the register hypothesizes named
+source, owner, validation, standing, and correction fields make later change
+visible. For each gap cell, write literal `unknown` unless the frozen evidence
+states the gap. Do not turn a missing fact into a proposed study, invented
+owner, success condition, cost, authority, or historical result.
 
 Return only
-`candidates/SFQ-0001-MODERN-CAPABILITY-ALTERNATIVE-MAP-REPAIR-DRAFT.md` with
-frontmatter `artifact_type: mechanism_alternative_map_repair_draft`,
+`candidates/SFQ-0001-INTERVENTION-EVIDENCE-GAP-MAP-DRAFT.md` with YAML
+delimiters and frontmatter `artifact_type: intervention_evidence_gap_map_draft`,
 `status: unverified_local_candidate`, `source_inquiry: SFQ-0001`, and
 `external_action: none`. Then one title and exactly five `##` sections: Use
-Boundary; Frozen Pattern And Evidence; Mechanism Alternative Map; Legitimacy
-Capture And Correction; Frontier Verification And Stops. Maximum 900 words.
-Do not admit a candidate, reopen `CMD-0001`, authorize proving, contact anyone,
-or create an external effect. External action is `none`. Return only the
-finished artifact. Return no code fence.
+Boundary; Frozen Evidence; Evidence Gap Map; Cross-Cutting Unknowns; Frontier
+Verification And Stops. Maximum 900 words. Do not admit a candidate, reopen
+`CMD-0001`, authorize proving, contact anyone, or create an external effect.
+External action is `none`. Return only the finished artifact. Return no code
+fence.
