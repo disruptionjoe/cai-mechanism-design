@@ -113,22 +113,24 @@ or count an emitted artifact, a duplicate, a receipt, packet preparation, or
 ## Current slot boundary
 
 The candidate slot carries
-`MD-LIN-SFQ-0001-ASR1901-A19010-CLOSURE-BASIS-INDEPENDENT-EVIDENCE-QUESTIONS-01`,
-opportunity 1. It decomposes the four Board-stated A-19-010 closure components
-into small questions for the exact independent implementation evidence still
-needed. It does not answer those questions or infer outcome, effectiveness,
-cost, enforceability, affected-party consequence, capture, remedy, candidate
-action, contact, or external effect.
+`MD-LIN-SFQ-0001-ASR1901-A19010-CREW-OPERATIONS-VALIDATION-EVIDENCE-QUESTION-01`,
+opportunity 1. It isolates the A-19-010 crew-operations validation component
+and asks only which named FAA validation artifact and revision independently
+documents its completion and application of the crew-response assumptions. It
+does not acquire or answer that question or infer implementation, outcome,
+effectiveness, cost, enforceability, affected-party consequence, capture,
+remedy, candidate action, contact, or external effect.
 
 The proving slot carries
-`MD-LIN-SFQ-0001-ASR1901-A19012-CLOSURE-BASIS-INDEPENDENT-EVIDENCE-QUESTIONS-01`,
-opportunity 1. It decomposes the three Board-stated A-19-012 international-
-notification components into the exact independent implementation evidence
-questions still open. It does not answer those questions or infer recipient
-action, outcome, effectiveness, cost, enforceability, affected-party
-consequence, capture, remedy, candidate action, contact, or external effect.
-The correspondence-evidence family is complete after its useful owner effect;
-the twice-empty status-sequence family is retired. Both successor packets are
-smaller source-local decompositions under the first eligible adoption of
-`ADV-MD-20260901-24`. Capacity, cadence, model, candidate state, and all
-external-action boundaries are unchanged.
+`MD-LIN-SFQ-0001-ASR1901-A19012-INTERNATIONAL-NOTIFICATION-EVIDENCE-QUESTION-01`,
+opportunity 1. It isolates the A-19-012 initial international-notification
+component and asks only which dated official notification records identify the
+authorities and initiatives described. It does not acquire records, answer the
+question, or infer recipient action, implementation, outcome, effectiveness,
+cost, enforceability, affected-party consequence, capture, remedy, candidate
+action, contact, or external effect. The predecessor A-19-010 and A-19-012
+multi-row families each returned zero bytes at the generation limit and are
+retired after their bounded first opportunities. These one-component rotations
+adopt `ADV-MD-20260901-24` for its second and final eligible cycle. Capacity,
+cadence, model, candidate state, and all external-action boundaries are
+unchanged.

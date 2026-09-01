@@ -532,3 +532,24 @@ its first eligible sealed cycle by replacing the failed wide artifact with
 smaller source-local work. Capacity, cadence, model, `CMD-0001`, P8,
 disposition, transfer, graduation, deployment, and all external-action
 boundaries remain unchanged.
+
+The first A-19-010 and A-19-012 closure-basis independent-evidence-question
+attempts each reached the 16,384-token generation limit and returned zero
+response bytes. Neither retained candidate content or produced an owner
+effect. Their exact-current requests and failures are terminally preserved;
+both multi-row lineages complete and retire after their bounded first
+opportunity rather than receiving another overloaded-contract retry.
+
+Production rotates to
+`MD-LIN-SFQ-0001-ASR1901-A19010-CREW-OPERATIONS-VALIDATION-EVIDENCE-QUESTION-01`,
+opportunity 1. It isolates only the crew-operations validation component and
+asks for the named FAA validation artifact and revision, without acquiring or
+answering it. Exploration rotates to
+`MD-LIN-SFQ-0001-ASR1901-A19012-INTERNATIONAL-NOTIFICATION-EVIDENCE-QUESTION-01`,
+opportunity 1. It isolates only the initial international-notification
+component and asks for dated official notification records, without acquiring
+them or inferring recipient action. This is the second and final eligible
+adoption of `ADV-MD-20260901-24`: each replacement is a one-component,
+source-local contract rather than another multi-row repair. Capacity, cadence,
+model, `CMD-0001`, P8, disposition, transfer, graduation, deployment, and all
+external-action boundaries remain unchanged.
