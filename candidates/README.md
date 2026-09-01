@@ -65,6 +65,14 @@ and intended disposition. Existing-owner fit defeats admission here.
   matrix stating what an eventual public record would need to establish for
   linkage, standing and access, implementation, outcome, and capture. It
   acquires no source and authorizes no research, proving, contact, or effect.
+- `SFQ-0001-MECHANISM-LINK-FALSIFIER-QUESTION-SET-DRAFT.md` - source-pinned
+  evidence questions that could support or falsify each currently unknown
+  visibility-to-authority and authority-to-correction link. It answers no
+  question and establishes no mechanism, candidate, proving, or external effect.
+- `SFQ-0001-EFFECTIVENESS-CAPTURE-FALSIFIER-QUESTION-SET-DRAFT.md` -
+  source-pinned evidence questions for prevention-versus-repair posture,
+  outcomes, affected-party consequences, and new capture surfaces. Every
+  answer remains unknown and no research, proving, contact, or effect is authorized.
 
 ## Operating path
 

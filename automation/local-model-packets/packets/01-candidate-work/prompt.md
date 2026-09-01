@@ -1,45 +1,74 @@
-# Form SFQ-0001 mechanism-link falsifier questions
+# Extract SF-0001 mechanism-link evidence from frozen owner synthesis
 
-Family lineage: `MD-LIN-SFQ-0001-MECHANISM-LINK-FALSIFIER-QUESTIONS-01`,
-opportunity 1. Begin the finished artifact immediately. Do not browse, answer
-a question, assert a link, prescribe, or add facts.
+Family lineage: `MD-LIN-SFQ-0001-SF0001-LINK-EVIDENCE-EXTRACTION-01`,
+opportunity 1. Begin the finished artifact immediately. Use only the frozen
+text below. Do not browse, open repository files, strengthen a claim, infer a
+causal chain, prescribe, or add facts.
 
-Frozen source-owner evidence:
+Frozen source-owner record: `cai-systemic-failure#evidence/records/SF-0001-
+boeing-737-max-certification-assumption-chain.md` at source-owner revision
+`43b0b96d483a16b872bfe754911bcf90df8b0838`.
 
-- `SF-0001`: visibility `alert clarity; certification visibility`; authority
-  `delegation review`; correction or stop `safety-assessment revalidation`.
-- `SF-0002`: visibility `imagery or inspection`; authority `independent
-  technical authority`; correction or stop `hazard control; accountable
-  escalation`.
-- `SF-0003`: visibility `resident-facing notice`; authority `emergency
-  authority`; correction or stop `corrosion control; exposure mitigation`.
-- `SF-0004`: visibility `unknown`; authority `unknown`; correction or stop
-  `stop, retest, escalate, or revise a barrier assumption when test evidence
-  remains contradictory`.
-- `SF-0005`: visibility `resident-warning routes`; authority `regulatory
-  review`; correction or stop `building and product assurance`.
+Frozen record statements:
 
-For every record, visibility-to-authority and authority-to-correction linkage
-are unknown. Affected-party standing, appeal and correction access,
-effectiveness, and new capture surfaces are unknown. Domain owners retain
-remedy meaning, authority, and evaluation. `CMD-0001` remains deferred.
+- The record is a bounded synthesis from public official investigation
+  material, not an aviation finding, liability judgment, or intervention.
+- Public reports identify a certification and safety-assessment pattern in
+  which changed-product treatment, delegated review, design changes,
+  human-factor assumptions, and flight-deck alert complexity were not held
+  together as one integrated review object.
+- Incremental change review can preserve discrete compliance while missing
+  cumulative system integration and human-factor effects.
+- A safety assessment can depend on assumed immediate or appropriate operator
+  response without enough validation under realistic alert and workload
+  conditions.
+- Delegated or distributed approval can reduce visibility into changed
+  function authority, inputs, limits, and interfaces unless the review
+  artifact makes those changes unavoidable.
+- The retrospective source set is incomplete; the record does not decide the
+  complete causal chain; aviation-specific remedies remain with aviation
+  safety authorities and domain experts.
+
+Frozen comparison: `cai-systemic-failure#topology/SF-0001-causal-model-
+comparison.md` at the same revision.
+
+- Safety-assessment revalidation is reported as testing human-response
+  assumption validation.
+- Alert diagnostic standards are reported as testing signal clarity under
+  multiple indications.
+- Certification visibility standards are reported as testing changed-function
+  visibility and review timing.
+- Delegation pressure review is reported as testing delegated review
+  integrity, but only when sourced.
+- The comparison is provisional, source-bounded, and does not establish a
+  remedy or accepted topology.
+
+Current Mechanism Design roles are visibility `alert clarity; certification
+visibility`, authority `delegation review`, and correction or stop
+`safety-assessment revalidation`. Both visibility-to-authority and authority-
+to-correction links remain unknown. Effectiveness, affected-party standing and
+access, and new capture surfaces remain unknown. `CMD-0001` remains deferred.
 
 Return only
-`candidates/SFQ-0001-MECHANISM-LINK-FALSIFIER-QUESTION-SET-DRAFT.md`. The first
-line must be `---`; do not use a code fence. Use valid YAML frontmatter with
-`artifact_type: mechanism_link_falsifier_question_set_draft`,
-`status: unverified_local_candidate`, `source_inquiry: SFQ-0001`, and
-`external_action: none`. Then one title and exactly three `##` sections: Use
-Boundary; Link Falsifier Questions; Frontier Verification And Stops.
+`candidates/SFQ-0001-SF0001-LINK-EVIDENCE-EXTRACTION-DRAFT.md`. The first line
+must be `---`; do not use a code fence. Use valid YAML frontmatter with
+`artifact_type: sf0001_link_evidence_extraction_draft`,
+`status: unverified_local_candidate`, `source_inquiry: SFQ-0001`,
+`source_record: SF-0001`, and `external_action: none`. Then one title and
+exactly three `##` sections: Use Boundary; Frozen Evidence Extraction;
+Frontier Verification And Stops.
 
-Under `## Link Falsifier Questions`, return one Markdown table with exactly
-five rows and this literal header:
+Under `## Frozen Evidence Extraction`, return one Markdown table with exactly
+four rows and this literal header:
 
-`Record | Preserved roles | Visibility-to-authority support question | Visibility-to-authority falsifier question | Authority-to-correction support question | Authority-to-correction falsifier question | Link status | Owner boundary`
+`Relation | Frozen statement | Source-owner pointer | Relation status | Missing evidence | Owner boundary`
 
-Copy all three frozen roles into each row. Form one bounded question in each
-question column; do not answer it. `Link status` is literal `unknown` for every
-row. Every final cell says `Domain owners retain remedy authority and no
-effect is authorized.` Maximum 900 words. Do not admit a candidate, reopen
+Rows are: visibility-to-authority; authority-to-correction; affected-party
+standing and access; effectiveness and capture. Copy or tightly preserve the
+applicable frozen statement. `Relation status` is one of literal
+`partial_in_frozen_synthesis` or `not_established`; never use `established`.
+State what evidence is still missing without claiming that it exists. Every
+final cell says `Aviation domain owners retain remedy authority and no effect
+is authorized.` Maximum 850 words. Do not admit a candidate, reopen
 `CMD-0001`, authorize research or proving, contact anyone, or create an
 external effect. Return no other text. Return no code fence.

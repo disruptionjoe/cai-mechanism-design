@@ -1,48 +1,58 @@
-# Form SFQ-0001 effectiveness and capture falsifier questions
+# Extract SF-0001 outcome and capture evidence gaps from frozen owner synthesis
 
-Family lineage:
-`MD-LIN-SFQ-0001-EFFECTIVENESS-CAPTURE-FALSIFIER-QUESTIONS-01`, opportunity 1.
-Begin the finished artifact immediately. Do not browse, answer a question,
-claim an outcome, infer standing, prescribe, or add facts.
+Family lineage: `MD-LIN-SFQ-0001-SF0001-OUTCOME-CAPTURE-GAP-01`, opportunity
+1. Begin the finished artifact immediately. Use only the frozen text below.
+Do not browse, open repository files, claim effectiveness, infer standing,
+prescribe, or add facts.
 
-Frozen source-owner evidence:
+Frozen source-owner comparison: `cai-systemic-failure#topology/SF-0001-
+causal-model-comparison.md` at source-owner revision
+`43b0b96d483a16b872bfe754911bcf90df8b0838`.
 
-- `SF-0001`: visibility `alert clarity; certification visibility`; authority
-  `delegation review`; correction or stop `safety-assessment revalidation`.
-- `SF-0002`: visibility `imagery or inspection`; authority `independent
-  technical authority`; correction or stop `hazard control; accountable
-  escalation`.
-- `SF-0003`: visibility `resident-facing notice`; authority `emergency
-  authority`; correction or stop `corrosion control; exposure mitigation`.
-- `SF-0004`: visibility `unknown`; authority `unknown`; correction or stop
-  `stop, retest, escalate, or revise a barrier assumption when test evidence
-  remains contradictory`.
-- `SF-0005`: visibility `resident-warning routes`; authority `regulatory
-  review`; correction or stop `building and product assurance`.
+Reported intervention classes and bounded mechanisms:
 
-For every record, prevention-versus-repair posture, implementation cost,
-enforceability, effectiveness, counterevidence, affected-party consequence,
-and new capture surfaces are unknown. Domain owners retain remedy meaning,
-authority, and evaluation. `CMD-0001` remains deferred.
+- Procedure update: late symptom recognition and response.
+- Safety-assessment revalidation: human-response assumption validation.
+- Human-factors tool development: repeatable validation method.
+- Alert diagnostic standards: signal clarity under multiple indications.
+- Certification visibility standards: changed-function visibility and review
+  timing.
+- Delegation pressure review: delegated review integrity, only when sourced.
+
+Frozen limits:
+
+- The comparison is provisional public-official-source synthesis, not an
+  aviation finding, remedy, recommendation, or intervention plan.
+- It does not reconstruct every certification, engineering, management, or
+  operational decision.
+- It names flight crews, passengers, operators, manufacturers, regulators,
+  and authorities relying on shared safety information as affected systems,
+  but does not speak for them or establish participation, appeal, or
+  correction access.
+- It reports no bounded outcome measure, baseline, implementation cost,
+  enforceability result, affected-party consequence evaluation, or new capture
+  surface for these intervention classes.
+- Aviation-specific remedies remain with aviation safety authorities and
+  domain experts. `CMD-0001` remains deferred.
 
 Return only
-`candidates/SFQ-0001-EFFECTIVENESS-CAPTURE-FALSIFIER-QUESTION-SET-DRAFT.md`.
-The first line must be `---`; do not use a code fence. Use valid YAML
-frontmatter with
-`artifact_type: effectiveness_capture_falsifier_question_set_draft`,
-`status: unverified_local_candidate`, `source_inquiry: SFQ-0001`, and
-`external_action: none`. Then one title and exactly three `##` sections: Use
-Boundary; Effectiveness And Capture Questions; Frontier Verification And
-Stops.
+`candidates/SFQ-0001-SF0001-OUTCOME-CAPTURE-EVIDENCE-GAP-DRAFT.md`. The first
+line must be `---`; do not use a code fence. Use valid YAML frontmatter with
+`artifact_type: sf0001_outcome_capture_evidence_gap_draft`,
+`status: unverified_local_candidate`, `source_inquiry: SFQ-0001`,
+`source_record: SF-0001`, and `external_action: none`. Then one title and
+exactly three `##` sections: Use Boundary; Outcome And Capture Gap Table;
+Frontier Verification And Stops.
 
-Under `## Effectiveness And Capture Questions`, return one Markdown table with
-exactly five rows and this literal header:
+Under `## Outcome And Capture Gap Table`, return one Markdown table with
+exactly six rows and this literal header:
 
-`Record | Preserved roles | Prevention-or-repair question | Effectiveness question | Disconfirming-outcome question | Affected-party consequence question | Capture-surface question | Answer status | Owner boundary`
+`Intervention class | Frozen reported mechanism | Outcome evidence status | Cost and enforceability status | Affected-party consequence status | Capture-surface status | Source-owner pointer | Owner boundary`
 
-Copy all three frozen roles into each row. Form one bounded question in each
-question column; do not answer it. `Answer status` is literal `unknown` for
-every row. Every final cell says `Domain owners retain remedy authority and no
-effect is authorized.` Maximum 950 words. Do not admit a candidate, reopen
-`CMD-0001`, authorize research or proving, contact anyone, or create an
-external effect. Return no other text. Return no code fence.
+Use the six intervention classes above. Every status cell is literal
+`not_established_in_frozen_synthesis`. Do not invent an outcome, cost,
+enforcement result, consequence, or capture theory. Every final cell says
+`Aviation domain owners retain remedy authority and no effect is authorized.`
+Maximum 850 words. Do not admit a candidate, reopen `CMD-0001`, authorize
+research or proving, contact anyone, or create an external effect. Return no
+other text. Return no code fence.

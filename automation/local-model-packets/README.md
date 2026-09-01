@@ -140,6 +140,27 @@ It may form only bounded prevention-or-repair, outcome, disconfirmation, and
 capture questions from the frozen roles. The two slots, model capacity,
 cadence, `CMD-0001`, and external-action state remain unchanged.
 
+Both first falsifier-question opportunities preserved all five frozen role
+triples, unknown states, and owner boundaries. Frontier rewrote questions that
+treated a role label as support or falsification, restored the proving
+artifact's missing frontmatter delimiter, and removed presupposed prevention
+or effectiveness. Both responses retained substantial edited content with
+material candidate error, light ordinary Frontier completion, and marginal
+net leverage; both bounded question families are complete.
+
+Production rotates to
+`MD-LIN-SFQ-0001-SF0001-LINK-EVIDENCE-EXTRACTION-01`, opportunity 1. It uses
+only frozen source-owner synthesis for `SF-0001` to separate partial and
+unsupported visibility-to-authority and authority-to-correction relations.
+Exploration rotates to
+`MD-LIN-SFQ-0001-SF0001-OUTCOME-CAPTURE-GAP-01`, opportunity 1. It uses the
+same record's reported intervention classes to preserve outcome, cost,
+affected-party consequence, and capture gaps without browsing or claiming
+effectiveness. This moves both slots from cross-record question formation to
+one source-backed record while leaving source admission and all material claim
+judgment to Frontier. The two slots, model capacity, cadence, `CMD-0001`, and
+external-action state remain unchanged.
+
 Earlier packets created reusable synthetic review and proving-process
 fixtures. Those artifacts remain history and negative evidence, but their
 retired lineages do not reset through prompt replacement. Neither current
