@@ -7,7 +7,9 @@ Return the finished artifact immediately from only this frozen FAA projection.
 Do not browse, add facts, reason about implementation or effectiveness, or
 explain your work.
 
-Frozen rows from *Summary of the FAA's Review of the Boeing 737 MAX*, report
+Frozen source-owner evidence:
+
+Rows from *Summary of the FAA's Review of the Boeing 737 MAX*, report
 pages 60-64, section 12.2.2. Each line is `ID | future-policy scope | FAA-
 stated current-design response`:
 
@@ -53,4 +55,5 @@ Copy each frozen row exactly. Every other cell is literal:
 The boundary and close must state that the matrix establishes no systemwide
 implementation, outcome, effectiveness, cost, enforceability, affected-party
 consequence, capture, transferability, remedy, candidate action, or external
-effect; `CMD-0001` remains deferred. Maximum 2,000 words. Return no other text.
+effect; `CMD-0001` remains deferred. Maximum 2,000 words. Return no code fence.
+Return no other text.
