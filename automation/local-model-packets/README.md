@@ -631,3 +631,26 @@ eligible sealed cycle by preserving the useful literal source-specific pattern
 without adding a repair, wrapper, slot, cadence, or model capacity. `CMD-0001`,
 P8, disposition, transfer, graduation, deployment, publication, and all
 external-action boundaries remain unchanged.
+
+The A19010-3 certification issue-paper and A19012-3 encouragement-record
+opportunities each preserved every substantive literal field but omitted the
+opening frontmatter delimiter. Frontier restored only that delimiter in both
+artifacts, published both explicitly unverified questions, recorded
+substantial edited retention with light candidate error, light ordinary
+verification and integration, and useful leverage, and completed both
+families after opportunity 1.
+
+Production rotates to
+`MD-LIN-SFQ-0001-ASR1901-A19010-DESIGN-CHANGE-DIRECTIVE-EVIDENCE-QUESTION-01`,
+opportunity 1. It isolates the remaining Board-stated A-19-010 design-change
+directive plus related procedures and training component and asks for the
+named directive, revision, and related implementation records without
+acquiring or answering them. Exploration rotates to
+`MD-LIN-SFQ-0001-ASR1901-A19011-OPEN-RESPONSE-NEXT-ACTION-EVIDENCE-QUESTION-01`,
+opportunity 1. It moves to the source-pinned A-19-011 `Open - Acceptable
+Response` boundary and asks which dated official correspondence identifies
+the actions still necessary before closure without inventing that action gap.
+This is the second and final eligible adoption of `ADV-MD-20260901-25`;
+Generation-25 guidance is now expired. The two slots, model capacity, cadence,
+`CMD-0001`, P8, disposition, transfer, graduation, deployment, publication,
+and all external-action boundaries remain unchanged.

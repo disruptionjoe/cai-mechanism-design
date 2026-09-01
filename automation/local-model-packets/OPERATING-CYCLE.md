@@ -113,23 +113,26 @@ or count an emitted artifact, a duplicate, a receipt, packet preparation, or
 ## Current slot boundary
 
 The candidate slot carries
-`MD-LIN-SFQ-0001-ASR1901-A19010-CERTIFICATION-ISSUE-PAPER-EVIDENCE-QUESTION-01`,
-opportunity 1. It isolates only the Board-stated certification issue-paper path
-and asks which named issue paper and revision independently documents that path
-and resulting actions. The prior A19010-2 response preserved every substantive
-field but omitted its opening frontmatter delimiter; Frontier restored that
-boundary and published the explicitly unverified question with substantial
-edited retention, light candidate error, light ordinary verification and
-integration, and useful leverage. That lineage is complete.
+`MD-LIN-SFQ-0001-ASR1901-A19010-DESIGN-CHANGE-DIRECTIVE-EVIDENCE-QUESTION-01`,
+opportunity 1. It isolates only the remaining Board-stated A-19-010 design-
+change directive plus related procedures and training and asks which named
+directive, revision, and related records independently document the required
+change and implementation. The prior A19010-3 response preserved every
+substantive field but omitted its opening frontmatter delimiter; Frontier
+restored only that boundary and published the explicitly unverified question
+with substantial edited retention, light candidate error, light ordinary
+verification and integration, and useful leverage. That lineage is complete.
 
 The proving slot carries
-`MD-LIN-SFQ-0001-ASR1901-A19012-ENCOURAGEMENT-RECORD-EVIDENCE-QUESTION-01`,
-opportunity 1. It isolates only the Board-stated encouragement of similar
-actions and asks which dated records independently document what was encouraged
-and which authorities received it. The prior final A19012-2 repair returned the
-complete literal artifact; Frontier published the explicitly unverified
-question with substantial unchanged retention, no candidate error, light
-ordinary verification and integration, and useful leverage. That lineage is
-complete after its final opportunity. Generation-25 guidance is adopted for its
-first eligible sealed cycle. Capacity, cadence, model, candidate state, and all
-external-action boundaries remain unchanged.
+`MD-LIN-SFQ-0001-ASR1901-A19011-OPEN-RESPONSE-NEXT-ACTION-EVIDENCE-QUESTION-01`,
+opportunity 1. It moves to the current official A-19-011 `Open - Acceptable
+Response` boundary and asks which dated official correspondence identifies
+the actions NTSB still considers necessary before closure. The prior A19012-3
+response preserved every substantive field but omitted its opening
+frontmatter delimiter; Frontier restored only that boundary and published the
+explicitly unverified question with substantial edited retention, light
+candidate error, light ordinary verification and integration, and useful
+leverage. That lineage and the three-component A-19-012 closure-basis sequence
+are complete. Generation-25 guidance was adopted for its second and final
+eligible sealed cycle and is now expired. Capacity, cadence, model, candidate
+state, and all external-action boundaries remain unchanged.

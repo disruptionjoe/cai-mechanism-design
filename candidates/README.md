@@ -188,6 +188,16 @@ and intended disposition. Existing-owner fit defeats admission here.
   follow-up-information closure basis while leaving the dated records,
   recipient action, implementation, outcome, effectiveness, cost,
   enforceability, affected-party consequence, capture, and remedy unknown.
+- `SFQ-0001-ASR1901-A19010-CERTIFICATION-ISSUE-PAPER-EVIDENCE-QUESTION-DRAFT.md`
+  - one-component explicitly unverified question preserving the Board-stated
+  certification issue-paper closure basis while leaving the named issue paper,
+  revision, resulting action, implementation, outcome, effectiveness, cost,
+  enforceability, affected-party consequence, capture, and remedy unknown.
+- `SFQ-0001-ASR1901-A19012-ENCOURAGEMENT-RECORD-EVIDENCE-QUESTION-DRAFT.md` -
+  one-component explicitly unverified question preserving the Board-stated
+  encouragement closure basis while leaving the dated records, receiving
+  authorities, recipient action, implementation, outcome, effectiveness,
+  cost, enforceability, affected-party consequence, capture, and remedy unknown.
 
 ## Operating path
 
