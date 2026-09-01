@@ -77,8 +77,26 @@ material candidate error, light ordinary completion, and marginal net
 leverage, and completed
 `MD-LIN-SFQ-0001-VISIBILITY-CORRECTION-LINK-INVENTORY-01`. Exploration rotates
 to `MD-LIN-SFQ-0001-AUTHORITY-CORRECTION-LINK-INVENTORY-01`, opportunity 1.
-The two slots, model capacity, cadence, `CMD-0001`, and external-action state
-remain unchanged.
+
+The domain-separation question accumulated one 67-attempt exact-byte cohort.
+The strongest response preserved all five literal roles, boundaries, unknowns,
+and owner limits; Frontier supplied only complete boundary prose. The
+authority-link question accumulated one 66-attempt exact-byte cohort. Its
+strongest response preserved all five literal pairs, unknowns, and owner limits;
+Frontier restored the explicit causal-link refusal. Sixteen attempts across
+both cohorts returned zero bytes at the length limit. Every pointer is
+terminally dispositioned without treating repeats as new family opportunities.
+Both selected responses retained substantial content with light candidate
+error, light ordinary completion, and useful leverage.
+
+Both bounded questions are complete. Production rotates to
+`MD-LIN-SFQ-0001-MECHANISM-LAYER-SEPARATION-MAP-01`, opportunity 1, which
+combines the frozen visibility, authority, and correction layers without
+inferring causal links or effects. Exploration rotates to
+`MD-LIN-SFQ-0001-SOURCE-STRENGTHENING-QUESTION-SET-01`, opportunity 1, which
+forms source questions for the current linkage, standing, implementation, and
+outcome gaps without answering them. The two slots, model capacity, cadence,
+`CMD-0001`, and external-action state remain unchanged.
 
 Earlier packets created reusable synthetic review and proving-process
 fixtures. Those artifacts remain history and negative evidence, but their

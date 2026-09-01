@@ -44,6 +44,14 @@ and intended disposition. Existing-owner fit defeats admission here.
   every explicit-link, affected-standing, and effectiveness value as unknown
   and refuses causal, authorization, remedy-transfer, or external-effect
   inference.
+- `SFQ-0001-CORRECTION-ROUTE-DOMAIN-SEPARATION-AUDIT-DRAFT.md` - source-pinned
+  audit preserving five distinct correction-or-stop roles and domain
+  boundaries while keeping shared-remedy and transferability evidence unknown.
+  Domain owners retain remedy authority and no candidate or effect is created.
+- `SFQ-0001-AUTHORITY-CORRECTION-LINK-INVENTORY-DRAFT.md` - source-pinned
+  inventory preserving five authority and correction-or-stop pairs while
+  keeping linkage, affected-party accountability, and effectiveness unknown.
+  It creates no proving, candidate, remedy-transfer, or external effect.
 
 ## Operating path
 
