@@ -7,6 +7,8 @@ projection below. Do not browse, add facts, infer dependency execution,
 sequence completion, implementation, effectiveness, prescription, ranking, or
 remedy.
 
+Frozen source-owner evidence:
+
 The three source-pinned sequences and current statuses are:
 
 1. `direct_assessment_and_scope_diffusion | A-19-010; A-19-011; A-19-012 | require 737 MAX review and needed changes; require the same review for other US transport-category airplanes; notify international regulators and encourage relevance evaluation | A-19-012 names A-19-011 | A-19-010: Closed - Acceptable Action; A-19-011: Open - Acceptable Response; A-19-012: Closed - Acceptable Action`
@@ -47,5 +49,5 @@ and `Aviation domain owners retain remedy authority and no effect is
 authorized.` State that the overlay authorizes no source acquisition,
 implementation, outcome, effectiveness, cost, enforceability, affected-party
 consequence, capture, transferability, remedy, candidate action, contact, or
-external effect; `CMD-0001` remains deferred. Maximum 1,300 words. Return no
-code fence. Return no other text.
+external effect; `CMD-0001` remains deferred. Maximum 1,300 words.
+Return no code fence. Return no other text.

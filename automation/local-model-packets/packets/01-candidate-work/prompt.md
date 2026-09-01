@@ -6,6 +6,8 @@ Begin the finished artifact immediately. Use only the frozen official NTSB
 projection below. Do not browse, add facts, infer implementation or
 effectiveness, prescribe, rank, or create a remedy.
 
+Frozen source-owner evidence:
+
 Official NTSB status definitions:
 
 - `Closed - Acceptable Action`: `Response by recipient indicates action on the safety recommendation has been completed. The action complies with the safety recommendation.`
