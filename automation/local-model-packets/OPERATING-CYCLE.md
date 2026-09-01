@@ -113,21 +113,23 @@ or count an emitted artifact, a duplicate, a receipt, packet preparation, or
 ## Current slot boundary
 
 The candidate slot carries
-`MD-LIN-SFQ-0001-ASR1901-A19010-FMEA-TREATMENT-EVIDENCE-QUESTION-01`,
-opportunity 1. It isolates only the Board-stated FMEA component and asks which
-named FMEA artifact and revision independently documents the treated failure
-modes and effects. The prior A19010-1 final repair returned the complete literal
-artifact skeleton with no candidate error; Frontier published the explicitly
-unverified question with substantial unchanged retention, light ordinary
-verification and integration, and useful leverage. That lineage is complete
-and receives no further repair.
+`MD-LIN-SFQ-0001-ASR1901-A19010-CERTIFICATION-ISSUE-PAPER-EVIDENCE-QUESTION-01`,
+opportunity 1. It isolates only the Board-stated certification issue-paper path
+and asks which named issue paper and revision independently documents that path
+and resulting actions. The prior A19010-2 response preserved every substantive
+field but omitted its opening frontmatter delimiter; Frontier restored that
+boundary and published the explicitly unverified question with substantial
+edited retention, light candidate error, light ordinary verification and
+integration, and useful leverage. That lineage is complete.
 
 The proving slot carries
-`MD-LIN-SFQ-0001-ASR1901-A19012-FOLLOW-UP-RECORD-EVIDENCE-QUESTION-01`,
-opportunity 2 and final `repair_once`. Its first exact-current attempt reached
-the 16,384-token generation limit and returned zero response bytes. The compact
-repair preserves the same A19012-2 component, question, unknowns, recipient-
-action boundary, and owner boundary with an explicit literal artifact skeleton.
-Another no-benefit result completes and retires the family. No Generation-24
-guidance is projected or adopted again. Capacity, cadence, model, candidate
-state, and all external-action boundaries remain unchanged.
+`MD-LIN-SFQ-0001-ASR1901-A19012-ENCOURAGEMENT-RECORD-EVIDENCE-QUESTION-01`,
+opportunity 1. It isolates only the Board-stated encouragement of similar
+actions and asks which dated records independently document what was encouraged
+and which authorities received it. The prior final A19012-2 repair returned the
+complete literal artifact; Frontier published the explicitly unverified
+question with substantial unchanged retention, no candidate error, light
+ordinary verification and integration, and useful leverage. That lineage is
+complete after its final opportunity. Generation-25 guidance is adopted for its
+first eligible sealed cycle. Capacity, cadence, model, candidate state, and all
+external-action boundaries remain unchanged.

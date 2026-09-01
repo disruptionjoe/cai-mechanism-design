@@ -603,3 +603,31 @@ final A19012-2 repair. Generation-24 guidance remains expired and is neither
 projected nor adopted. The two slots, model capacity, cadence, `CMD-0001`, P8,
 disposition, transfer, graduation, deployment, publication, and external-action
 state remain unchanged.
+
+The A19010-2 FMEA-treatment opportunity preserved the complete literal artifact
+except for the opening frontmatter delimiter. Frontier restored that delimiter,
+published the explicitly unverified question, recorded substantial edited
+retention with light candidate error, light ordinary completion, and useful
+leverage, and completed the family after opportunity 1.
+
+The final A19012-2 follow-up-record repair returned the complete literal
+artifact with its component, question, source posture, pointer, five unknowns,
+recipient-action boundary, owner boundary, and non-effect close intact.
+Frontier published it unchanged apart from the repository's final newline,
+recorded substantial unchanged retention with no candidate error, light
+ordinary completion, and useful leverage, and completed the family after its
+final opportunity.
+
+Production rotates to
+`MD-LIN-SFQ-0001-ASR1901-A19010-CERTIFICATION-ISSUE-PAPER-EVIDENCE-QUESTION-01`,
+opportunity 1. It isolates the Board-stated certification issue-paper path and
+asks which named issue paper and revision independently documents that path and
+resulting actions. Exploration rotates to
+`MD-LIN-SFQ-0001-ASR1901-A19012-ENCOURAGEMENT-RECORD-EVIDENCE-QUESTION-01`,
+opportunity 1. It isolates the Board-stated encouragement component and asks
+which dated records independently document the similar actions encouraged and
+the receiving authorities. This adopts `ADV-MD-20260901-25` for its first
+eligible sealed cycle by preserving the useful literal source-specific pattern
+without adding a repair, wrapper, slot, cadence, or model capacity. `CMD-0001`,
+P8, disposition, transfer, graduation, deployment, publication, and all
+external-action boundaries remain unchanged.

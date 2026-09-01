@@ -173,10 +173,20 @@ and intended disposition. Existing-owner fit defeats admission here.
   crew-operations validation closure basis while leaving the named FAA
   validation artifact, revision, implementation, outcome, effectiveness, cost,
   enforceability, affected-party consequence, capture, and remedy unknown.
+- `SFQ-0001-ASR1901-A19010-FMEA-TREATMENT-EVIDENCE-QUESTION-DRAFT.md` - one-
+  component explicitly unverified question preserving the Board-stated FMEA
+  treatment closure basis while leaving the named FMEA artifact, revision,
+  implementation, outcome, effectiveness, cost, enforceability, affected-party
+  consequence, capture, and remedy unknown.
 - `SFQ-0001-ASR1901-A19012-INTERNATIONAL-NOTIFICATION-EVIDENCE-QUESTION-DRAFT.md`
   - one-component question preserving the Board-stated initial international-
   notification closure basis while leaving the identities, dates, initiative
   detail, recipient action, implementation, outcome, effectiveness, cost,
+  enforceability, affected-party consequence, capture, and remedy unknown.
+- `SFQ-0001-ASR1901-A19012-FOLLOW-UP-RECORD-EVIDENCE-QUESTION-DRAFT.md` - one-
+  component explicitly unverified question preserving the Board-stated
+  follow-up-information closure basis while leaving the dated records,
+  recipient action, implementation, outcome, effectiveness, cost,
   enforceability, affected-party consequence, capture, and remedy unknown.
 
 ## Operating path

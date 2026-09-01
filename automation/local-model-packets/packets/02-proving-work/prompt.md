@@ -1,9 +1,8 @@
-# Return one A-19-012 follow-up-record evidence-question artifact
+# Return one A-19-012 encouragement-record evidence-question artifact
 
 Family lineage:
-`MD-LIN-SFQ-0001-ASR1901-A19012-FOLLOW-UP-RECORD-EVIDENCE-QUESTION-01`,
-opportunity 2 and final `repair_once`. The first attempt returned zero bytes at
-the generation limit.
+`MD-LIN-SFQ-0001-ASR1901-A19012-ENCOURAGEMENT-RECORD-EVIDENCE-QUESTION-01`,
+opportunity 1.
 
 Frozen source-owner evidence:
 
@@ -17,14 +16,14 @@ Do not browse, answer the question, add facts, infer recipient action, or
 authorize any effect.
 
 ---
-artifact_type: asr1901_a19012_follow_up_record_evidence_question_draft
+artifact_type: asr1901_a19012_encouragement_record_evidence_question_draft
 status: unverified_local_candidate
 source_inquiry: SFQ-0001
 source_record: SF-0001
 external_action: none
 ---
 
-# A-19-012 Follow-Up-Record Evidence Question Draft
+# A-19-012 Encouragement-Record Evidence Question Draft
 
 ## Boundary
 
@@ -36,7 +35,7 @@ independent implementation, recipient action, or effect evidence is established.
 
 | Component | Board-stated closure component | Source posture | Independent implementation evidence question | Evidence answer | Outcome and effectiveness | Cost and enforceability | Affected-party consequence | Capture surface | Source pointer | Owner boundary |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| A19012-2 | would keep those authorities informed | official_board_correspondence_closure_basis_only | Which dated follow-up records independently document that those authorities were kept informed? | unknown | unknown | unknown | unknown | unknown | https://data.ntsb.gov/carol-main-public/sr-details/A-19-012 | Aviation domain owners retain remedy authority and no effect is authorized. |
+| A19012-3 | would encourage similar actions | official_board_correspondence_closure_basis_only | Which dated records independently document what similar actions were encouraged and which authorities received that encouragement? | unknown | unknown | unknown | unknown | unknown | https://data.ntsb.gov/carol-main-public/sr-details/A-19-012 | Aviation domain owners retain remedy authority and no effect is authorized. |
 
 ## Frontier Verification And Stops
 
