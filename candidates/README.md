@@ -88,6 +88,12 @@ and intended disposition. Existing-owner fit defeats admission here.
   treats only procedure update as reported downstream response and leaves all
   outcomes, costs, enforceability, affected-party consequences, and capture
   effects unestablished.
+- `SFQ-0001-SF0001-INTERVENTION-EXAMPLE-CUSTODY-DRAFT.md` - six-row custody
+  record for the exact intervention examples and mechanisms presented in the
+  frozen `SF-0001` synthesis. It distinguishes one reported implemented
+  response, four recommendation sets, and one observation-and-recommendation
+  set without establishing adoption, outcome, effectiveness, remedy, or any
+  external effect.
 
 ## Operating path
 

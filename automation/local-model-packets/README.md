@@ -215,6 +215,27 @@ literal frontmatter and row skeletons after the repeated delimiter defect.
 The two slots, model capacity, cadence, `CMD-0001`, and external-action state
 remain unchanged.
 
+The intervention-example custody opportunity preserved all six exact examples,
+mechanisms, posture labels, unknown outcome-and-effectiveness values, source
+custody, and owner boundaries. Frontier replaced only repetitive
+self-verifying closing prose, published the explicitly unverified custody
+record, recorded substantial edited retention with light candidate error,
+light ordinary completion, and useful leverage, and completed that lineage.
+
+The first source-locator-gap opportunity ran the exact current prompt bytes but
+ended at the 16,384-token generation limit with zero response bytes. It retained
+no candidate content or owner effect. One shortened `repair_once`, opportunity
+2 and final, now supplies the same literal six-row locator contract with less
+instructional overhead; another no-benefit result completes and retires the
+family.
+
+Production rotates to
+`MD-LIN-SFQ-0001-SF0001-EXAMPLE-MECHANISM-VERIFICATION-QUESTIONS-01`,
+opportunity 1. It forms one official-source verification question per frozen
+example-mechanism pair without acquiring sources or answering the question.
+The two slots, model capacity, cadence, `CMD-0001`, and external-action state
+remain unchanged.
+
 Earlier packets created reusable synthetic review and proving-process
 fixtures. Those artifacts remain history and negative evidence, but their
 retired lineages do not reset through prompt replacement. Neither current

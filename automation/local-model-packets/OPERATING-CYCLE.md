@@ -113,14 +113,14 @@ or count an emitted artifact, a duplicate, a receipt, packet preparation, or
 ## Current slot boundary
 
 The candidate slot carries
-`MD-LIN-SFQ-0001-SF0001-INTERVENTION-EXAMPLE-CUSTODY-01`, opportunity 1, after
-the source-boundary comparison produced one corrected, explicitly unverified
-owner artifact. The proving slot carries
-`MD-LIN-SFQ-0001-SF0001-SOURCE-LOCATOR-GAP-01`, opportunity 1, after the first
-exact repaired-hash outcome-gap attempt was terminally marked
-`already_handled` because its owner artifact was already published from the
-semantically equivalent pre-repair request. Both new prompts provide complete
-literal frontmatter and six-row skeletons, preserve source and aviation-owner
-custody, and authorize no source acquisition, outcome inference, remedy,
+`MD-LIN-SFQ-0001-SF0001-EXAMPLE-MECHANISM-VERIFICATION-QUESTIONS-01`,
+opportunity 1, after the intervention-example custody draft produced a useful,
+corrected, explicitly unverified owner artifact. The proving slot retains
+`MD-LIN-SFQ-0001-SF0001-SOURCE-LOCATOR-GAP-01` under `repair_once`, opportunity
+2 and final, after its first exact-byte attempt ended at the generation limit
+with zero response bytes. The candidate packet asks only what public-official
+passage would verify each presented example-mechanism pair. The proving packet
+preserves the same locator-gap question in a shortened literal skeleton. Both
+authorize no browsing, source acquisition, answer, outcome inference, remedy,
 candidate change, proving, or external effect. Capacity, cadence, model,
 candidate state, and all external-action boundaries are unchanged.
