@@ -98,6 +98,23 @@ forms source questions for the current linkage, standing, implementation, and
 outcome gaps without answering them. The two slots, model capacity, cadence,
 `CMD-0001`, and external-action state remain unchanged.
 
+The first mechanism-layer opportunity reached the generation limit and
+returned zero response bytes. It retained no candidate content or owner effect.
+One shortened `repair_once` now supplies the exact five-row skeleton and is the
+lineage's final allowed repair; another no-benefit result completes and retires
+the family. The source-strengthening opportunity returned a complete five-row
+question set with every frozen role, unknown answer, and owner/non-effect
+boundary intact. Frontier published it as explicitly unverified research with
+substantial unchanged retention, no candidate error, light ordinary review,
+and useful leverage, then completed that lineage.
+
+Exploration rotates to `MD-LIN-SFQ-0001-EVIDENCE-ROUTE-MATRIX-01`, opportunity
+1. It may name only bounded public source categories and source requirements
+for the current questions; it cannot acquire sources, answer questions, rank
+records, infer authority or standing, or authorize contact. The two slots,
+model capacity, cadence, `CMD-0001`, and external-action state remain
+unchanged.
+
 Earlier packets created reusable synthetic review and proving-process
 fixtures. Those artifacts remain history and negative evidence, but their
 retired lineages do not reset through prompt replacement. Neither current

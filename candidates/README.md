@@ -52,6 +52,11 @@ and intended disposition. Existing-owner fit defeats admission here.
   inventory preserving five authority and correction-or-stop pairs while
   keeping linkage, affected-party accountability, and effectiveness unknown.
   It creates no proving, candidate, remedy-transfer, or external effect.
+- `SFQ-0001-SOURCE-STRENGTHENING-QUESTION-SET-DRAFT.md` - source-pinned
+  question set preserving all five visibility, authority, and
+  correction-or-stop role triples while leaving linkage, standing and access,
+  implementation, outcome, and capture answers unknown. It authorizes no
+  research, proving, candidate, contact, or external effect.
 
 ## Operating path
 
