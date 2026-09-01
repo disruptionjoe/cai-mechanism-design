@@ -113,18 +113,18 @@ or count an emitted artifact, a duplicate, a receipt, packet preparation, or
 ## Current slot boundary
 
 The candidate slot carries
-`MD-LIN-SFQ-0001-ASR1901-JATR-CONTROL-POINT-COMPARISON-01`, opportunity 1,
-after the NTSB and JATR extraction families each produced a useful, corrected,
-explicitly unverified owner artifact and completed. It compares four official
-recommendation control points while making implementation, outcome, cost,
-enforceability, affected-party consequence, and capture explicitly unknown.
+`MD-LIN-SFQ-0001-ASR1901-INDIVIDUAL-RECOMMENDATION-ACTION-MAP-01`, opportunity
+1, after the official control-point comparison produced a useful owner effect
+and completed. It separates A-19-10 through A-19-16 by scope, action form,
+action object, and dependency while leaving every implementation, outcome,
+cost, enforceability, affected-party, capture, and remedy field unknown.
 
 The proving slot carries
-`MD-LIN-SFQ-0001-ASR1901-JATR-VISIBILITY-ALTERNATIVE-BOUNDARY-01`, opportunity
-1. It separates pilot-facing failure-indication clarity from certification-
-facing changed-function visibility and review timing without inferring
-equivalence, causal linkage, substitution, ranking, transferability,
-implementation, or effectiveness. Both packets freeze exact official NTSB
-ASR-19-01 and FAA-hosted JATR report passages and preserve aviation-owner
-remedy authority. Capacity, cadence, model, candidate state, and all external-
-action boundaries are unchanged.
+`MD-LIN-SFQ-0001-JATR-IMPLEMENTATION-SCOPE-BOUNDARY-01`, opportunity 1. It
+separates the FAA's claim about JATR recommendations applicable to 737 MAX
+return to service from later changed-product-rule reform activity and from the
+still-unestablished individual, systemwide implementation status of JATR R4.2
+through R4.6. Both packets freeze exact official NTSB or FAA source pointers,
+one bounded relation per row, explicit unknowns, and aviation-owner remedy
+authority. Capacity, cadence, model, candidate state, and all external-action
+boundaries are unchanged.

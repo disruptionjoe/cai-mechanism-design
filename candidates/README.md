@@ -112,6 +112,16 @@ and intended disposition. Existing-owner fit defeats admission here.
   timing, fragmentation-control, change-highlighting, and interaction-record
   custody relations. It preserves exact report-page custody without inferring
   adoption, outcome, remedy, effectiveness, or transferability.
+- `SFQ-0001-ASR1901-JATR-CONTROL-POINT-COMPARISON-DRAFT.md` - four-row
+  comparison of official recommendation control points for pilot-response
+  assumptions, validation methods, failure-indication clarity, and
+  certification-information visibility. It keeps implementation, outcomes,
+  costs, enforceability, affected-party consequences, and capture unknown.
+- `SFQ-0001-ASR1901-JATR-VISIBILITY-ALTERNATIVE-BOUNDARY-DRAFT.md` - two-row
+  separation of pilot-facing failure-indication clarity from certification-
+  facing design-change visibility and review timing. It establishes no
+  equivalence, causal link, substitution, ranking, transferability, remedy, or
+  external effect.
 
 ## Operating path
 

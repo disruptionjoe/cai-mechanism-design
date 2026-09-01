@@ -297,6 +297,40 @@ capacity or reopening a completed family. `CMD-0001`, P8, disposition,
 transfer, graduation, deployment, cadence, model, and external-action state
 remain unchanged.
 
+The control-point opportunity preserved all four official recommendation
+relations, exact report-page pointers, explicit unknown states, and owner
+boundaries. Its source-component cells named only the two reports rather than
+the four required recommendation identifiers. Frontier restored those
+identifiers, tightened the boundary prose, published the explicitly
+unverified comparison, and recorded substantial edited retention with light
+candidate error, light ordinary completion, and useful leverage. That lineage
+is complete after opportunity 1.
+
+The visibility-alternative opportunity preserved both exact alternative IDs,
+literal audiences, information objects, timings, supported relations,
+unsupported-equivalence statements, unknown states, source custody, and owner
+boundaries. Frontier tightened only the research boundary, published the
+explicitly unverified separation, and recorded substantial unchanged
+retention with no candidate error, light ordinary review, and useful leverage.
+That lineage is complete after opportunity 1.
+
+Production rotates to
+`MD-LIN-SFQ-0001-ASR1901-INDIVIDUAL-RECOMMENDATION-ACTION-MAP-01`, opportunity
+1. It separates A-19-10 through A-19-16 by scope, action form, action object,
+and explicit dependency using the official NTSB recommendation letter while
+keeping implementation, adoption, outcomes, effectiveness, cost,
+enforceability, affected-party consequences, capture, and remedy unknown.
+Exploration rotates to
+`MD-LIN-SFQ-0001-JATR-IMPLEMENTATION-SCOPE-BOUNDARY-01`, opportunity 1. It
+separates the FAA's 737 MAX return-to-service statement from later changed-
+product-rule reform activity and the still-unestablished individual,
+systemwide implementation status of JATR R4.2 through R4.6. Both packets use
+one official-source pointer and one bounded relation per row, preserve the
+second and final Generation-22 source-specific cycle, and neither scales
+capacity nor reopens a completed family. `CMD-0001`, P8, disposition,
+transfer, graduation, deployment, cadence, model, and external-action state
+remain unchanged.
+
 Earlier packets created reusable synthetic review and proving-process
 fixtures. Those artifacts remain history and negative evidence, but their
 retired lineages do not reset through prompt replacement. Neither current
