@@ -82,6 +82,12 @@ and intended disposition. Existing-owner fit defeats admission here.
   of the outcome, cost and enforceability, affected-party consequence, and
   capture evidence absent from the frozen `SF-0001` intervention comparison.
   It claims no effectiveness, remedy, candidate, proving, or external effect.
+- `SFQ-0001-SF0001-INTERVENTION-CLASS-SOURCE-BOUNDARY-COMPARISON-DRAFT.md` -
+  six-row comparison of the frozen `SF-0001` intervention classes, reported
+  mechanisms, topology implications, and prevention-or-repair boundaries. It
+  treats only procedure update as reported downstream response and leaves all
+  outcomes, costs, enforceability, affected-party consequences, and capture
+  effects unestablished.
 
 ## Operating path
 

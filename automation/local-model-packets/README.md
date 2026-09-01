@@ -188,6 +188,33 @@ enforceability, affected-party consequences, capture, remedy, and candidate
 claims outside the local result. The proving slot, two-slot capacity, cadence,
 model, `CMD-0001`, and external-action state remain unchanged.
 
+The intervention-class source-boundary opportunity preserved all six exact
+class, mechanism, topology-implication, prevention-or-repair, gap, and owner-
+boundary rows but omitted the closing frontmatter delimiter. Frontier restored
+that delimiter, removed repetitive closing prose, and published the explicitly
+unverified comparison with substantial edited retention, light candidate error,
+light ordinary completion, and useful leverage. That lineage is complete.
+
+The first exact-hash attempt under the repaired outcome-and-capture packet is
+terminally `already_handled`. The prior cycle had already published the same
+six-row owner artifact from the semantically equivalent pre-repair request; the
+new response omitted its closing delimiter and changed the literal intervention
+class cells, so no duplicate owner effect was retained. The exact-hash attempt
+closes the transport boundary without granting a second family opportunity.
+
+Production rotates to
+`MD-LIN-SFQ-0001-SF0001-INTERVENTION-EXAMPLE-CUSTODY-01`, opportunity 1. It
+preserves the source owner's six exact intervention examples and distinguishes
+one reported implemented response, four reported recommendation sets, and one
+reported observation-and-recommendation set without inferring results.
+Exploration rotates to
+`MD-LIN-SFQ-0001-SF0001-SOURCE-LOCATOR-GAP-01`, opportunity 1. It records the
+exact locator detail present for each class and keeps page, section, excerpt,
+outcome, remedy, and verification claims absent. Both prompts use complete
+literal frontmatter and row skeletons after the repeated delimiter defect.
+The two slots, model capacity, cadence, `CMD-0001`, and external-action state
+remain unchanged.
+
 Earlier packets created reusable synthetic review and proving-process
 fixtures. Those artifacts remain history and negative evidence, but their
 retired lineages do not reset through prompt replacement. Neither current

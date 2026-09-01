@@ -112,14 +112,15 @@ or count an emitted artifact, a duplicate, a receipt, packet preparation, or
 
 ## Current slot boundary
 
-The candidate slot now carries
-`MD-LIN-SFQ-0001-SF0001-INTERVENTION-CLASS-SOURCE-BOUNDARY-01`, opportunity 1,
-after the source-local link-extraction lineage produced one corrected,
-explicitly unverified owner artifact. The proving slot remains
-`MD-LIN-SFQ-0001-SF0001-OUTCOME-CAPTURE-GAP-01`, opportunity 1, because its
-first completed response raced the prior prompt's final heading-only repair
-and did not run the exact current bytes. The stale attempt is terminally
-handled and its useful bounded artifact is published; the repaired packet gets
-no extra family opportunity and remains only until one exact-hash attempt is
-terminally dispositioned. Capacity, cadence, model, candidate state, and all
-external-action boundaries are unchanged.
+The candidate slot carries
+`MD-LIN-SFQ-0001-SF0001-INTERVENTION-EXAMPLE-CUSTODY-01`, opportunity 1, after
+the source-boundary comparison produced one corrected, explicitly unverified
+owner artifact. The proving slot carries
+`MD-LIN-SFQ-0001-SF0001-SOURCE-LOCATOR-GAP-01`, opportunity 1, after the first
+exact repaired-hash outcome-gap attempt was terminally marked
+`already_handled` because its owner artifact was already published from the
+semantically equivalent pre-repair request. Both new prompts provide complete
+literal frontmatter and six-row skeletons, preserve source and aviation-owner
+custody, and authorize no source acquisition, outcome inference, remedy,
+candidate change, proving, or external effect. Capacity, cadence, model,
+candidate state, and all external-action boundaries are unchanged.
