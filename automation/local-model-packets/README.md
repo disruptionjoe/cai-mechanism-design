@@ -501,3 +501,34 @@ capture, remedy, candidate-action, and external-effect evidence. The proving
 slot remains the final status-sequence repair. Capacity, cadence, model,
 `CMD-0001`, P8, disposition, transfer, graduation, deployment, and all
 external-action boundaries remain unchanged.
+
+The closed-action correspondence opportunity preserved both recommendation
+IDs, statuses, dates, directions, Board-stated closure bases, independent-
+evidence gaps, source pointers, owner limits, and the principal non-effect
+boundary. It used `unknown` where the packet required the literal evidence
+posture and omitted several exact terminal stops. Frontier restored those
+boundaries, published the explicitly unverified correspondence record,
+recorded most content retained with light candidate error, light ordinary
+completion, and useful leverage, and completed that lineage after opportunity
+1.
+
+The status-sequence final repair again reached the 16,384-token generation
+limit and returned zero response bytes. It retained no candidate content or
+owner effect. Two no-benefit opportunities complete and retire
+`MD-LIN-SFQ-0001-ASR1901-STATUS-SEQUENCE-BOUNDARY-01`; the marker-only
+pre-correction request difference creates no third family opportunity or
+duplicate owner effect.
+
+Production rotates to
+`MD-LIN-SFQ-0001-ASR1901-A19010-CLOSURE-BASIS-INDEPENDENT-EVIDENCE-QUESTIONS-01`,
+opportunity 1. It decomposes the four Board-stated A-19-010 closure components
+into bounded questions for independent implementation evidence while leaving
+outcome, effectiveness, cost, enforceability, affected-party consequence,
+capture, remedy, and external effect unknown. Exploration rotates to
+`MD-LIN-SFQ-0001-ASR1901-A19012-CLOSURE-BASIS-INDEPENDENT-EVIDENCE-QUESTIONS-01`,
+opportunity 1. It does the same for the three Board-stated A-19-012
+international-notification components. This adopts `ADV-MD-20260901-24` for
+its first eligible sealed cycle by replacing the failed wide artifact with
+smaller source-local work. Capacity, cadence, model, `CMD-0001`, P8,
+disposition, transfer, graduation, deployment, and all external-action
+boundaries remain unchanged.

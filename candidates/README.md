@@ -162,6 +162,12 @@ and intended disposition. Existing-owner fit defeats admission here.
   Board's recipient-response posture distinct from independent implementation,
   outcome, effectiveness, cost, enforceability, affected-party consequence,
   capture, transferability, remedy, candidate action, and external effect.
+- `SFQ-0001-ASR1901-CLOSED-ACTION-CORRESPONDENCE-EVIDENCE-DRAFT.md` - two-row
+  boundary preserving the Board-stated `01/05/2023` closure bases for A-19-010
+  and A-19-012 while keeping independent implementation, outcome,
+  effectiveness, cost, enforceability, affected-party consequence, capture,
+  transferability, remedy, candidate action, contact, and external effect
+  unestablished.
 
 ## Operating path
 

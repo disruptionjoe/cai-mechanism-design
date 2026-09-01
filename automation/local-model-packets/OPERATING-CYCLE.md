@@ -113,21 +113,22 @@ or count an emitted artifact, a duplicate, a receipt, packet preparation, or
 ## Current slot boundary
 
 The candidate slot carries
-`MD-LIN-SFQ-0001-ASR1901-CLOSED-ACTION-CORRESPONDENCE-EVIDENCE-01`, opportunity
-1. It uses the two official `01/05/2023` CAROL correspondence entries to
-separate the Board-stated closure bases for A-19-010 and A-19-012 from
-independent implementation, outcome, effectiveness, cost, enforceability,
-affected-party consequence, capture, remedy, candidate action, and external
-effect.
+`MD-LIN-SFQ-0001-ASR1901-A19010-CLOSURE-BASIS-INDEPENDENT-EVIDENCE-QUESTIONS-01`,
+opportunity 1. It decomposes the four Board-stated A-19-010 closure components
+into small questions for the exact independent implementation evidence still
+needed. It does not answer those questions or infer outcome, effectiveness,
+cost, enforceability, affected-party consequence, capture, remedy, candidate
+action, contact, or external effect.
 
 The proving slot carries
-`MD-LIN-SFQ-0001-ASR1901-STATUS-SEQUENCE-BOUNDARY-01`, opportunity 2 and final.
-It is one compact `repair_once` after opportunity 1 exhausted the generation
-limit with zero response bytes. It preserves the same three source-pinned
-sequences and current classifications while refusing to infer dependency
-execution, sequence completion, implementation, or effectiveness. Another
-no-benefit result completes and retires the family. The classification-meaning
-family is complete after its useful owner effect. Both packets freeze exact
-official NTSB source pointers, explicit unknowns, and aviation-owner remedy
-authority. Capacity, cadence, model, candidate state, and all external-action
-boundaries are unchanged.
+`MD-LIN-SFQ-0001-ASR1901-A19012-CLOSURE-BASIS-INDEPENDENT-EVIDENCE-QUESTIONS-01`,
+opportunity 1. It decomposes the three Board-stated A-19-012 international-
+notification components into the exact independent implementation evidence
+questions still open. It does not answer those questions or infer recipient
+action, outcome, effectiveness, cost, enforceability, affected-party
+consequence, capture, remedy, candidate action, contact, or external effect.
+The correspondence-evidence family is complete after its useful owner effect;
+the twice-empty status-sequence family is retired. Both successor packets are
+smaller source-local decompositions under the first eligible adoption of
+`ADV-MD-20260901-24`. Capacity, cadence, model, candidate state, and all
+external-action boundaries are unchanged.
