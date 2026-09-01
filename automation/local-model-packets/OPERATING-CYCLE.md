@@ -114,23 +114,21 @@ or count an emitted artifact, a duplicate, a receipt, packet preparation, or
 
 The candidate slot carries
 `MD-LIN-SFQ-0001-ASR1901-A19010-CREW-OPERATIONS-VALIDATION-EVIDENCE-QUESTION-01`,
-opportunity 1. It isolates the A-19-010 crew-operations validation component
-and asks only which named FAA validation artifact and revision independently
-documents its completion and application of the crew-response assumptions. It
-does not acquire or answer that question or infer implementation, outcome,
-effectiveness, cost, enforceability, affected-party consequence, capture,
-remedy, candidate action, contact, or external effect.
+opportunity 2 and final `repair_once`. Its first exact-current attempt reached
+the 16,384-token generation limit and returned zero response bytes. The compact
+repair preserves the same A19010-1 component, question, unknowns, and owner
+boundary with an explicit literal artifact skeleton. Another no-benefit result
+completes and retires the family.
 
 The proving slot carries
-`MD-LIN-SFQ-0001-ASR1901-A19012-INTERNATIONAL-NOTIFICATION-EVIDENCE-QUESTION-01`,
-opportunity 1. It isolates the A-19-012 initial international-notification
-component and asks only which dated official notification records identify the
-authorities and initiatives described. It does not acquire records, answer the
-question, or infer recipient action, implementation, outcome, effectiveness,
-cost, enforceability, affected-party consequence, capture, remedy, candidate
-action, contact, or external effect. The predecessor A-19-010 and A-19-012
-multi-row families each returned zero bytes at the generation limit and are
-retired after their bounded first opportunities. These one-component rotations
-adopt `ADV-MD-20260901-24` for its second and final eligible cycle. Capacity,
-cadence, model, candidate state, and all external-action boundaries are
-unchanged.
+`MD-LIN-SFQ-0001-ASR1901-A19012-FOLLOW-UP-RECORD-EVIDENCE-QUESTION-01`,
+opportunity 1. It isolates the Board-stated commitment to keep international
+authorities informed and asks only which dated follow-up records independently
+document that communication. The prior one-component A19012-1 response retained
+the requested question, unknowns, and non-effect boundary but shifted its table
+fields by inserting an extra recommendation cell. Frontier repaired and
+published the explicitly unverified question with substantial edited retention,
+material candidate error, light ordinary completion, and useful leverage; that
+lineage is complete. No Generation-24 guidance is projected or adopted again.
+Capacity, cadence, model, candidate state, and all external-action boundaries
+remain unchanged.

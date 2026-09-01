@@ -168,6 +168,11 @@ and intended disposition. Existing-owner fit defeats admission here.
   effectiveness, cost, enforceability, affected-party consequence, capture,
   transferability, remedy, candidate action, contact, and external effect
   unestablished.
+- `SFQ-0001-ASR1901-A19012-INTERNATIONAL-NOTIFICATION-EVIDENCE-QUESTION-DRAFT.md`
+  - one-component question preserving the Board-stated initial international-
+  notification closure basis while leaving the identities, dates, initiative
+  detail, recipient action, implementation, outcome, effectiveness, cost,
+  enforceability, affected-party consequence, capture, and remedy unknown.
 
 ## Operating path
 

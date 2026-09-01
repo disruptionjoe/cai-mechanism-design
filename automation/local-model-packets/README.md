@@ -553,3 +553,28 @@ adoption of `ADV-MD-20260901-24`: each replacement is a one-component,
 source-local contract rather than another multi-row repair. Capacity, cadence,
 model, `CMD-0001`, P8, disposition, transfer, graduation, deployment, and all
 external-action boundaries remain unchanged.
+
+The first A19010-1 crew-operations-validation opportunity reached the 16,384-
+token generation limit and returned zero response bytes. It retained no
+candidate content or owner effect. One final compact `repair_once`, opportunity
+2, now supplies the complete literal one-row artifact skeleton; another no-
+benefit result completes and retires the lineage.
+
+The A19012-1 international-notification opportunity preserved the requested
+question, five unknown values, source custody, owner boundary, and non-effect
+close, but inserted `A-19-012` as an extra first table cell and shifted every
+required field. Frontier restored the eleven-column row, tightened the
+unverified research boundary, checked the official CAROL record, and published
+the corrected question with substantial edited retention, material candidate
+error, light ordinary completion, and useful leverage. That lineage is complete
+after opportunity 1.
+
+Exploration rotates to
+`MD-LIN-SFQ-0001-ASR1901-A19012-FOLLOW-UP-RECORD-EVIDENCE-QUESTION-01`,
+opportunity 1. It isolates the Board-stated commitment to keep the notified
+authorities informed and asks which dated follow-up records independently
+document that communication without acquiring records or inferring recipient
+action. Generation-24 guidance has expired and is neither projected nor adopted
+again. The two slots, model capacity, cadence, `CMD-0001`, P8, disposition,
+transfer, graduation, deployment, publication, and external-action state remain
+unchanged.
