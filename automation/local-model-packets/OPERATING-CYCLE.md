@@ -113,15 +113,18 @@ or count an emitted artifact, a duplicate, a receipt, packet preparation, or
 ## Current slot boundary
 
 The candidate slot carries
-`MD-LIN-SFQ-0001-ASR1901-MECHANISM-EVIDENCE-EXTRACTION-01`, opportunity 1,
-after the example-mechanism question set produced a useful, lightly corrected,
-explicitly unverified owner artifact. The proving slot carries
-`MD-LIN-SFQ-0001-JATR-R4-MECHANISM-EVIDENCE-EXTRACTION-01`, opportunity 1,
-after the source-locator family succeeded on its final repair and produced a
-useful, lightly corrected locator audit. The candidate packet freezes the
-official NTSB report's bounded A-19-10/11, A-19-13/14, and A-19-15/16 evidence.
-The proving packet freezes the official FAA-hosted JATR report's R4.2-R4.6
-evidence. Both request source-relation extraction without browsing,
-implementation or effectiveness inference, remedy, candidate change, proving,
-contact, or external effect. Capacity, cadence, model, candidate state, and all
-external-action boundaries are unchanged.
+`MD-LIN-SFQ-0001-ASR1901-JATR-CONTROL-POINT-COMPARISON-01`, opportunity 1,
+after the NTSB and JATR extraction families each produced a useful, corrected,
+explicitly unverified owner artifact and completed. It compares four official
+recommendation control points while making implementation, outcome, cost,
+enforceability, affected-party consequence, and capture explicitly unknown.
+
+The proving slot carries
+`MD-LIN-SFQ-0001-ASR1901-JATR-VISIBILITY-ALTERNATIVE-BOUNDARY-01`, opportunity
+1. It separates pilot-facing failure-indication clarity from certification-
+facing changed-function visibility and review timing without inferring
+equivalence, causal linkage, substitution, ranking, transferability,
+implementation, or effectiveness. Both packets freeze exact official NTSB
+ASR-19-01 and FAA-hosted JATR report passages and preserve aviation-owner
+remedy authority. Capacity, cadence, model, candidate state, and all external-
+action boundaries are unchanged.

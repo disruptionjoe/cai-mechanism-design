@@ -263,6 +263,40 @@ source-extraction work; they authorize no browsing, contact, remedy, candidate
 change, proving, or external effect. Capacity, cadence, model, `CMD-0001`, and
 external-action state remain unchanged.
 
+The first NTSB extraction preserved all three recommendation groups, official
+locations, source custody, and owner boundaries. Its detailed recommendation
+text and presented-mechanism labels occupied the opposite intended columns,
+and its unsupported-extension cells were empty. Frontier restored the field
+mapping, made every unsupported state explicit, checked ASR-19-01 report pages
+8 through 11, published the explicitly unverified extraction, and recorded
+substantial edited retention with material candidate error, light ordinary
+completion, and useful leverage. That lineage is complete after opportunity 1.
+
+The first JATR extraction preserved R4.2 through R4.6 in order, all five
+official-source components, relation labels, and owner boundaries. It used the
+shared page range for every row and left unsupported-extension cells empty.
+Frontier restored exact page 24 custody for R4.2-R4.3 and page 25 custody for
+R4.4-R4.6, made every unsupported state explicit, published the explicitly
+unverified extraction, and recorded substantial edited retention with material
+candidate error, light ordinary completion, and useful leverage. That lineage
+is complete after opportunity 1.
+
+Production rotates to
+`MD-LIN-SFQ-0001-ASR1901-JATR-CONTROL-POINT-COMPARISON-01`, opportunity 1. It
+compares four official recommendation control points across response-
+assumption validation, repeatable validation methods, diagnostic signal
+clarity, and certification-information visibility while keeping every
+implementation, outcome, cost, enforceability, affected-party, and capture
+field explicitly unknown. Exploration rotates to
+`MD-LIN-SFQ-0001-ASR1901-JATR-VISIBILITY-ALTERNATIVE-BOUNDARY-01`, opportunity
+1. It separates pilot-facing failure-indication clarity from certification-
+facing changed-function visibility and review timing without treating them as
+equivalent, linked, ranked, transferable, implemented, or effective. Both
+packets preserve the Generation-22 source-specific pattern without scaling
+capacity or reopening a completed family. `CMD-0001`, P8, disposition,
+transfer, graduation, deployment, cadence, model, and external-action state
+remain unchanged.
+
 Earlier packets created reusable synthetic review and proving-process
 fixtures. Those artifacts remain history and negative evidence, but their
 retired lineages do not reset through prompt replacement. Neither current

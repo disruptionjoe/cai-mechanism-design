@@ -102,6 +102,16 @@ and intended disposition. Existing-owner fit defeats admission here.
   document, identifier, page-or-section, and excerpt detail absent from the
   frozen synthesis. It does not verify an underlying source, example,
   mechanism relation, outcome, or remedy.
+- `SFQ-0001-ASR1901-MECHANISM-EVIDENCE-EXTRACTION-DRAFT.md` - three-row
+  official-source extraction of the NTSB A-19-10/11, A-19-13/14, and
+  A-19-15/16 recommendation relations. It preserves exact report-page custody
+  while leaving implementation, outcome, effectiveness, cost, enforceability,
+  affected-party consequence, and capture unestablished.
+- `SFQ-0001-JATR-R4-MECHANISM-EVIDENCE-EXTRACTION-DRAFT.md` - five-row
+  official-source extraction of JATR R4.2 through R4.6 into visibility, review-
+  timing, fragmentation-control, change-highlighting, and interaction-record
+  custody relations. It preserves exact report-page custody without inferring
+  adoption, outcome, remedy, effectiveness, or transferability.
 
 ## Operating path
 
