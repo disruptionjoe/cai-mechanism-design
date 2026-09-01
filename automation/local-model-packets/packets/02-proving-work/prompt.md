@@ -5,7 +5,9 @@ Family lineage: `MD-LIN-SFQ-0001-SF0001-OUTCOME-CAPTURE-GAP-01`, opportunity
 Do not browse, open repository files, claim effectiveness, infer standing,
 prescribe, or add facts.
 
-Frozen source-owner comparison: `cai-systemic-failure#topology/SF-0001-
+Frozen source-owner evidence:
+
+Comparison: `cai-systemic-failure#topology/SF-0001-
 causal-model-comparison.md` at source-owner revision
 `43b0b96d483a16b872bfe754911bcf90df8b0838`.
 

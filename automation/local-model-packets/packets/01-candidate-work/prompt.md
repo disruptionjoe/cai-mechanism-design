@@ -5,7 +5,9 @@ opportunity 1. Begin the finished artifact immediately. Use only the frozen
 text below. Do not browse, open repository files, strengthen a claim, infer a
 causal chain, prescribe, or add facts.
 
-Frozen source-owner record: `cai-systemic-failure#evidence/records/SF-0001-
+Frozen source-owner evidence:
+
+Record: `cai-systemic-failure#evidence/records/SF-0001-
 boeing-737-max-certification-assumption-chain.md` at source-owner revision
 `43b0b96d483a16b872bfe754911bcf90df8b0838`.
 
@@ -29,7 +31,7 @@ Frozen record statements:
   complete causal chain; aviation-specific remedies remain with aviation
   safety authorities and domain experts.
 
-Frozen comparison: `cai-systemic-failure#topology/SF-0001-causal-model-
+Comparison: `cai-systemic-failure#topology/SF-0001-causal-model-
 comparison.md` at the same revision.
 
 - Safety-assessment revalidation is reported as testing human-response
