@@ -113,20 +113,19 @@ or count an emitted artifact, a duplicate, a receipt, packet preparation, or
 ## Current slot boundary
 
 The candidate slot carries
-`MD-LIN-SFQ-0001-ASR1901-INDIVIDUAL-STATUS-CLASSIFICATION-BOUNDARY-01`,
-opportunity 1. It freezes the seven current official CAROL classifications and
-the two stated close dates while keeping classification separate from
-implementation and every consequence or effect claim. The twice-empty JATR
-scope family is retired and receives no further repair.
+`MD-LIN-SFQ-0001-ASR1901-CLASSIFICATION-MEANING-BOUNDARY-01`, opportunity 1.
+It applies only the official NTSB meanings of `Closed - Acceptable Action` and
+`Open - Acceptable Response` to the seven current CAROL classifications. It
+keeps classification meaning separate from independent implementation,
+outcome, effectiveness, and consequence evidence.
 
 The proving slot carries
-`MD-LIN-SFQ-0001-ASR1901-INDIVIDUAL-STATUS-EVIDENCE-REQUIREMENTS-01`,
-opportunity 1. It preserves the seven recommendations listed on the official
-NTSB investigation page, keeps each individual classification unknown, and
-names the recommendation-specific official record required before a later
-classification claim. Its pre-correction response produced the published
-requirements draft, but the exact-current prompt remains installed only for
-transport closure and receives no second family opportunity or duplicate owner
-effect. Both packets freeze exact official NTSB source pointers, explicit
-unknowns, and aviation-owner remedy authority. Capacity, cadence, model,
-candidate state, and all external-action boundaries are unchanged.
+`MD-LIN-SFQ-0001-ASR1901-STATUS-SEQUENCE-BOUNDARY-01`, opportunity 1. It
+overlays the current classifications on the three source-pinned recommendation
+sequences while refusing to infer dependency execution, sequence completion,
+implementation, or effectiveness. The prior classification and evidence-
+requirements families are complete, and the exact-current requirements
+transport is terminally handled without duplicate owner effect. Both packets
+freeze exact official NTSB source pointers, explicit unknowns, and aviation-
+owner remedy authority. Capacity, cadence, model, candidate state, and all
+external-action boundaries are unchanged.

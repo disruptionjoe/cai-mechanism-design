@@ -149,6 +149,13 @@ and intended disposition. Existing-owner fit defeats admission here.
   CAROL record needed before each individual classification claim. It keeps
   classification, implementation, outcomes, costs, enforceability, affected-
   party consequences, capture, remedy, and external effect unknown.
+- `SFQ-0001-ASR1901-INDIVIDUAL-STATUS-CLASSIFICATION-BOUNDARY-DRAFT.md` -
+  seven-row current-classification boundary recording two `Closed - Acceptable
+  Action` recommendations with their close date and five `Open - Acceptable
+  Response` recommendations. It preserves official CAROL custody while
+  keeping implementation, outcomes, costs, enforceability, affected-party
+  consequences, capture, transferability, remedy, and external effect
+  unestablished.
 
 ## Operating path
 

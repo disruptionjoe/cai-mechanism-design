@@ -447,3 +447,32 @@ classification distinct from implementation, outcome, effectiveness, cost,
 enforceability, affected-party consequence, capture, remedy, candidate action,
 and external effect. The proving slot, two-slot capacity, cadence, model,
 `CMD-0001`, P8, and external-action state remain unchanged.
+
+The individual-classification opportunity preserved all seven exact statuses,
+the two close dates, official detail links, classification-to-implementation
+boundaries, unknowns, owner limits, and the requested non-effect close.
+Frontier added only explicit research-boundary prose, published the unverified
+classification draft, recorded most content retained with no candidate error,
+light ordinary verification and integration, and useful leverage, and
+completed that family after opportunity 1.
+
+The first exact-current evidence-requirements attempt is terminally
+`already_handled`. The prior cycle had already published the same seven-row
+requirements artifact from its pre-correction response, and the exact-current
+response contains no distinct owner contribution. It closes the transport
+boundary without receiving a second family opportunity or duplicate owner
+effect.
+
+Production rotates to
+`MD-LIN-SFQ-0001-ASR1901-CLASSIFICATION-MEANING-BOUNDARY-01`, opportunity 1.
+It applies only the official NTSB definitions of `Closed - Acceptable Action`
+and `Open - Acceptable Response` to the seven current classifications while
+keeping a Board classification distinct from independent implementation and
+effect evidence. Exploration rotates to
+`MD-LIN-SFQ-0001-ASR1901-STATUS-SEQUENCE-BOUNDARY-01`, opportunity 1. It
+overlays the seven current classifications on the three already source-pinned
+recommendation sequences without inferring dependency execution, sequence
+completion, effectiveness, or remedy. Both slots preserve exact official
+source custody, aviation-owner authority, and all non-effect boundaries. The
+two-slot capacity, cadence, model, `CMD-0001`, P8, and external-action state
+remain unchanged.
