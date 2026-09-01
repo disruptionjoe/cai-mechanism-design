@@ -6,8 +6,10 @@ Family lineage:
 projection below. Do not browse, open repository files, add facts, infer
 implementation or effectiveness, prescribe, rank, or create a remedy.
 
-Frozen source-owner evidence from the official NTSB A-19-010 through A-19-016
-recommendation letter, letter page 2:
+Frozen source-owner evidence:
+
+The following projection is from the official NTSB A-19-010 through A-19-016
+recommendation letter, letter page 2.
 
 1. `A-19-10`: scope `Boeing 737 MAX`; action form `require`; action object
    `Review safety assessments that assume immediate and appropriate pilot
@@ -42,8 +44,8 @@ recommendation letter, letter page 2:
 For every row, evidence strength is
 `official_recommendation_relation_only`. `Implementation and adoption`,
 `Outcome and effectiveness`, `Cost and enforceability`, `Affected-party
-consequence`, and `Capture surface` are literal `unknown`. `CMD-0001` remains
-deferred.
+consequence`, and `Capture surface` are literal `unknown`.
+`CMD-0001` remains deferred.
 
 Return only
 `candidates/SFQ-0001-ASR1901-INDIVIDUAL-RECOMMENDATION-ACTION-MAP-DRAFT.md`.

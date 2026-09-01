@@ -6,7 +6,7 @@ the finished artifact immediately. Use only the frozen official-source
 projection below. Do not browse, open repository files, add facts, infer
 individual implementation, prescribe, rank, or create a remedy.
 
-Frozen official-source evidence:
+Frozen source-owner evidence:
 
 1. Evidence object `737_max_return_to_service_scope`.
    Source: `FAA 737 MAX Timeline, document page 3 of 4.`
