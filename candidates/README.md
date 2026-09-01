@@ -144,6 +144,11 @@ and intended disposition. Existing-owner fit defeats admission here.
   classifications not established by that page. It preserves official status-
   source custody while keeping implementation, outcomes, costs, affected-party
   consequences, capture, and remedy unknown.
+- `SFQ-0001-ASR1901-INDIVIDUAL-STATUS-EVIDENCE-REQUIREMENTS-DRAFT.md` -
+  seven-row requirements boundary naming the recommendation-specific official
+  CAROL record needed before each individual classification claim. It keeps
+  classification, implementation, outcomes, costs, enforceability, affected-
+  party consequences, capture, remedy, and external effect unknown.
 
 ## Operating path
 

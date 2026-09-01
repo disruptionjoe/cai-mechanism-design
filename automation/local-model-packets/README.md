@@ -420,3 +420,30 @@ investigation page, keeps every individual classification unknown, and states
 the exact official recommendation-detail evidence required before a later
 classification claim. The two slots, capacity, cadence, model, `CMD-0001`, P8,
 and all external-action boundaries remain unchanged.
+
+The JATR return-to-service/future-policy final repair again reached the 16,384-
+token generation limit and returned zero response bytes. It retained no
+candidate content or owner effect. Two no-benefit opportunities complete and
+retire `MD-LIN-SFQ-0001-JATR-RTS-FUTURE-POLICY-SCOPE-MATRIX-01`; it receives
+no further repair.
+
+The pre-correction individual-status evidence-requirements opportunity
+preserved all seven recommendation IDs, listed-page values, classification and
+implementation unknowns, required-record pattern, source custody, owner
+boundaries, and non-effect close. Frontier supplied Markdown table boundaries,
+recommendation-specific official CAROL links, and tighter closing prose,
+published the explicitly unverified requirements draft, and recorded
+substantial edited retention with light candidate error, light ordinary
+completion, and useful leverage. That family is complete after its original
+opportunity. The exact-current proving prompt remains installed solely until
+its first terminal attempt closes the transport boundary; it receives no
+second family opportunity or duplicate owner effect.
+
+Production rotates to
+`MD-LIN-SFQ-0001-ASR1901-INDIVIDUAL-STATUS-CLASSIFICATION-BOUNDARY-01`,
+opportunity 1. It freezes the current official CAROL classifications for
+A-19-010 through A-19-016 and the two stated close dates while keeping
+classification distinct from implementation, outcome, effectiveness, cost,
+enforceability, affected-party consequence, capture, remedy, candidate action,
+and external effect. The proving slot, two-slot capacity, cadence, model,
+`CMD-0001`, P8, and external-action state remain unchanged.
