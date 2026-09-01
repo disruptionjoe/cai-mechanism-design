@@ -115,6 +115,31 @@ records, infer authority or standing, or authorize contact. The two slots,
 model capacity, cadence, `CMD-0001`, and external-action state remain
 unchanged.
 
+The final mechanism-layer repair preserved all five literal role rows and
+unknown link and effectiveness values, but omitted valid frontmatter and table
+boundaries and copied an instruction as content. Frontier restored those
+artifact boundaries, published the explicitly unverified map, recorded
+substantial edited retention with material candidate error, light ordinary
+completion, and marginal leverage, and completed the lineage.
+
+The first evidence-route opportunity preserved the requested artifact shape,
+source-status values, category vocabulary, and non-effect boundary, but used
+the wrong record IDs and reduced the required per-record evidence to partial
+generic phrases. Frontier corrected all five rows, published the explicitly
+unverified requirements matrix, recorded substantial edited retention with
+material candidate error and material ordinary completion, and completed the
+lineage with marginal leverage.
+
+Production rotates to
+`MD-LIN-SFQ-0001-MECHANISM-LINK-FALSIFIER-QUESTIONS-01`, opportunity 1. It may
+form only record-specific questions that could support or falsify the two
+currently unknown mechanism links; it cannot answer them or infer a chain.
+Exploration rotates to
+`MD-LIN-SFQ-0001-EFFECTIVENESS-CAPTURE-FALSIFIER-QUESTIONS-01`, opportunity 1.
+It may form only bounded prevention-or-repair, outcome, disconfirmation, and
+capture questions from the frozen roles. The two slots, model capacity,
+cadence, `CMD-0001`, and external-action state remain unchanged.
+
 Earlier packets created reusable synthetic review and proving-process
 fixtures. Those artifacts remain history and negative evidence, but their
 retired lineages do not reset through prompt replacement. Neither current

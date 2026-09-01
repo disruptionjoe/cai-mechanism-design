@@ -57,6 +57,14 @@ and intended disposition. Existing-owner fit defeats admission here.
   correction-or-stop role triples while leaving linkage, standing and access,
   implementation, outcome, and capture answers unknown. It authorizes no
   research, proving, candidate, contact, or external effect.
+- `SFQ-0001-MECHANISM-LAYER-SEPARATION-MAP-DRAFT.md` - source-pinned map
+  preserving the five visibility, authority, and correction-or-stop layers
+  while keeping both linkage steps and effectiveness unknown. It establishes
+  no standing, shared remedy, transferability, candidate, or external effect.
+- `SFQ-0001-EVIDENCE-ROUTE-MATRIX-DRAFT.md` - source-pinned requirements
+  matrix stating what an eventual public record would need to establish for
+  linkage, standing and access, implementation, outcome, and capture. It
+  acquires no source and authorizes no research, proving, contact, or effect.
 
 ## Operating path
 
