@@ -132,6 +132,12 @@ and intended disposition. Existing-owner fit defeats admission here.
   Product Rule reform activity, and the still-unestablished individual,
   systemwide implementation status of JATR R4.2 through R4.6. It creates no
   adoption, effectiveness, candidate, remedy, or external-effect claim.
+- `SFQ-0001-ASR1901-RECOMMENDATION-SEQUENCE-BOUNDARY-DRAFT.md` - three-row
+  boundary separating the NTSB letter's direct-assessment and scope-diffusion,
+  method-to-rule, and standards-to-required-diagnostics sequences. It preserves
+  explicit dependencies and official letter-page custody while keeping
+  implementation, adoption, outcomes, costs, affected-party consequences,
+  capture, transferability, and remedy unknown.
 
 ## Operating path
 

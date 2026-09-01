@@ -364,6 +364,35 @@ consequences, capture, remedy, and transferability remain unknown. The proving
 slot, two-slot capacity, cadence, model, `CMD-0001`, and external-action state
 remain unchanged.
 
+The recommendation-sequence opportunity preserved all three exact sequences,
+recommendation groups, action roles, dependencies, supported boundaries,
+unknowns, source custody, and owner limits. Frontier restored the Markdown
+title boundary and replaced only generic closing prose, published the
+explicitly unverified sequence record, recorded substantial edited retention
+with light candidate error, light ordinary completion, and useful leverage,
+and completed that lineage after opportunity 1.
+
+The first exact-current implementation-scope attempt preserved the same three
+evidence objects, literal official-document pointers, support, scope limits,
+unknowns, and owner boundaries already published from the semantically
+equivalent pre-repair attempt. Frontier retained no duplicate owner effect. The
+attempt is terminally `already_handled`, closes the transport boundary, and
+receives no second family opportunity.
+
+Production rotates to
+`MD-LIN-SFQ-0001-JATR-RTS-FUTURE-POLICY-SCOPE-MATRIX-01`, opportunity 1. It
+uses the FAA's official 737 MAX review summary to separate the current-design
+review response from future-policy scope across all twelve JATR recommendation
+groups without turning either column into implementation or effectiveness
+evidence. Exploration rotates to
+`MD-LIN-SFQ-0001-ASR1901-INVESTIGATION-RECOMMENDATION-STATUS-BOUNDARY-01`,
+opportunity 1. It separates the source page's completed investigation label,
+its seven listed recommendations, and the still-unestablished individual
+recommendation classifications. Both packets preserve official-source custody,
+aviation-owner remedy authority, and all non-effect boundaries. The two slots,
+capacity, cadence, model, `CMD-0001`, P8, and external-action state remain
+unchanged.
+
 Earlier packets created reusable synthetic review and proving-process
 fixtures. Those artifacts remain history and negative evidence, but their
 retired lineages do not reset through prompt replacement. Neither current

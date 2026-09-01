@@ -113,22 +113,17 @@ or count an emitted artifact, a duplicate, a receipt, packet preparation, or
 ## Current slot boundary
 
 The candidate slot carries
-`MD-LIN-SFQ-0001-ASR1901-RECOMMENDATION-SEQUENCE-BOUNDARY-01`, opportunity 1,
-after the individual recommendation action map produced a useful owner effect
-and completed. It separates the direct-assessment and scope-diffusion,
-method-to-rule, and standards-to-required-diagnostics sequences without
-inferring implementation, effectiveness, cost, enforceability, affected-party
-consequence, capture, transferability, or remedy.
+`MD-LIN-SFQ-0001-JATR-RTS-FUTURE-POLICY-SCOPE-MATRIX-01`, opportunity 1. It
+separates the FAA's stated current-design review response from the future-policy
+scope of all twelve JATR recommendation groups without inferring completion,
+systemwide implementation, outcome, effectiveness, cost, enforceability,
+affected-party consequence, capture, transferability, or remedy.
 
 The proving slot carries
-`MD-LIN-SFQ-0001-JATR-IMPLEMENTATION-SCOPE-BOUNDARY-01`, opportunity 1. It
-separates the FAA's claim about JATR recommendations applicable to 737 MAX
-return to service from later changed-product-rule reform activity and from the
-still-unestablished individual, systemwide implementation status of JATR R4.2
-through R4.6. Both packets freeze exact official NTSB or FAA source pointers,
-one bounded relation per row, explicit unknowns, and aviation-owner remedy
-authority. The first proving attempt ran the semantically equivalent pre-
-repair request, so the lineage is complete but the exact-current prompt stays
-installed until its first terminal transport-closing attempt. Capacity,
-cadence, model, candidate state, and all external-action boundaries are
-unchanged.
+`MD-LIN-SFQ-0001-ASR1901-INVESTIGATION-RECOMMENDATION-STATUS-BOUNDARY-01`,
+opportunity 1. It separates the official source page's completed investigation
+label, its seven listed recommendations, and the individual recommendation
+classifications not established by that frozen page. Both packets freeze exact
+official FAA or NTSB source pointers, one bounded relation per row, explicit
+unknowns, and aviation-owner remedy authority. Capacity, cadence, model,
+candidate state, and all external-action boundaries are unchanged.
