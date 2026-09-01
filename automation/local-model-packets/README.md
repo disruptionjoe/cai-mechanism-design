@@ -654,3 +654,25 @@ This is the second and final eligible adoption of `ADV-MD-20260901-25`;
 Generation-25 guidance is now expired. The two slots, model capacity, cadence,
 `CMD-0001`, P8, disposition, transfer, graduation, deployment, publication,
 and all external-action boundaries remain unchanged.
+
+The A19010-4 design-change-directive and A19011-1 open-response next-action
+opportunities each preserved every substantive literal field but omitted the
+opening frontmatter delimiter. Frontier restored only that delimiter in both
+artifacts, published both explicitly unverified questions, recorded
+substantial edited retention with light candidate error, light ordinary
+verification and integration, and useful leverage, and completed both
+families after opportunity 1.
+
+Production rotates to
+`MD-LIN-SFQ-0001-ASR1901-A19013-METHOD-DEVELOPMENT-EVIDENCE-QUESTION-01`,
+opportunity 1. It isolates the official method-to-rule sequence's A-19-013
+method-development step and asks which named tool or method, version, and
+validation record independently document its development and use without
+acquiring or answering them. Exploration rotates to
+`MD-LIN-SFQ-0001-ASR1901-A19014-RULE-INCORPORATION-EVIDENCE-QUESTION-01`,
+opportunity 1. It isolates the paired A-19-014 rule-incorporation step and asks
+which named regulation or guidance revision independently documents
+incorporation and required use of the A-19-013 methods. Generation-25 guidance
+remains expired and is neither projected nor adopted. The two slots, model
+capacity, cadence, `CMD-0001`, P8, disposition, transfer, graduation,
+deployment, publication, and all external-action boundaries remain unchanged.

@@ -113,26 +113,25 @@ or count an emitted artifact, a duplicate, a receipt, packet preparation, or
 ## Current slot boundary
 
 The candidate slot carries
-`MD-LIN-SFQ-0001-ASR1901-A19010-DESIGN-CHANGE-DIRECTIVE-EVIDENCE-QUESTION-01`,
-opportunity 1. It isolates only the remaining Board-stated A-19-010 design-
-change directive plus related procedures and training and asks which named
-directive, revision, and related records independently document the required
-change and implementation. The prior A19010-3 response preserved every
+`MD-LIN-SFQ-0001-ASR1901-A19013-METHOD-DEVELOPMENT-EVIDENCE-QUESTION-01`,
+opportunity 1. It isolates the official A-19-013 method-development step and
+asks which named tool or method, version, and validation record independently
+document its development and use. The prior A19010-4 response preserved every
 substantive field but omitted its opening frontmatter delimiter; Frontier
 restored only that boundary and published the explicitly unverified question
 with substantial edited retention, light candidate error, light ordinary
-verification and integration, and useful leverage. That lineage is complete.
+verification and integration, and useful leverage. The four-component
+A-19-010 closure-basis sequence is complete.
 
 The proving slot carries
-`MD-LIN-SFQ-0001-ASR1901-A19011-OPEN-RESPONSE-NEXT-ACTION-EVIDENCE-QUESTION-01`,
-opportunity 1. It moves to the current official A-19-011 `Open - Acceptable
-Response` boundary and asks which dated official correspondence identifies
-the actions NTSB still considers necessary before closure. The prior A19012-3
+`MD-LIN-SFQ-0001-ASR1901-A19014-RULE-INCORPORATION-EVIDENCE-QUESTION-01`,
+opportunity 1. It isolates the paired A-19-014 rule-incorporation step and asks
+which named regulation or guidance revision independently documents
+incorporation and required use of the A-19-013 methods. The prior A19011-1
 response preserved every substantive field but omitted its opening
 frontmatter delimiter; Frontier restored only that boundary and published the
 explicitly unverified question with substantial edited retention, light
 candidate error, light ordinary verification and integration, and useful
-leverage. That lineage and the three-component A-19-012 closure-basis sequence
-are complete. Generation-25 guidance was adopted for its second and final
-eligible sealed cycle and is now expired. Capacity, cadence, model, candidate
-state, and all external-action boundaries remain unchanged.
+leverage. That lineage is complete. Generation-25 guidance remains expired and
+is neither projected nor adopted. Capacity, cadence, model, candidate state,
+and all external-action boundaries remain unchanged.

@@ -198,6 +198,18 @@ and intended disposition. Existing-owner fit defeats admission here.
   encouragement closure basis while leaving the dated records, receiving
   authorities, recipient action, implementation, outcome, effectiveness,
   cost, enforceability, affected-party consequence, capture, and remedy unknown.
+- `SFQ-0001-ASR1901-A19010-DESIGN-CHANGE-DIRECTIVE-EVIDENCE-QUESTION-DRAFT.md`
+  - one-component explicitly unverified question preserving the Board-stated
+  design-change directive, related procedures, and training closure basis
+  while leaving the named records, revision, implementation, outcome,
+  effectiveness, cost, enforceability, affected-party consequence, capture,
+  and remedy unknown.
+- `SFQ-0001-ASR1901-A19011-OPEN-RESPONSE-NEXT-ACTION-EVIDENCE-QUESTION-DRAFT.md`
+  - one-component explicitly unverified question preserving the official
+  `Open - Acceptable Response` classification while leaving the dated
+  correspondence, asserted pending actions, implementation, outcome,
+  effectiveness, cost, enforceability, affected-party consequence, capture,
+  and remedy unknown.
 
 ## Operating path
 
