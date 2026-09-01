@@ -94,6 +94,14 @@ and intended disposition. Existing-owner fit defeats admission here.
   response, four recommendation sets, and one observation-and-recommendation
   set without establishing adoption, outcome, effectiveness, remedy, or any
   external effect.
+- `SFQ-0001-SF0001-EXAMPLE-MECHANISM-VERIFICATION-QUESTION-SET-DRAFT.md` -
+  six-row question set asking which identified official-source passage would
+  verify each frozen example and its presented mechanism relation. It leaves
+  every answer unknown and authorizes no source acquisition or effect.
+- `SFQ-0001-SF0001-SOURCE-LOCATOR-GAP-DRAFT.md` - six-row locator audit of the
+  document, identifier, page-or-section, and excerpt detail absent from the
+  frozen synthesis. It does not verify an underlying source, example,
+  mechanism relation, outcome, or remedy.
 
 ## Operating path
 

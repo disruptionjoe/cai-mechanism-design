@@ -113,14 +113,15 @@ or count an emitted artifact, a duplicate, a receipt, packet preparation, or
 ## Current slot boundary
 
 The candidate slot carries
-`MD-LIN-SFQ-0001-SF0001-EXAMPLE-MECHANISM-VERIFICATION-QUESTIONS-01`,
-opportunity 1, after the intervention-example custody draft produced a useful,
-corrected, explicitly unverified owner artifact. The proving slot retains
-`MD-LIN-SFQ-0001-SF0001-SOURCE-LOCATOR-GAP-01` under `repair_once`, opportunity
-2 and final, after its first exact-byte attempt ended at the generation limit
-with zero response bytes. The candidate packet asks only what public-official
-passage would verify each presented example-mechanism pair. The proving packet
-preserves the same locator-gap question in a shortened literal skeleton. Both
-authorize no browsing, source acquisition, answer, outcome inference, remedy,
-candidate change, proving, or external effect. Capacity, cadence, model,
-candidate state, and all external-action boundaries are unchanged.
+`MD-LIN-SFQ-0001-ASR1901-MECHANISM-EVIDENCE-EXTRACTION-01`, opportunity 1,
+after the example-mechanism question set produced a useful, lightly corrected,
+explicitly unverified owner artifact. The proving slot carries
+`MD-LIN-SFQ-0001-JATR-R4-MECHANISM-EVIDENCE-EXTRACTION-01`, opportunity 1,
+after the source-locator family succeeded on its final repair and produced a
+useful, lightly corrected locator audit. The candidate packet freezes the
+official NTSB report's bounded A-19-10/11, A-19-13/14, and A-19-15/16 evidence.
+The proving packet freezes the official FAA-hosted JATR report's R4.2-R4.6
+evidence. Both request source-relation extraction without browsing,
+implementation or effectiveness inference, remedy, candidate change, proving,
+contact, or external effect. Capacity, cadence, model, candidate state, and all
+external-action boundaries are unchanged.

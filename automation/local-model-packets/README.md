@@ -236,6 +236,33 @@ example-mechanism pair without acquiring sources or answering the question.
 The two slots, model capacity, cadence, `CMD-0001`, and external-action state
 remain unchanged.
 
+The example-mechanism verification opportunity preserved all six exact pairs,
+the required official-passage question, unknown answers, source custody, and
+owner boundaries. Frontier tightened only the artifact boundary, published the
+explicitly unverified question set, recorded substantial retention with light
+candidate error, light ordinary completion, and useful leverage, and completed
+that lineage.
+
+The final source-locator repair preserved the exact six-row locator contract,
+verification and effectiveness gaps, source custody, and owner boundaries.
+Frontier replaced generic closing prose, published the explicitly unverified
+locator audit, recorded substantial retention with light candidate error,
+light ordinary completion, and useful leverage, and completed the lineage
+after its successful final repair.
+
+Production rotates to
+`MD-LIN-SFQ-0001-ASR1901-MECHANISM-EVIDENCE-EXTRACTION-01`, opportunity 1. It
+uses a Frontier-frozen projection of the official NTSB ASR-19-01 report to test
+the three presented NTSB recommendation-to-mechanism relations without
+inferring implementation or effectiveness. Exploration rotates to
+`MD-LIN-SFQ-0001-JATR-R4-MECHANISM-EVIDENCE-EXTRACTION-01`, opportunity 1. It
+uses a Frontier-frozen projection of official FAA-hosted JATR report pages 24
+and 25 to separate the R4.2-R4.6 visibility, timing, fragmentation,
+change-highlighting, and recordkeeping components. Both slots remain bounded
+source-extraction work; they authorize no browsing, contact, remedy, candidate
+change, proving, or external effect. Capacity, cadence, model, `CMD-0001`, and
+external-action state remain unchanged.
+
 Earlier packets created reusable synthetic review and proving-process
 fixtures. Those artifacts remain history and negative evidence, but their
 retired lineages do not reset through prompt replacement. Neither current
