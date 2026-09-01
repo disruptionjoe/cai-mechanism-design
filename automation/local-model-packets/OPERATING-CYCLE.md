@@ -113,11 +113,12 @@ or count an emitted artifact, a duplicate, a receipt, packet preparation, or
 ## Current slot boundary
 
 The candidate slot carries
-`MD-LIN-SFQ-0001-ASR1901-INDIVIDUAL-RECOMMENDATION-ACTION-MAP-01`, opportunity
-1, after the official control-point comparison produced a useful owner effect
-and completed. It separates A-19-10 through A-19-16 by scope, action form,
-action object, and dependency while leaving every implementation, outcome,
-cost, enforceability, affected-party, capture, and remedy field unknown.
+`MD-LIN-SFQ-0001-ASR1901-RECOMMENDATION-SEQUENCE-BOUNDARY-01`, opportunity 1,
+after the individual recommendation action map produced a useful owner effect
+and completed. It separates the direct-assessment and scope-diffusion,
+method-to-rule, and standards-to-required-diagnostics sequences without
+inferring implementation, effectiveness, cost, enforceability, affected-party
+consequence, capture, transferability, or remedy.
 
 The proving slot carries
 `MD-LIN-SFQ-0001-JATR-IMPLEMENTATION-SCOPE-BOUNDARY-01`, opportunity 1. It
@@ -126,5 +127,8 @@ return to service from later changed-product-rule reform activity and from the
 still-unestablished individual, systemwide implementation status of JATR R4.2
 through R4.6. Both packets freeze exact official NTSB or FAA source pointers,
 one bounded relation per row, explicit unknowns, and aviation-owner remedy
-authority. Capacity, cadence, model, candidate state, and all external-action
-boundaries are unchanged.
+authority. The first proving attempt ran the semantically equivalent pre-
+repair request, so the lineage is complete but the exact-current prompt stays
+installed until its first terminal transport-closing attempt. Capacity,
+cadence, model, candidate state, and all external-action boundaries are
+unchanged.

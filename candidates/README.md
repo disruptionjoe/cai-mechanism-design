@@ -122,6 +122,16 @@ and intended disposition. Existing-owner fit defeats admission here.
   facing design-change visibility and review timing. It establishes no
   equivalence, causal link, substitution, ranking, transferability, remedy, or
   external effect.
+- `SFQ-0001-ASR1901-INDIVIDUAL-RECOMMENDATION-ACTION-MAP-DRAFT.md` - seven-row
+  action map separating A-19-10 through A-19-16 by scope, action form, action
+  object, and explicit dependency. It preserves official letter-page custody
+  while keeping adoption, implementation, outcomes, costs, enforceability,
+  affected-party consequences, capture, and remedy unknown.
+- `SFQ-0001-JATR-IMPLEMENTATION-SCOPE-BOUNDARY-DRAFT.md` - three-row boundary
+  separating the FAA's 737 MAX return-to-service statement, later Changed
+  Product Rule reform activity, and the still-unestablished individual,
+  systemwide implementation status of JATR R4.2 through R4.6. It creates no
+  adoption, effectiveness, candidate, remedy, or external-effect claim.
 
 ## Operating path
 

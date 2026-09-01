@@ -331,6 +331,39 @@ capacity nor reopens a completed family. `CMD-0001`, P8, disposition,
 transfer, graduation, deployment, cadence, model, and external-action state
 remain unchanged.
 
+The individual-action opportunity preserved all seven recommendation IDs,
+scopes, action forms, action objects, dependencies, source custody, unknowns,
+and owner boundaries. Frontier replaced only generic closing prose with the
+exact verification and non-effect boundary, published the explicitly
+unverified action map, and recorded substantial edited retention with light
+candidate error, light ordinary completion, and useful leverage. That lineage
+is complete after opportunity 1.
+
+The first implementation-scope attempt raced the prior cycle's final heading-
+only repair and therefore ran request hash
+`3028003c2926880493a00d23958019485adf3b6fe41e133e7b87a264413287cd`
+rather than the current repaired hash. It preserved all three evidence
+objects, supported relations, scope limits, unknowns, and owner boundaries but
+used the object IDs instead of the literal official-document source pointers.
+Frontier restored those pointers, tightened the boundary, published the
+explicitly unverified scope record, and recorded substantial edited retention
+with light candidate error, light ordinary completion, and useful leverage.
+The family is complete after opportunity 1, but the exact-current proving
+prompt remains installed until its first terminal attempt closes the transport
+boundary; that attempt receives no second family opportunity or duplicate
+owner effect.
+
+Production rotates to
+`MD-LIN-SFQ-0001-ASR1901-RECOMMENDATION-SEQUENCE-BOUNDARY-01`, opportunity 1.
+It separates the direct-assessment and scope-diffusion sequence in A-19-10
+through A-19-12, the method-to-rule sequence in A-19-13 and A-19-14, and the
+standards-to-required-diagnostics sequence in A-19-15 and A-19-16. It may
+preserve only the official recommendation relations and explicit dependencies;
+implementation, outcomes, effectiveness, cost, enforceability, affected-party
+consequences, capture, remedy, and transferability remain unknown. The proving
+slot, two-slot capacity, cadence, model, `CMD-0001`, and external-action state
+remain unchanged.
+
 Earlier packets created reusable synthetic review and proving-process
 fixtures. Those artifacts remain history and negative evidence, but their
 retired lineages do not reset through prompt replacement. Neither current
