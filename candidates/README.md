@@ -138,6 +138,12 @@ and intended disposition. Existing-owner fit defeats admission here.
   explicit dependencies and official letter-page custody while keeping
   implementation, adoption, outcomes, costs, affected-party consequences,
   capture, transferability, and remedy unknown.
+- `SFQ-0001-ASR1901-INVESTIGATION-RECOMMENDATION-STATUS-BOUNDARY-DRAFT.md` -
+  three-row boundary separating the NTSB investigation page's completed label,
+  its seven listed recommendations, and the individual recommendation
+  classifications not established by that page. It preserves official status-
+  source custody while keeping implementation, outcomes, costs, affected-party
+  consequences, capture, and remedy unknown.
 
 ## Operating path
 

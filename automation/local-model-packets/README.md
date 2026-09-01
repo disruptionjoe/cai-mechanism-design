@@ -399,3 +399,24 @@ retired lineages do not reset through prompt replacement. Neither current
 packet reopens deferred `CMD-0001`, increases its proving count, admits a new
 candidate, or manufactures source, owner-fit, destination-owner, or
 effectiveness evidence.
+
+The first JATR return-to-service/future-policy opportunity reached the 16,384-
+token generation limit and returned zero response bytes. It retained no
+candidate content or owner effect. One shortened `repair_once`, opportunity 2
+and final, now expresses the same twelve-row frozen scope contract in compact
+form; another no-benefit result completes and retires the family.
+
+The investigation/recommendation-status opportunity preserved all three exact
+evidence objects, support statements, scope limits, literal unknowns, source
+custody, and owner boundaries. Frontier replaced only generic closing prose,
+published the explicitly unverified status-scope record, recorded substantial
+retention with light candidate error, light ordinary completion, and useful
+leverage, and completed that lineage after opportunity 1.
+
+Exploration rotates to
+`MD-LIN-SFQ-0001-ASR1901-INDIVIDUAL-STATUS-EVIDENCE-REQUIREMENTS-01`,
+opportunity 1. It preserves the seven recommendations listed on the official
+investigation page, keeps every individual classification unknown, and states
+the exact official recommendation-detail evidence required before a later
+classification claim. The two slots, capacity, cadence, model, `CMD-0001`, P8,
+and all external-action boundaries remain unchanged.

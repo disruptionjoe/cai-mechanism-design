@@ -113,17 +113,18 @@ or count an emitted artifact, a duplicate, a receipt, packet preparation, or
 ## Current slot boundary
 
 The candidate slot carries
-`MD-LIN-SFQ-0001-JATR-RTS-FUTURE-POLICY-SCOPE-MATRIX-01`, opportunity 1. It
-separates the FAA's stated current-design review response from the future-policy
-scope of all twelve JATR recommendation groups without inferring completion,
-systemwide implementation, outcome, effectiveness, cost, enforceability,
-affected-party consequence, capture, transferability, or remedy.
+`MD-LIN-SFQ-0001-JATR-RTS-FUTURE-POLICY-SCOPE-MATRIX-01`, opportunity 2 and
+final `repair_once`. It expresses the same twelve-row FAA current-design versus
+future-policy scope contract in compact form after opportunity 1 returned zero
+response bytes at the generation limit. Another no-benefit result completes
+and retires the family.
 
 The proving slot carries
-`MD-LIN-SFQ-0001-ASR1901-INVESTIGATION-RECOMMENDATION-STATUS-BOUNDARY-01`,
-opportunity 1. It separates the official source page's completed investigation
-label, its seven listed recommendations, and the individual recommendation
-classifications not established by that frozen page. Both packets freeze exact
-official FAA or NTSB source pointers, one bounded relation per row, explicit
-unknowns, and aviation-owner remedy authority. Capacity, cadence, model,
-candidate state, and all external-action boundaries are unchanged.
+`MD-LIN-SFQ-0001-ASR1901-INDIVIDUAL-STATUS-EVIDENCE-REQUIREMENTS-01`,
+opportunity 1. It preserves the seven recommendations listed on the official
+NTSB investigation page, keeps each individual classification unknown, and
+names the recommendation-specific official record required before a later
+classification claim. Both packets freeze exact official FAA or NTSB source
+pointers, explicit unknowns, and aviation-owner remedy authority. Capacity,
+cadence, model, candidate state, and all external-action boundaries are
+unchanged.
