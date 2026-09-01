@@ -578,3 +578,28 @@ action. Generation-24 guidance has expired and is neither projected nor adopted
 again. The two slots, model capacity, cadence, `CMD-0001`, P8, disposition,
 transfer, graduation, deployment, publication, and external-action state remain
 unchanged.
+
+The final A19010-1 crew-operations-validation repair returned the complete
+literal artifact skeleton with the component, question, five unknown values,
+source custody, owner boundary, and non-effect close intact. Frontier published
+the explicitly unverified question with substantial unchanged retention, no
+candidate error, light ordinary verification and integration, and useful
+leverage. The lineage completes after its final opportunity and receives no
+further repair.
+
+The first A19012-2 follow-up-record opportunity reached the 16,384-token
+generation limit and returned zero response bytes. It retained no candidate
+content or owner effect. One final compact `repair_once`, opportunity 2, now
+supplies the complete literal one-row artifact skeleton; another no-benefit
+result completes and retires the lineage.
+
+Production rotates to
+`MD-LIN-SFQ-0001-ASR1901-A19010-FMEA-TREATMENT-EVIDENCE-QUESTION-01`,
+opportunity 1. It isolates the Board-stated FMEA component and asks which named
+FMEA artifact and revision independently documents the treated failure modes
+and effects without acquiring or answering it. The exact one-row skeleton
+preserves source custody and every non-effect boundary. Exploration remains the
+final A19012-2 repair. Generation-24 guidance remains expired and is neither
+projected nor adopted. The two slots, model capacity, cadence, `CMD-0001`, P8,
+disposition, transfer, graduation, deployment, publication, and external-action
+state remain unchanged.

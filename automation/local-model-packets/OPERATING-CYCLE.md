@@ -113,22 +113,21 @@ or count an emitted artifact, a duplicate, a receipt, packet preparation, or
 ## Current slot boundary
 
 The candidate slot carries
-`MD-LIN-SFQ-0001-ASR1901-A19010-CREW-OPERATIONS-VALIDATION-EVIDENCE-QUESTION-01`,
-opportunity 2 and final `repair_once`. Its first exact-current attempt reached
-the 16,384-token generation limit and returned zero response bytes. The compact
-repair preserves the same A19010-1 component, question, unknowns, and owner
-boundary with an explicit literal artifact skeleton. Another no-benefit result
-completes and retires the family.
+`MD-LIN-SFQ-0001-ASR1901-A19010-FMEA-TREATMENT-EVIDENCE-QUESTION-01`,
+opportunity 1. It isolates only the Board-stated FMEA component and asks which
+named FMEA artifact and revision independently documents the treated failure
+modes and effects. The prior A19010-1 final repair returned the complete literal
+artifact skeleton with no candidate error; Frontier published the explicitly
+unverified question with substantial unchanged retention, light ordinary
+verification and integration, and useful leverage. That lineage is complete
+and receives no further repair.
 
 The proving slot carries
 `MD-LIN-SFQ-0001-ASR1901-A19012-FOLLOW-UP-RECORD-EVIDENCE-QUESTION-01`,
-opportunity 1. It isolates the Board-stated commitment to keep international
-authorities informed and asks only which dated follow-up records independently
-document that communication. The prior one-component A19012-1 response retained
-the requested question, unknowns, and non-effect boundary but shifted its table
-fields by inserting an extra recommendation cell. Frontier repaired and
-published the explicitly unverified question with substantial edited retention,
-material candidate error, light ordinary completion, and useful leverage; that
-lineage is complete. No Generation-24 guidance is projected or adopted again.
-Capacity, cadence, model, candidate state, and all external-action boundaries
-remain unchanged.
+opportunity 2 and final `repair_once`. Its first exact-current attempt reached
+the 16,384-token generation limit and returned zero response bytes. The compact
+repair preserves the same A19012-2 component, question, unknowns, recipient-
+action boundary, and owner boundary with an explicit literal artifact skeleton.
+Another no-benefit result completes and retires the family. No Generation-24
+guidance is projected or adopted again. Capacity, cadence, model, candidate
+state, and all external-action boundaries remain unchanged.
