@@ -156,6 +156,12 @@ and intended disposition. Existing-owner fit defeats admission here.
   keeping implementation, outcomes, costs, enforceability, affected-party
   consequences, capture, transferability, remedy, and external effect
   unestablished.
+- `SFQ-0001-ASR1901-CLASSIFICATION-MEANING-BOUNDARY-DRAFT.md` - seven-row
+  boundary applying the official NTSB meanings of `Closed - Acceptable Action`
+  and `Open - Acceptable Response` to the current classifications. It keeps the
+  Board's recipient-response posture distinct from independent implementation,
+  outcome, effectiveness, cost, enforceability, affected-party consequence,
+  capture, transferability, remedy, candidate action, and external effect.
 
 ## Operating path
 

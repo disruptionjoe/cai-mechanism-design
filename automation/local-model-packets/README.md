@@ -476,3 +476,28 @@ completion, effectiveness, or remedy. Both slots preserve exact official
 source custody, aviation-owner authority, and all non-effect boundaries. The
 two-slot capacity, cadence, model, `CMD-0001`, P8, and external-action state
 remain unchanged.
+
+The classification-meaning opportunity preserved all seven statuses, both
+official definitions, the two close dates, required unknowns, classification
+boundary, owner limits, and non-effect close. Its two required source URLs
+occupied separate pipe-delimited cells under one source header, so Frontier
+combined them into one cell per row and replaced repetitive closing prose.
+The published explicitly unverified boundary retains most candidate content
+with light candidate error, light ordinary Frontier completion, and useful
+leverage. That family is complete after opportunity 1.
+
+The first status-sequence opportunity reached the 16,384-token generation
+limit and returned zero response bytes. It retained no candidate content or
+owner effect. One compact `repair_once`, opportunity 2 and final, now supplies
+the exact three-row sequence and status contract with less instructional
+overhead; another no-benefit result completes and retires the family.
+
+Production rotates to
+`MD-LIN-SFQ-0001-ASR1901-CLOSED-ACTION-CORRESPONDENCE-EVIDENCE-01`, opportunity
+1. It uses the official CAROL correspondence dated `01/05/2023` to separate
+the Board-stated closure bases for A-19-010 and A-19-012 from independent
+implementation, outcome, effectiveness, cost, enforceability, affected-party,
+capture, remedy, candidate-action, and external-effect evidence. The proving
+slot remains the final status-sequence repair. Capacity, cadence, model,
+`CMD-0001`, P8, disposition, transfer, graduation, deployment, and all
+external-action boundaries remain unchanged.

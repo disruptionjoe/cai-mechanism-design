@@ -113,19 +113,21 @@ or count an emitted artifact, a duplicate, a receipt, packet preparation, or
 ## Current slot boundary
 
 The candidate slot carries
-`MD-LIN-SFQ-0001-ASR1901-CLASSIFICATION-MEANING-BOUNDARY-01`, opportunity 1.
-It applies only the official NTSB meanings of `Closed - Acceptable Action` and
-`Open - Acceptable Response` to the seven current CAROL classifications. It
-keeps classification meaning separate from independent implementation,
-outcome, effectiveness, and consequence evidence.
+`MD-LIN-SFQ-0001-ASR1901-CLOSED-ACTION-CORRESPONDENCE-EVIDENCE-01`, opportunity
+1. It uses the two official `01/05/2023` CAROL correspondence entries to
+separate the Board-stated closure bases for A-19-010 and A-19-012 from
+independent implementation, outcome, effectiveness, cost, enforceability,
+affected-party consequence, capture, remedy, candidate action, and external
+effect.
 
 The proving slot carries
-`MD-LIN-SFQ-0001-ASR1901-STATUS-SEQUENCE-BOUNDARY-01`, opportunity 1. It
-overlays the current classifications on the three source-pinned recommendation
-sequences while refusing to infer dependency execution, sequence completion,
-implementation, or effectiveness. The prior classification and evidence-
-requirements families are complete, and the exact-current requirements
-transport is terminally handled without duplicate owner effect. Both packets
-freeze exact official NTSB source pointers, explicit unknowns, and aviation-
-owner remedy authority. Capacity, cadence, model, candidate state, and all
-external-action boundaries are unchanged.
+`MD-LIN-SFQ-0001-ASR1901-STATUS-SEQUENCE-BOUNDARY-01`, opportunity 2 and final.
+It is one compact `repair_once` after opportunity 1 exhausted the generation
+limit with zero response bytes. It preserves the same three source-pinned
+sequences and current classifications while refusing to infer dependency
+execution, sequence completion, implementation, or effectiveness. Another
+no-benefit result completes and retires the family. The classification-meaning
+family is complete after its useful owner effect. Both packets freeze exact
+official NTSB source pointers, explicit unknowns, and aviation-owner remedy
+authority. Capacity, cadence, model, candidate state, and all external-action
+boundaries are unchanged.
