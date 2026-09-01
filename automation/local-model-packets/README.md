@@ -161,6 +161,33 @@ one source-backed record while leaving source admission and all material claim
 judgment to Frontier. The two slots, model capacity, cadence, `CMD-0001`, and
 external-action state remain unchanged.
 
+The first source-local candidate opportunity preserved the four-row extraction
+and owner boundary but omitted the frontmatter delimiter, treated the supported
+visibility-to-authority fragment as wholly unestablished, and named missing
+evidence by restating frozen claims. Frontier repaired those boundaries and
+published the explicitly unverified extraction with substantial edited
+retention, material candidate error, light ordinary completion, and useful
+leverage. That lineage is complete.
+
+The minute-30 proving job raced the prior cycle's final heading-only prompt
+repair and therefore ran request hash
+`0dcdf60a9e40af4cfe5a5eb8b4e85ac543295b2e73da70a9ebaa2399597102f3`
+rather than the current repaired hash. Its response nevertheless preserved the
+exact six-row outcome-and-capture gap contract and was published with
+substantial unchanged retention, no candidate error, light ordinary review,
+and useful leverage. The stale-hash attempt is terminally dispositioned, but
+the current proving prompt remains installed until its exact repaired bytes
+receive a terminal attempt; the family receives no second opportunity from
+that transport correction.
+
+Production rotates to
+`MD-LIN-SFQ-0001-SF0001-INTERVENTION-CLASS-SOURCE-BOUNDARY-01`, opportunity 1.
+It compares only the six source-reported `SF-0001` intervention classes,
+mechanisms, and topology implications while keeping all outcomes, cost,
+enforceability, affected-party consequences, capture, remedy, and candidate
+claims outside the local result. The proving slot, two-slot capacity, cadence,
+model, `CMD-0001`, and external-action state remain unchanged.
+
 Earlier packets created reusable synthetic review and proving-process
 fixtures. Those artifacts remain history and negative evidence, but their
 retired lineages do not reset through prompt replacement. Neither current

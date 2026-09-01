@@ -109,3 +109,17 @@ target truth, edit active prompts, integrate work, or compel Stewardship.
 Learn from real integrated owner effects. Do not add a separate readiness test
 or count an emitted artifact, a duplicate, a receipt, packet preparation, or
 `nothing to do` as Progress.
+
+## Current slot boundary
+
+The candidate slot now carries
+`MD-LIN-SFQ-0001-SF0001-INTERVENTION-CLASS-SOURCE-BOUNDARY-01`, opportunity 1,
+after the source-local link-extraction lineage produced one corrected,
+explicitly unverified owner artifact. The proving slot remains
+`MD-LIN-SFQ-0001-SF0001-OUTCOME-CAPTURE-GAP-01`, opportunity 1, because its
+first completed response raced the prior prompt's final heading-only repair
+and did not run the exact current bytes. The stale attempt is terminally
+handled and its useful bounded artifact is published; the repaired packet gets
+no extra family opportunity and remains only until one exact-hash attempt is
+terminally dispositioned. Capacity, cadence, model, candidate state, and all
+external-action boundaries are unchanged.

@@ -73,6 +73,15 @@ and intended disposition. Existing-owner fit defeats admission here.
   source-pinned evidence questions for prevention-versus-repair posture,
   outcomes, affected-party consequences, and new capture surfaces. Every
   answer remains unknown and no research, proving, contact, or effect is authorized.
+- `SFQ-0001-SF0001-LINK-EVIDENCE-EXTRACTION-DRAFT.md` - bounded extraction
+  from the frozen `SF-0001` owner synthesis. It records partial
+  visibility-to-authority support, keeps authority-to-correction and all
+  standing, effectiveness, and capture claims unestablished, and preserves
+  aviation-owner remedy authority without creating an effect.
+- `SFQ-0001-SF0001-OUTCOME-CAPTURE-EVIDENCE-GAP-DRAFT.md` - six-row inventory
+  of the outcome, cost and enforceability, affected-party consequence, and
+  capture evidence absent from the frozen `SF-0001` intervention comparison.
+  It claims no effectiveness, remedy, candidate, proving, or external effect.
 
 ## Operating path
 
