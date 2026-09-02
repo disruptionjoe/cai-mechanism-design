@@ -113,25 +113,22 @@ or count an emitted artifact, a duplicate, a receipt, packet preparation, or
 ## Current slot boundary
 
 The candidate slot carries
-`MD-LIN-SFQ-0001-ASR1901-A19015-A19016-DEPENDENCY-EVIDENCE-QUESTION-01`,
-opportunity 1. It isolates the paired standards-to-required-diagnostics
-relation and asks which named dated record establishes whether A-19-016
-required use depends on completion, validation, or adoption of A-19-015
-standards. The prior A19015-2 response preserved every substantive field but
-omitted its opening frontmatter delimiter; Frontier restored only that
-boundary and published the explicitly unverified question with substantial
-edited retention, light candidate error, light ordinary verification and
-integration, and useful leverage. That family is complete.
+`MD-LIN-SFQ-0001-ASR1901-A19010-A19011-SCOPE-EXTENSION-EVIDENCE-QUESTION-01`,
+opportunity 1. It asks which named dated FAA or NTSB record establishes how the
+A-19-010 737 MAX review criteria and needed-change logic extend to the broader
+A-19-011 manufacturer scope while leaving the record, scope conditions,
+implementation, outcome, and effect unknown. The prior A19015/A19016 dependency
+response preserved every substantive field but omitted its opening
+frontmatter delimiter; Frontier restored only that boundary, published the
+explicitly unverified question, and completed the useful one-opportunity
+family with light candidate and ordinary Frontier burden.
 
 The proving slot carries
-`MD-LIN-SFQ-0001-ASR1901-A19013-A19014-DEPENDENCY-EVIDENCE-QUESTION-01`,
-opportunity 1. It asks the parallel method-to-rule dependency question while
-leaving any procedural dependency, named record, implementation, outcome, and
-effect unknown. The prior A19016-2 response also preserved every substantive
-field but omitted its opening frontmatter delimiter; Frontier restored only
-that boundary and published the explicitly unverified question with
-substantial edited retention, light candidate error, light ordinary
-verification and integration, and useful leverage. Generation-26's question
-was answered and its advisory adopted for the second and final eligible sealed
-cycle; both are now expired. Capacity, cadence, model, candidate state, and all
-external-action boundaries remain unchanged.
+`MD-LIN-SFQ-0001-ASR1901-A19011-A19012-NOTIFICATION-DEPENDENCY-EVIDENCE-QUESTION-01`,
+opportunity 1. It asks which named dated record establishes what A-19-011
+review information was supplied to international regulators under A-19-012
+and what dependency the record states, while leaving implementation, outcome,
+and effect unknown. The prior A19013/A19014 dependency response had the same
+bounded delimiter defect and disposition. Expired Generation-26 guidance was
+neither projected nor adopted. Capacity, cadence, model, candidate state, and
+all external-action boundaries remain unchanged.

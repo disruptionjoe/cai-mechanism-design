@@ -748,3 +748,24 @@ acquiring records or inferring a dependency from the recommendation relation.
 The two slots, model capacity, cadence, `CMD-0001`, P8, disposition, transfer,
 graduation, deployment, publication, and all external-action boundaries remain
 unchanged.
+
+The A19015/A19016 and A19013/A19014 dependency-question opportunities each
+preserved every substantive literal field but omitted the opening frontmatter
+delimiter. Frontier restored only that delimiter, published both explicitly
+unverified questions, recorded substantial edited retention with light
+candidate error, light ordinary verification and integration, and useful
+leverage, and completed both families after opportunity 1. Expired
+Generation-26 guidance was neither projected nor adopted.
+
+Production rotates to
+`MD-LIN-SFQ-0001-ASR1901-A19010-A19011-SCOPE-EXTENSION-EVIDENCE-QUESTION-01`,
+opportunity 1. It asks which named dated FAA or NTSB record establishes how the
+A-19-010 737 MAX review criteria and needed-change logic extend to the broader
+A-19-011 manufacturer scope, while leaving the record, scope conditions,
+implementation, and all effects unknown. Exploration rotates to
+`MD-LIN-SFQ-0001-ASR1901-A19011-A19012-NOTIFICATION-DEPENDENCY-EVIDENCE-QUESTION-01`,
+opportunity 1. It asks which named dated record establishes what A-19-011
+review information was supplied to international regulators under A-19-012
+and what dependency the record states. The two slots, model capacity, cadence,
+`CMD-0001`, P8, disposition, transfer, graduation, deployment, publication,
+and all external-action boundaries remain unchanged.

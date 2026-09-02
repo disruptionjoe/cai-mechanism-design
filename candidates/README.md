@@ -222,6 +222,12 @@ and intended disposition. Existing-owner fit defeats admission here.
   leaving the named regulation or guidance revision, required use,
   implementation, outcome, effectiveness, cost, enforceability,
   affected-party consequence, capture, and remedy unknown.
+- `SFQ-0001-ASR1901-A19013-A19014-DEPENDENCY-EVIDENCE-QUESTION-DRAFT.md`
+  - paired explicitly unverified question preserving the official method-to-
+  rule recommendation relations and current classifications while leaving the
+  named dated dependency record, method completion or validation,
+  incorporation, implementation, outcome, effectiveness, cost,
+  enforceability, affected-party consequence, capture, and remedy unknown.
 - `SFQ-0001-ASR1901-A19015-DIAGNOSTIC-STANDARDS-EVIDENCE-QUESTION-DRAFT.md`
   - one-component explicitly unverified question preserving the official
   diagnostic-tool design-standards relation and current classification while
@@ -248,6 +254,13 @@ and intended disposition. Existing-owner fit defeats admission here.
   named regulation or guidance revision, required use, implementation,
   outcome, effectiveness, cost, enforceability, affected-party consequence,
   capture, and remedy unknown.
+- `SFQ-0001-ASR1901-A19015-A19016-DEPENDENCY-EVIDENCE-QUESTION-DRAFT.md`
+  - paired explicitly unverified question preserving the official standards-
+  to-required-diagnostics recommendation relations and current classifications
+  while leaving the named dated dependency record, standards completion,
+  validation or adoption, required use, implementation, outcome,
+  effectiveness, cost, enforceability, affected-party consequence, capture,
+  and remedy unknown.
 
 ## Operating path
 
