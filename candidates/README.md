@@ -299,6 +299,12 @@ and intended disposition. Existing-owner fit defeats admission here.
   record-custody components while leaving sequence, cumulative mechanism,
   adoption, implementation, outcome, effectiveness, cost, enforceability,
   affected-party consequence, capture, transferability, and remedy unknown.
+- `SFQ-0001-JATR-R42-R43-DEPENDENCY-EVIDENCE-QUESTION-DRAFT.md`
+  - paired explicitly unverified question preserving the official R4.2
+  information-visibility and R4.3 early-review-timing components while leaving
+  the named dated dependency record, relation, adoption, implementation,
+  outcome, effectiveness, cost, enforceability, affected-party consequence,
+  capture, transferability, and remedy unknown.
 
 ## Operating path
 

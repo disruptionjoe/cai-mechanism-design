@@ -847,3 +847,28 @@ record custody without inferring a sequence or cumulative mechanism. The two
 slots, model capacity, cadence, `CMD-0001`, P8, disposition, transfer,
 graduation, deployment, publication, and all external-action boundaries remain
 unchanged.
+
+The exact-current R4.2/R4.3 dependency-evidence opportunity returned every
+literal artifact byte apart from the final newline. Frontier normalized that
+newline, published the explicitly unverified question, recorded complete
+retention with no candidate error, light ordinary verification and integration,
+and useful leverage, and completed the family after opportunity 1. The later
+R4.4/R4.5/R4.6 boundary replay ran the predecessor prompt hash before its prior
+replacement was published. Its response likewise preserved the prior literal
+artifact apart from the final newline, but that artifact and family were already
+handled in the preceding sealed cycle. Frontier retained no duplicate owner
+effect and terminally dispositioned the replay as `already_handled` and
+`not_admitted`, with no candidate error, light nonduplication review, and no net
+leverage. Expired Generation-27 guidance was neither projected nor adopted.
+
+Production rotates to
+`MD-LIN-SFQ-0001-JATR-R42-R43-DEPENDENCY-EVIDENCE-COVERAGE-01`, opportunity 1.
+It tests the exact dependency question against the two already-frozen official
+implementation-scope records and preserves that neither record identifies the
+two recommendations individually or states their relation. Exploration remains
+on its first exact-current
+`MD-LIN-SFQ-0001-JATR-R44-R45-R46-INFORMATION-CONTINUITY-RELATION-EVIDENCE-QUESTION-01`
+opportunity because the completed predecessor-hash replay created no eligible
+family opportunity. The two slots, model capacity, cadence, `CMD-0001`, P8,
+disposition, transfer, graduation, deployment, publication, and all external-
+action boundaries remain unchanged.

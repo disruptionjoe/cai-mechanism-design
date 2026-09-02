@@ -1,53 +1,67 @@
-# Return one JATR R4.2/R4.3 dependency-evidence question artifact
+# Return one JATR R4.2/R4.3 dependency-evidence coverage artifact
 
 Family lineage:
-`MD-LIN-SFQ-0001-JATR-R42-R43-DEPENDENCY-EVIDENCE-QUESTION-01`,
+`MD-LIN-SFQ-0001-JATR-R42-R43-DEPENDENCY-EVIDENCE-COVERAGE-01`,
 opportunity 1.
 
 Frozen source-owner evidence:
 
-- JATR `R4.2`, page 24, recommends policy or standards for visibility,
-  clarity, and consistency of key design and compliance information,
-  especially for new design features. The presented relation is visibility.
-- JATR `R4.3`, page 24, recommends early certification-authority coordination
-  for FHA validation, PSSA review, proposed system architecture, and design
-  changes. The presented relation is review timing.
-- Current target evidence identifies no named dated official record that
-  establishes whether R4.3 depends on, follows, or is independent of R4.2.
-- The components, question, source posture, source pointer, unknowns, and owner
-  boundary are copied literally in the artifact below.
+- The frozen dependency question asks which named dated official record, if
+  any, establishes whether R4.3 early review depends on, follows, or is
+  independent of R4.2 visibility policy and what relation that record states.
+- The FAA 737 MAX Timeline says the FAA addressed all JATR recommendations that
+  applied to the 737 MAX before return to service, but it does not identify
+  R4.2 or R4.3 individually or establish systemwide implementation.
+- The FAA Changed Product Rule Recommendations record says the IAWG charter
+  included reviewing related JATR recommendations and developing proposals for
+  FAA review and approval, but it establishes reform activity rather than
+  individual adoption or implementation.
+- Neither frozen record identifies R4.2 and R4.3 individually or states a
+  dependency, sequence, or independence relation between them. The dependency
+  answer remains unknown.
+- The records, supported relations, scope limits, coverage result, pointers,
+  unknowns, and owner boundaries are copied literally below.
 
 Return no code fence. Return only the literal artifact below and no other text.
-Do not browse, acquire or answer the question, add facts, infer a dependency or
-sequence, claim implementation or effect, or authorize any action.
+Do not browse, acquire another record, add facts, infer or answer a dependency
+or sequence, claim implementation or effect, or authorize any action.
 
 ---
-artifact_type: jatr_r42_r43_dependency_evidence_question_draft
+artifact_type: jatr_r42_r43_dependency_evidence_coverage_draft
 status: unverified_local_candidate
 source_inquiry: SFQ-0001
 source_record: SF-0001
 external_action: none
 ---
 
-# JATR R4.2/R4.3 Dependency Evidence Question Draft
+# JATR R4.2/R4.3 Dependency Evidence Coverage Draft
 
 ## Boundary
 
-Only the frozen official-source components and their presented relations are
-established. No dependency, sequence, independence, adoption, implementation,
-outcome, effectiveness, cost, enforceability, affected-party consequence,
-capture, transferability, or remedy is established.
+This artifact tests only whether two already-frozen official records answer the
+existing dependency question. Neither record identifies R4.2 and R4.3
+individually or states a relation between them. No dependency, sequence,
+independence, adoption, implementation, outcome, effectiveness, cost,
+enforceability, affected-party consequence, capture, transferability, or remedy
+is established.
 `CMD-0001` remains deferred.
 
-## Dependency Evidence Question
+## Frozen Dependency Question
 
-| Pair | R4.2 component | R4.3 component | Source posture | Dependency-evidence question | Evidence answer | Adoption and implementation | Outcome and effectiveness | Cost and enforceability | Affected-party consequence | Capture surface | Source pointer | Owner boundary |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| R42-R43-1 | Policy or standards for visibility, clarity, and consistency of key design and compliance information, especially for new design features. | Early certification-authority coordination for FHA validation, PSSA review, proposed system architecture, and design changes. | official_JATR_components_only | Which named dated official record, if any, establishes whether the R4.3 early-review-timing component depends on, follows, or is independent of the R4.2 visibility-policy component, and what relation does that record state? | unknown | unknown | unknown | unknown | unknown | unknown | https://www.faa.gov/sites/faa.gov/files/2022-08/Final_JATR_Submittal_to_FAA_Oct_2019.pdf, page 24 | Aviation domain owners retain remedy authority and no effect is authorized. |
+Which named dated official record, if any, establishes whether the R4.3 early-
+review-timing component depends on, follows, or is independent of the R4.2
+visibility-policy component, and what relation does that record state?
+
+## Existing-Record Coverage
+
+| Evidence object | Directly supported relation | Scope limit | Dependency-question coverage | Evidence answer | Source pointer | Owner boundary |
+| --- | --- | --- | --- | --- | --- | --- |
+| 737_max_return_to_service_scope | The FAA stated that it addressed all JATR recommendations that applied to the 737 MAX before approving the aircraft for return to service. | The statement does not identify R4.2 or R4.3 individually and does not establish systemwide certification-process implementation. | does_not_answer_frozen_dependency_question | unknown | https://www.faa.gov/sites/faa.gov/files/2022-08/737_MAX_Timeline.pdf, document page 3 of 4 | Aviation domain owners retain remedy authority and no effect is authorized. |
+| changed_product_rule_reform_scope | The FAA-led IAWG charter included reviewing JATR recommendations related to the Changed Product Rule and developing proposals for FAA review and approval. | This establishes reform activity, not adoption or implementation of R4.2 or R4.3 individually. | does_not_answer_frozen_dependency_question | unknown | https://www.faa.gov/sites/faa.gov/files/IAWG_CPR_recommendations.pdf, document page 4 of 10 | Aviation domain owners retain remedy authority and no effect is authorized. |
 
 ## Frontier Verification And Stops
 
-No source acquisition, answer, dependency, sequence, independence,
+No source acquisition, dependency answer, sequence, independence,
 implementation, outcome, effectiveness, cost, enforceability, affected-party
 consequence, capture, transferability, remedy, candidate action, contact, or
 external effect is authorized.

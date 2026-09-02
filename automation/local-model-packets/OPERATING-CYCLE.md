@@ -113,15 +113,13 @@ or count an emitted artifact, a duplicate, a receipt, packet preparation, or
 ## Current slot boundary
 
 The candidate slot carries
-`MD-LIN-SFQ-0001-JATR-R42-R43-DEPENDENCY-EVIDENCE-QUESTION-01`, opportunity 1.
-It asks which named dated official record, if any, establishes whether R4.3
-early review depends on, follows, or is independent of the R4.2 visibility
-policy without acquiring records or asserting a relation. The prior boundary
-response preserved the complete literal artifact but copied 898 bytes of
-instructions and frozen evidence before it. Frontier removed that preamble,
-published the explicitly unverified boundary, and completed the useful family
-with substantial edited retention, material candidate error, and light
-ordinary verification and integration.
+`MD-LIN-SFQ-0001-JATR-R42-R43-DEPENDENCY-EVIDENCE-COVERAGE-01`, opportunity 1.
+It tests the exact R4.2/R4.3 dependency question against the two already-frozen
+official implementation-scope records without browsing or inventing an answer.
+The prior dependency-question response preserved the complete literal artifact
+apart from its final newline. Frontier normalized that newline, published the
+explicitly unverified question, and completed the useful family with complete
+retention, no candidate error, and light ordinary verification and integration.
 
 The proving slot carries
 `MD-LIN-SFQ-0001-JATR-R44-R45-R46-INFORMATION-CONTINUITY-RELATION-EVIDENCE-QUESTION-01`,
@@ -131,7 +129,9 @@ R4.6 interaction-record-custody components without inferring sequence,
 cumulative mechanism, adoption, implementation, or effect. The prior boundary
 response returned the complete artifact plus one trailing delimiter; Frontier
 removed only that delimiter and normalized the final newline, completing the
-useful family with light candidate and ordinary Frontier burden.
-Generation-27's question was answered and its advisory adapted for the second
-and final eligible sealed cycle; both are now expired. Capacity, cadence,
-model, candidate state, and all external-action boundaries remain unchanged.
+useful family with light candidate and ordinary Frontier burden. A later
+predecessor-hash replay repeated the already-published boundary apart from its
+final newline and is terminally `already_handled` without a duplicate owner
+effect or eligible relation-question opportunity. Generation-27 guidance is
+expired and was neither projected nor adopted. Capacity, cadence, model,
+candidate state, and all external-action boundaries remain unchanged.
