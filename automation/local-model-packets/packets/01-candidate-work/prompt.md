@@ -41,8 +41,8 @@ external_action: none
 Official NTSB recommendation relations and current classifications are the
 only frozen sources. No named cross-sequence status record, implementation,
 completion, outcome, or effect evidence is established. Closure of one
-recommendation does not establish completion of another. `CMD-0001` remains
-deferred.
+recommendation does not establish completion of another.
+`CMD-0001` remains deferred.
 
 ## Sequence Status Evidence Question
 
