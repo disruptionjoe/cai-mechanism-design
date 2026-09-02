@@ -726,3 +726,25 @@ question was answered and its advisory adopted for the first eligible sealed
 cycle. The two slots, model capacity, cadence, `CMD-0001`, P8, disposition,
 transfer, graduation, deployment, publication, and all external-action
 boundaries remain unchanged.
+
+The A19015-2 and A19016-2 open-response correspondence opportunities each
+preserved every substantive literal field but omitted the opening frontmatter
+delimiter. Frontier restored only that delimiter, published both explicitly
+unverified questions, recorded substantial edited retention with light
+candidate error, light ordinary verification and integration, and useful
+leverage, and completed both families after opportunity 1. Generation-26's
+bounded question was answered and its advisory adopted for the second and
+final eligible sealed cycle; both are now expired.
+
+Production rotates to
+`MD-LIN-SFQ-0001-ASR1901-A19015-A19016-DEPENDENCY-EVIDENCE-QUESTION-01`,
+opportunity 1. It asks which named dated record establishes whether required
+diagnostic tools under A-19-016 depend on completion, validation, or adoption
+of the A-19-015 design standards and leaves the dependency and all effects
+unknown. Exploration rotates to
+`MD-LIN-SFQ-0001-ASR1901-A19013-A19014-DEPENDENCY-EVIDENCE-QUESTION-01`,
+opportunity 1. It asks the parallel method-to-rule dependency question without
+acquiring records or inferring a dependency from the recommendation relation.
+The two slots, model capacity, cadence, `CMD-0001`, P8, disposition, transfer,
+graduation, deployment, publication, and all external-action boundaries remain
+unchanged.

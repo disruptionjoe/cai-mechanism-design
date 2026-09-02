@@ -113,27 +113,25 @@ or count an emitted artifact, a duplicate, a receipt, packet preparation, or
 ## Current slot boundary
 
 The candidate slot carries
-`MD-LIN-SFQ-0001-ASR1901-A19015-OPEN-RESPONSE-CORRESPONDENCE-EVIDENCE-QUESTION-01`,
-opportunity 1. It isolates the current `Open - Acceptable Response`
-classification and asks which dated FAA correspondence supports that posture,
-what standards-development actions it asserts, and which named records
-substantiate those assertions. The prior A19015-1 response preserved every
-substantive field but omitted its opening frontmatter delimiter; Frontier
-restored only that boundary and published the explicitly unverified question
-with substantial edited retention, light candidate error, light ordinary
-verification and integration, and useful leverage. That family is complete.
+`MD-LIN-SFQ-0001-ASR1901-A19015-A19016-DEPENDENCY-EVIDENCE-QUESTION-01`,
+opportunity 1. It isolates the paired standards-to-required-diagnostics
+relation and asks which named dated record establishes whether A-19-016
+required use depends on completion, validation, or adoption of A-19-015
+standards. The prior A19015-2 response preserved every substantive field but
+omitted its opening frontmatter delimiter; Frontier restored only that
+boundary and published the explicitly unverified question with substantial
+edited retention, light candidate error, light ordinary verification and
+integration, and useful leverage. That family is complete.
 
 The proving slot carries
-`MD-LIN-SFQ-0001-ASR1901-A19016-OPEN-RESPONSE-CORRESPONDENCE-EVIDENCE-QUESTION-01`,
-opportunity 1. It isolates the paired current classification and asks which
-dated FAA correspondence supports that posture, what required-diagnostics
-actions it asserts, and which named records substantiate those assertions.
-The prior A19016-1 response also preserved every substantive field but omitted
-its opening frontmatter delimiter; Frontier restored only that boundary and
-published the explicitly unverified question with substantial edited
-retention, light candidate error, light ordinary verification and integration,
-and useful leverage. The A-19-015/A-19-016 standards-to-required-diagnostics
-sequence is complete. Generation-26's question was answered and its advisory
-adopted for the first eligible sealed cycle; one eligible sealed cycle remains.
-Capacity, cadence, model, candidate state, and all external-action boundaries
-remain unchanged.
+`MD-LIN-SFQ-0001-ASR1901-A19013-A19014-DEPENDENCY-EVIDENCE-QUESTION-01`,
+opportunity 1. It asks the parallel method-to-rule dependency question while
+leaving any procedural dependency, named record, implementation, outcome, and
+effect unknown. The prior A19016-2 response also preserved every substantive
+field but omitted its opening frontmatter delimiter; Frontier restored only
+that boundary and published the explicitly unverified question with
+substantial edited retention, light candidate error, light ordinary
+verification and integration, and useful leverage. Generation-26's question
+was answered and its advisory adopted for the second and final eligible sealed
+cycle; both are now expired. Capacity, cadence, model, candidate state, and all
+external-action boundaries remain unchanged.
