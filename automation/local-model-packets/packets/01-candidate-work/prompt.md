@@ -1,58 +1,55 @@
-# Return one A-19-010/A-19-011/A-19-012 sequence-status-boundary artifact
+# Return one JATR R4.2/R4.3 visibility-review-timing boundary artifact
 
 Family lineage:
-`MD-LIN-SFQ-0001-ASR1901-A19010-A19011-A19012-SEQUENCE-STATUS-BOUNDARY-01`,
+`MD-LIN-SFQ-0001-JATR-R42-R43-VISIBILITY-REVIEW-TIMING-BOUNDARY-01`,
 opportunity 1.
 
 Frozen source-owner evidence:
 
-- Recommendation `A-19-010`, status `Closed - Acceptable Action`, asks the FAA
-  to review Boeing 737 MAX pilot-response assumptions and use design,
-  procedure, or training changes where needed.
-- Recommendation `A-19-011`, status `Open - Acceptable Response`, asks the FAA
-  to apply the same review to other US transport-category airplane
-  manufacturers.
-- Recommendation `A-19-012`, status `Closed - Acceptable Action`, names
-  A-19-011 and asks the FAA to notify other international regulators and
-  encourage relevance evaluation and applicable changes.
-- Current target evidence does not identify the named dated records that
-  explain the different current classifications across the three-step sequence
-  or what each record states about closure and remaining action.
-- The sequence, question, source posture, source pointers, unknowns, and owner
-  boundary are copied literally in the artifact below.
+- JATR `R4.2`, page 24, recommends policy or standards for visibility,
+  clarity, and consistency of key design and compliance information,
+  especially for new design features. The presented relation is visibility.
+- JATR `R4.3`, page 24, recommends early certification-authority coordination
+  for FHA validation, PSSA review, proposed system architecture, and design
+  changes. The presented relation is review timing.
+- Current target evidence establishes no dependency, sequence, equivalence,
+  adoption, implementation, outcome, effectiveness, cost, enforceability,
+  affected-party consequence, capture, transferability, or remedy.
+- The two components, relations, source pointer, unknowns, and owner boundaries
+  are copied literally in the artifact below.
 
 Return no code fence. Return only the literal artifact below and no other text.
-Do not browse, answer the question, add facts, treat classification as
-implementation evidence, infer completion across recommendations, or authorize
-any effect.
+Do not browse, add facts, infer a dependency or sequence, rank the components,
+claim implementation or effect, or authorize any action.
 
 ---
-artifact_type: asr1901_a19010_a19011_a19012_sequence_status_boundary_draft
+artifact_type: jatr_r42_r43_visibility_review_timing_boundary_draft
 status: unverified_local_candidate
 source_inquiry: SFQ-0001
 source_record: SF-0001
 external_action: none
 ---
 
-# A-19-010/A-19-011/A-19-012 Sequence Status Boundary Draft
+# JATR R4.2/R4.3 Visibility And Review-Timing Boundary Draft
 
 ## Boundary
 
-Official NTSB recommendation relations and current classifications are the
-only frozen sources. No named cross-sequence status record, implementation,
-completion, outcome, or effect evidence is established. Closure of one
-recommendation does not establish completion of another.
+Only the frozen official-source components and their presented relations are
+established. No dependency, sequence, equivalence, ranking, adoption,
+implementation, outcome, effectiveness, cost, enforceability, affected-party
+consequence, capture, transferability, or remedy is established.
 `CMD-0001` remains deferred.
 
-## Sequence Status Evidence Question
+## Visibility And Review-Timing Components
 
-| Sequence | Board-stated action steps | Current classifications | Source posture | Status-boundary evidence question | Evidence answer | Outcome and effectiveness | Cost and enforceability | Affected-party consequence | Capture surface | Source pointers | Owner boundary |
+| Recommendation | Frozen official-source component | Presented relation | Relation between components | Prerequisite or ordering | Adoption and implementation | Outcome and effectiveness | Cost and enforceability | Affected-party consequence | Capture surface | Source pointer | Owner boundary |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| A19010-A19011-A19012-1 | review Boeing 737 MAX pilot-response assumptions and use needed design, procedure, or training changes; apply the same review to other US transport-category airplane manufacturers; notify international regulators of A-19-011 and encourage relevance evaluation and applicable changes | A-19-010: Closed - Acceptable Action; A-19-011: Open - Acceptable Response; A-19-012: Closed - Acceptable Action | official_recommendation_relations_and_current_classifications_only | Which named dated FAA or NTSB records explain why A-19-010 and A-19-012 are classified Closed - Acceptable Action while A-19-011 remains Open - Acceptable Response, and what closure boundary or remaining action does each record state? | unknown | unknown | unknown | unknown | unknown | https://www.ntsb.gov/safety/safety-recs/recletters/A-19-010-016.pdf; https://data.ntsb.gov/carol-main-public/sr-details/A-19-010; https://data.ntsb.gov/carol-main-public/sr-details/A-19-011; https://data.ntsb.gov/carol-main-public/sr-details/A-19-012 | Aviation domain owners retain remedy authority and no effect is authorized. |
+| R4.2 | Policy or standards for visibility, clarity, and consistency of key design and compliance information, especially for new design features. | Visibility. | unknown | unknown | unknown | unknown | unknown | unknown | unknown | https://www.faa.gov/sites/faa.gov/files/2022-08/Final_JATR_Submittal_to_FAA_Oct_2019.pdf, page 24 | Aviation domain owners retain remedy authority and no effect is authorized. |
+| R4.3 | Early certification-authority coordination for FHA validation, PSSA review, proposed system architecture, and design changes. | Review timing. | unknown | unknown | unknown | unknown | unknown | unknown | unknown | https://www.faa.gov/sites/faa.gov/files/2022-08/Final_JATR_Submittal_to_FAA_Oct_2019.pdf, page 24 | Aviation domain owners retain remedy authority and no effect is authorized. |
 
 ## Frontier Verification And Stops
 
-No source acquisition, answer, classification-to-implementation inference,
-cross-recommendation completion claim, outcome, effectiveness, cost,
-enforceability, affected-party consequence, capture, remedy, candidate action,
-contact, or external effect is authorized.
+No source acquisition, dependency or sequence claim, equivalence, ranking,
+adoption, implementation, outcome, effectiveness, cost, enforceability,
+affected-party consequence, capture, transferability, remedy, candidate
+action, contact, or external effect is authorized.

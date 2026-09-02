@@ -113,25 +113,26 @@ or count an emitted artifact, a duplicate, a receipt, packet preparation, or
 ## Current slot boundary
 
 The candidate slot carries
-`MD-LIN-SFQ-0001-ASR1901-A19010-A19011-A19012-SEQUENCE-STATUS-BOUNDARY-01`,
-opportunity 1. It asks which named dated FAA or NTSB records explain the
-different current classifications across A-19-010, A-19-011, and A-19-012 and
-what each record says about closure and remaining action, while leaving
-implementation, outcome, and effect unknown. The prior A19010/A19011 scope-
-extension response preserved every substantive field but omitted its opening
-frontmatter delimiter; Frontier restored only that boundary, published the
-explicitly unverified question, and completed the useful one-opportunity
-family with light candidate and ordinary Frontier burden.
+`MD-LIN-SFQ-0001-JATR-R42-R43-VISIBILITY-REVIEW-TIMING-BOUNDARY-01`,
+opportunity 1. It separates the official R4.2 design-and-compliance-information
+visibility component from R4.3 early certification-authority review timing
+without inferring dependency, sequence, adoption, implementation, or effect.
+The prior A19010-A19012 sequence-status response preserved every substantive
+field but omitted its opening frontmatter delimiter and final newline;
+Frontier restored only those artifact boundaries, published the explicitly
+unverified question, and completed the useful one-opportunity family with
+light candidate and ordinary Frontier burden.
 
 The proving slot carries
-`MD-LIN-SFQ-0001-ASR1901-DEVELOPMENT-TO-REQUIREMENT-SEQUENCE-COMPARISON-01`,
-opportunity 1. It asks which named dated FAA or NTSB records establish current
-milestones and stated differences across the A19013/A19014 method-to-rule and
-A19015/A19016 standards-to-required-diagnostics sequences, while leaving
-equivalence, adoption, required use, implementation, outcome, and effect
-unknown. The prior A19011/A19012 notification-dependency response returned the
-complete literal artifact apart from its final newline; Frontier published it
-unchanged after normalization and completed the useful one-opportunity family
-with no candidate error and light ordinary Frontier burden. Expired
-Generation-26 guidance was neither projected nor adopted. Capacity, cadence,
-model, candidate state, and all external-action boundaries remain unchanged.
+`MD-LIN-SFQ-0001-JATR-R44-R45-R46-INFORMATION-CONTINUITY-BOUNDARY-01`,
+opportunity 1. It preserves the separate official R4.4 function-description
+fragmentation, R4.5 early change-highlighting, and R4.6 interaction-record
+custody components without inferring a sequence, cumulative mechanism,
+adoption, implementation, or effect. The prior A19013-A19016 sequence
+comparison preserved every substantive field but omitted its opening
+frontmatter delimiter and final newline; Frontier restored only those artifact
+boundaries and completed the useful one-opportunity family with light
+candidate and ordinary Frontier burden. Generation-27's question was answered
+and its advisory adopted for the first eligible sealed cycle. Capacity,
+cadence, model, candidate state, and all external-action boundaries remain
+unchanged.

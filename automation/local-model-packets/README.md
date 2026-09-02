@@ -795,3 +795,26 @@ inferring equivalence, adoption, required use, implementation, or effect. The
 two slots, model capacity, cadence, `CMD-0001`, P8, disposition, transfer,
 graduation, deployment, publication, and all external-action boundaries remain
 unchanged.
+
+The A19010-A19012 sequence-status and A19013-A19016 development-to-requirement
+opportunities each preserved every substantive literal field but omitted the
+opening frontmatter delimiter and final newline. Frontier restored only those
+artifact boundaries, published both explicitly unverified artifacts, recorded
+substantial edited retention with light candidate error, light ordinary
+verification and integration, and useful leverage, and completed both
+families after opportunity 1. Generation-27's bounded question was answered
+and its advisory adopted for the first eligible sealed cycle; neither capacity
+nor wrapper machinery changed.
+
+Production rotates to
+`MD-LIN-SFQ-0001-JATR-R42-R43-VISIBILITY-REVIEW-TIMING-BOUNDARY-01`,
+opportunity 1. It separates the frozen official R4.2 information-visibility
+component from R4.3 early certification-authority review timing without
+inferring a dependency, ordering, adoption, implementation, or effect.
+Exploration rotates to
+`MD-LIN-SFQ-0001-JATR-R44-R45-R46-INFORMATION-CONTINUITY-BOUNDARY-01`,
+opportunity 1. It preserves the distinct R4.4 fragmentation-control, R4.5
+change-highlighting, and R4.6 interaction-record components without inferring
+a sequence, cumulative mechanism, implementation, or effect. The two slots,
+model capacity, cadence, `CMD-0001`, P8, disposition, transfer, graduation,
+deployment, publication, and all external-action boundaries remain unchanged.

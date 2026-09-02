@@ -275,6 +275,18 @@ and intended disposition. Existing-owner fit defeats admission here.
   review content, review-completion dependency, implementation, outcome,
   effectiveness, cost, enforceability, affected-party consequence, capture,
   and remedy unknown.
+- `SFQ-0001-ASR1901-A19010-A19011-A19012-SEQUENCE-STATUS-BOUNDARY-DRAFT.md`
+  - three-step explicitly unverified question preserving the official review,
+  broader-manufacturer, and international-notification relations plus current
+  classifications while leaving every named dated status record, closure
+  boundary, remaining action, implementation, outcome, effectiveness, cost,
+  enforceability, affected-party consequence, capture, and remedy unknown.
+- `SFQ-0001-ASR1901-DEVELOPMENT-TO-REQUIREMENT-SEQUENCE-COMPARISON-DRAFT.md`
+  - two-sequence explicitly unverified comparison preserving the official
+  method-to-rule and standards-to-required-diagnostics relations plus current
+  classifications while leaving named milestone records, sequence
+  equivalence, adoption, required use, implementation, outcome, effectiveness,
+  cost, enforceability, affected-party consequence, capture, and remedy unknown.
 
 ## Operating path
 
