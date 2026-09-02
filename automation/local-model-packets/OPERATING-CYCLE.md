@@ -113,26 +113,25 @@ or count an emitted artifact, a duplicate, a receipt, packet preparation, or
 ## Current slot boundary
 
 The candidate slot carries
-`MD-LIN-SFQ-0001-JATR-R42-R43-VISIBILITY-REVIEW-TIMING-BOUNDARY-01`,
-opportunity 1. It separates the official R4.2 design-and-compliance-information
-visibility component from R4.3 early certification-authority review timing
-without inferring dependency, sequence, adoption, implementation, or effect.
-The prior A19010-A19012 sequence-status response preserved every substantive
-field but omitted its opening frontmatter delimiter and final newline;
-Frontier restored only those artifact boundaries, published the explicitly
-unverified question, and completed the useful one-opportunity family with
-light candidate and ordinary Frontier burden.
+`MD-LIN-SFQ-0001-JATR-R42-R43-DEPENDENCY-EVIDENCE-QUESTION-01`, opportunity 1.
+It asks which named dated official record, if any, establishes whether R4.3
+early review depends on, follows, or is independent of the R4.2 visibility
+policy without acquiring records or asserting a relation. The prior boundary
+response preserved the complete literal artifact but copied 898 bytes of
+instructions and frozen evidence before it. Frontier removed that preamble,
+published the explicitly unverified boundary, and completed the useful family
+with substantial edited retention, material candidate error, and light
+ordinary verification and integration.
 
 The proving slot carries
-`MD-LIN-SFQ-0001-JATR-R44-R45-R46-INFORMATION-CONTINUITY-BOUNDARY-01`,
-opportunity 1. It preserves the separate official R4.4 function-description
-fragmentation, R4.5 early change-highlighting, and R4.6 interaction-record
-custody components without inferring a sequence, cumulative mechanism,
-adoption, implementation, or effect. The prior A19013-A19016 sequence
-comparison preserved every substantive field but omitted its opening
-frontmatter delimiter and final newline; Frontier restored only those artifact
-boundaries and completed the useful one-opportunity family with light
-candidate and ordinary Frontier burden. Generation-27's question was answered
-and its advisory adopted for the first eligible sealed cycle. Capacity,
-cadence, model, candidate state, and all external-action boundaries remain
-unchanged.
+`MD-LIN-SFQ-0001-JATR-R44-R45-R46-INFORMATION-CONTINUITY-RELATION-EVIDENCE-QUESTION-01`,
+opportunity 1. It asks which named dated official record, if any, states a
+relation among the R4.4 fragmentation-control, R4.5 change-highlighting, and
+R4.6 interaction-record-custody components without inferring sequence,
+cumulative mechanism, adoption, implementation, or effect. The prior boundary
+response returned the complete artifact plus one trailing delimiter; Frontier
+removed only that delimiter and normalized the final newline, completing the
+useful family with light candidate and ordinary Frontier burden.
+Generation-27's question was answered and its advisory adapted for the second
+and final eligible sealed cycle; both are now expired. Capacity, cadence,
+model, candidate state, and all external-action boundaries remain unchanged.

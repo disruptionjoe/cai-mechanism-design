@@ -287,6 +287,18 @@ and intended disposition. Existing-owner fit defeats admission here.
   classifications while leaving named milestone records, sequence
   equivalence, adoption, required use, implementation, outcome, effectiveness,
   cost, enforceability, affected-party consequence, capture, and remedy unknown.
+- `SFQ-0001-JATR-R42-R43-VISIBILITY-REVIEW-TIMING-BOUNDARY-DRAFT.md`
+  - paired explicitly unverified boundary preserving the official R4.2
+  information-visibility and R4.3 early-review-timing components while leaving
+  dependency, sequence, adoption, implementation, outcome, effectiveness,
+  cost, enforceability, affected-party consequence, capture, transferability,
+  and remedy unknown.
+- `SFQ-0001-JATR-R44-R45-R46-INFORMATION-CONTINUITY-BOUNDARY-DRAFT.md`
+  - three-component explicitly unverified boundary preserving the official
+  R4.4 fragmentation-control, R4.5 change-highlighting, and R4.6 interaction-
+  record-custody components while leaving sequence, cumulative mechanism,
+  adoption, implementation, outcome, effectiveness, cost, enforceability,
+  affected-party consequence, capture, transferability, and remedy unknown.
 
 ## Operating path
 

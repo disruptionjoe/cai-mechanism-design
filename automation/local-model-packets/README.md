@@ -818,3 +818,32 @@ change-highlighting, and R4.6 interaction-record components without inferring
 a sequence, cumulative mechanism, implementation, or effect. The two slots,
 model capacity, cadence, `CMD-0001`, P8, disposition, transfer, graduation,
 deployment, publication, and all external-action boundaries remain unchanged.
+
+The JATR R4.2/R4.3 boundary opportunity returned the complete literal artifact
+apart from its final newline but preceded it with 898 bytes copied from packet
+instructions and frozen evidence. Frontier removed that preamble, retained the
+complete artifact, published the explicitly unverified boundary, recorded
+substantial edited retention with material candidate error, light ordinary
+verification and integration, and useful leverage, and completed the family
+after opportunity 1. The R4.4/R4.5/R4.6 boundary opportunity returned the
+complete literal artifact plus one extra trailing delimiter and without its
+final newline. Frontier removed only the trailing delimiter, normalized the
+newline, recorded substantial edited retention with light candidate and
+ordinary Frontier burden, published the useful boundary, and completed that
+family after opportunity 1. Generation-27's question was answered and its
+advisory adapted for the second and final eligible sealed cycle; both are now
+expired.
+
+Production rotates to
+`MD-LIN-SFQ-0001-JATR-R42-R43-DEPENDENCY-EVIDENCE-QUESTION-01`, opportunity 1.
+It asks which named dated official record, if any, establishes whether the R4.3
+early-review-timing component depends on, follows, or is independent of the
+R4.2 visibility-policy component without acquiring records or asserting a
+relation. Exploration rotates to
+`MD-LIN-SFQ-0001-JATR-R44-R45-R46-INFORMATION-CONTINUITY-RELATION-EVIDENCE-QUESTION-01`,
+opportunity 1. It asks which named dated official record, if any, states a
+relation among fragmentation control, change highlighting, and interaction-
+record custody without inferring a sequence or cumulative mechanism. The two
+slots, model capacity, cadence, `CMD-0001`, P8, disposition, transfer,
+graduation, deployment, publication, and all external-action boundaries remain
+unchanged.
