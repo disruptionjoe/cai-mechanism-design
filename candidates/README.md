@@ -210,6 +210,18 @@ and intended disposition. Existing-owner fit defeats admission here.
   correspondence, asserted pending actions, implementation, outcome,
   effectiveness, cost, enforceability, affected-party consequence, capture,
   and remedy unknown.
+- `SFQ-0001-ASR1901-A19013-METHOD-DEVELOPMENT-EVIDENCE-QUESTION-DRAFT.md`
+  - one-component explicitly unverified question preserving the official
+  method-development relation and current classification while leaving the
+  named tool or method, version, validation record, use, outcome,
+  effectiveness, cost, enforceability, affected-party consequence, capture,
+  and remedy unknown.
+- `SFQ-0001-ASR1901-A19014-RULE-INCORPORATION-EVIDENCE-QUESTION-DRAFT.md`
+  - one-component explicitly unverified question preserving the official
+  method-to-rule-incorporation relation and current classification while
+  leaving the named regulation or guidance revision, required use,
+  implementation, outcome, effectiveness, cost, enforceability,
+  affected-party consequence, capture, and remedy unknown.
 
 ## Operating path
 

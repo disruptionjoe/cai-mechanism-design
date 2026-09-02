@@ -676,3 +676,28 @@ incorporation and required use of the A-19-013 methods. Generation-25 guidance
 remains expired and is neither projected nor adopted. The two slots, model
 capacity, cadence, `CMD-0001`, P8, disposition, transfer, graduation,
 deployment, publication, and all external-action boundaries remain unchanged.
+
+The A19013-1 method-development opportunity returned every substantive literal
+field but omitted the opening frontmatter delimiter. Frontier restored only
+that delimiter, published the explicitly unverified question, recorded
+substantial edited retention with light candidate error, light ordinary
+verification and integration, and useful leverage, and completed the family
+after opportunity 1. The A19014-1 rule-incorporation opportunity returned the
+complete literal artifact unchanged. Frontier published it with substantial
+unchanged retention, no candidate error, light ordinary verification and
+integration, and useful leverage, and completed that family after opportunity
+1.
+
+Production rotates to
+`MD-LIN-SFQ-0001-ASR1901-A19015-DIAGNOSTIC-STANDARDS-EVIDENCE-QUESTION-01`,
+opportunity 1. It isolates the official standards-to-required-diagnostics
+sequence's A-19-015 diagnostic-tool design-standards step and asks which named
+standard, version, and validation record independently document development
+and use without acquiring or answering them. Exploration rotates to
+`MD-LIN-SFQ-0001-ASR1901-A19016-REQUIRED-DIAGNOSTICS-EVIDENCE-QUESTION-01`,
+opportunity 1. It isolates the paired A-19-016 requirement step and asks which
+named regulation or guidance revision independently documents required system
+diagnostic tools on transport-category aircraft. Generation-25 guidance
+remains expired and is neither projected nor adopted. The two slots, model
+capacity, cadence, `CMD-0001`, P8, disposition, transfer, graduation,
+deployment, publication, and all external-action boundaries remain unchanged.

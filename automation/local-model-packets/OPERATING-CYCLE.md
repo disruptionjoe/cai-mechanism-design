@@ -113,25 +113,25 @@ or count an emitted artifact, a duplicate, a receipt, packet preparation, or
 ## Current slot boundary
 
 The candidate slot carries
-`MD-LIN-SFQ-0001-ASR1901-A19013-METHOD-DEVELOPMENT-EVIDENCE-QUESTION-01`,
-opportunity 1. It isolates the official A-19-013 method-development step and
-asks which named tool or method, version, and validation record independently
-document its development and use. The prior A19010-4 response preserved every
-substantive field but omitted its opening frontmatter delimiter; Frontier
-restored only that boundary and published the explicitly unverified question
-with substantial edited retention, light candidate error, light ordinary
-verification and integration, and useful leverage. The four-component
-A-19-010 closure-basis sequence is complete.
+`MD-LIN-SFQ-0001-ASR1901-A19015-DIAGNOSTIC-STANDARDS-EVIDENCE-QUESTION-01`,
+opportunity 1. It isolates the official A-19-015 diagnostic-tool design-
+standards step and asks which named standard, version, and validation record
+independently document its development and use. The prior A19013-1 response
+preserved every substantive field but omitted its opening frontmatter
+delimiter; Frontier restored only that boundary and published the explicitly
+unverified question with substantial edited retention, light candidate error,
+light ordinary verification and integration, and useful leverage. That family
+is complete.
 
 The proving slot carries
-`MD-LIN-SFQ-0001-ASR1901-A19014-RULE-INCORPORATION-EVIDENCE-QUESTION-01`,
-opportunity 1. It isolates the paired A-19-014 rule-incorporation step and asks
-which named regulation or guidance revision independently documents
-incorporation and required use of the A-19-013 methods. The prior A19011-1
-response preserved every substantive field but omitted its opening
-frontmatter delimiter; Frontier restored only that boundary and published the
-explicitly unverified question with substantial edited retention, light
+`MD-LIN-SFQ-0001-ASR1901-A19016-REQUIRED-DIAGNOSTICS-EVIDENCE-QUESTION-01`,
+opportunity 1. It isolates the paired A-19-016 requirement step and asks which
+named regulation or guidance revision independently documents required system
+diagnostic tools on transport-category aircraft. The prior A19014-1 response
+returned the complete literal artifact unchanged; Frontier published the
+explicitly unverified question with substantial unchanged retention, no
 candidate error, light ordinary verification and integration, and useful
-leverage. That lineage is complete. Generation-25 guidance remains expired and
-is neither projected nor adopted. Capacity, cadence, model, candidate state,
-and all external-action boundaries remain unchanged.
+leverage. The A-19-013/A-19-014 method-to-rule sequence is complete.
+Generation-25 guidance remains expired and is neither projected nor adopted.
+Capacity, cadence, model, candidate state, and all external-action boundaries
+remain unchanged.
