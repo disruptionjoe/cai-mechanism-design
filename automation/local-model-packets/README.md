@@ -769,3 +769,29 @@ review information was supplied to international regulators under A-19-012
 and what dependency the record states. The two slots, model capacity, cadence,
 `CMD-0001`, P8, disposition, transfer, graduation, deployment, publication,
 and all external-action boundaries remain unchanged.
+
+The A19010/A19011 scope-extension opportunity preserved every substantive
+literal field but omitted the opening frontmatter delimiter. Frontier restored
+only that delimiter, published the explicitly unverified question, recorded
+substantial edited retention with light candidate error, light ordinary
+verification and integration, and useful leverage, and completed the family
+after opportunity 1. The A19011/A19012 notification-dependency opportunity
+returned the complete literal artifact apart from its final newline. Frontier
+published it unchanged after normalization, recorded complete retention with
+no candidate error, light ordinary review and integration, and useful leverage,
+and completed that family after opportunity 1. Expired Generation-26 guidance
+was neither projected nor adopted.
+
+Production rotates to
+`MD-LIN-SFQ-0001-ASR1901-A19010-A19011-A19012-SEQUENCE-STATUS-BOUNDARY-01`,
+opportunity 1. It asks which named dated FAA or NTSB records explain the
+different current classifications across the three-step direct-assessment and
+scope-diffusion sequence and what each record says about closure and remaining
+action without inferring implementation or effect. Exploration rotates to
+`MD-LIN-SFQ-0001-ASR1901-DEVELOPMENT-TO-REQUIREMENT-SEQUENCE-COMPARISON-01`,
+opportunity 1. It asks which named dated records establish current milestones
+and differences across the A19013/A19014 and A19015/A19016 sequences without
+inferring equivalence, adoption, required use, implementation, or effect. The
+two slots, model capacity, cadence, `CMD-0001`, P8, disposition, transfer,
+graduation, deployment, publication, and all external-action boundaries remain
+unchanged.

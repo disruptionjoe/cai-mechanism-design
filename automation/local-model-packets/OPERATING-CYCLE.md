@@ -113,22 +113,25 @@ or count an emitted artifact, a duplicate, a receipt, packet preparation, or
 ## Current slot boundary
 
 The candidate slot carries
-`MD-LIN-SFQ-0001-ASR1901-A19010-A19011-SCOPE-EXTENSION-EVIDENCE-QUESTION-01`,
-opportunity 1. It asks which named dated FAA or NTSB record establishes how the
-A-19-010 737 MAX review criteria and needed-change logic extend to the broader
-A-19-011 manufacturer scope while leaving the record, scope conditions,
-implementation, outcome, and effect unknown. The prior A19015/A19016 dependency
-response preserved every substantive field but omitted its opening
+`MD-LIN-SFQ-0001-ASR1901-A19010-A19011-A19012-SEQUENCE-STATUS-BOUNDARY-01`,
+opportunity 1. It asks which named dated FAA or NTSB records explain the
+different current classifications across A-19-010, A-19-011, and A-19-012 and
+what each record says about closure and remaining action, while leaving
+implementation, outcome, and effect unknown. The prior A19010/A19011 scope-
+extension response preserved every substantive field but omitted its opening
 frontmatter delimiter; Frontier restored only that boundary, published the
 explicitly unverified question, and completed the useful one-opportunity
 family with light candidate and ordinary Frontier burden.
 
 The proving slot carries
-`MD-LIN-SFQ-0001-ASR1901-A19011-A19012-NOTIFICATION-DEPENDENCY-EVIDENCE-QUESTION-01`,
-opportunity 1. It asks which named dated record establishes what A-19-011
-review information was supplied to international regulators under A-19-012
-and what dependency the record states, while leaving implementation, outcome,
-and effect unknown. The prior A19013/A19014 dependency response had the same
-bounded delimiter defect and disposition. Expired Generation-26 guidance was
-neither projected nor adopted. Capacity, cadence, model, candidate state, and
-all external-action boundaries remain unchanged.
+`MD-LIN-SFQ-0001-ASR1901-DEVELOPMENT-TO-REQUIREMENT-SEQUENCE-COMPARISON-01`,
+opportunity 1. It asks which named dated FAA or NTSB records establish current
+milestones and stated differences across the A19013/A19014 method-to-rule and
+A19015/A19016 standards-to-required-diagnostics sequences, while leaving
+equivalence, adoption, required use, implementation, outcome, and effect
+unknown. The prior A19011/A19012 notification-dependency response returned the
+complete literal artifact apart from its final newline; Frontier published it
+unchanged after normalization and completed the useful one-opportunity family
+with no candidate error and light ordinary Frontier burden. Expired
+Generation-26 guidance was neither projected nor adopted. Capacity, cadence,
+model, candidate state, and all external-action boundaries remain unchanged.

@@ -261,6 +261,20 @@ and intended disposition. Existing-owner fit defeats admission here.
   validation or adoption, required use, implementation, outcome,
   effectiveness, cost, enforceability, affected-party consequence, capture,
   and remedy unknown.
+- `SFQ-0001-ASR1901-A19010-A19011-SCOPE-EXTENSION-EVIDENCE-QUESTION-DRAFT.md`
+  - paired explicitly unverified question preserving the official Boeing-
+  specific review and broader manufacturer-scope relations and current
+  classifications while leaving the named dated scope-extension record,
+  criteria equivalence, manufacturer-specific differences, implementation,
+  outcome, effectiveness, cost, enforceability, affected-party consequence,
+  capture, and remedy unknown.
+- `SFQ-0001-ASR1901-A19011-A19012-NOTIFICATION-DEPENDENCY-EVIDENCE-QUESTION-DRAFT.md`
+  - paired explicitly unverified question preserving the official broader-
+  manufacturer review and international-notification relations and current
+  classifications while leaving the named dated notification record, supplied
+  review content, review-completion dependency, implementation, outcome,
+  effectiveness, cost, enforceability, affected-party consequence, capture,
+  and remedy unknown.
 
 ## Operating path
 
