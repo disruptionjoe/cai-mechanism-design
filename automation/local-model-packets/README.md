@@ -701,3 +701,28 @@ diagnostic tools on transport-category aircraft. Generation-25 guidance
 remains expired and is neither projected nor adopted. The two slots, model
 capacity, cadence, `CMD-0001`, P8, disposition, transfer, graduation,
 deployment, publication, and all external-action boundaries remain unchanged.
+
+The A19015-1 diagnostic-standards opportunity preserved every substantive
+literal field but omitted the opening frontmatter delimiter. Frontier restored
+only that delimiter, published the explicitly unverified question, recorded
+substantial edited retention with light candidate error, light ordinary
+verification and integration, and useful leverage, and completed the family
+after opportunity 1. The A19016-1 required-diagnostics opportunity had the
+same bounded defect and disposition: every substantive literal field survived,
+Frontier restored only the opening delimiter, and the useful one-opportunity
+family completed with substantial edited retention and light candidate and
+ordinary Frontier burden.
+
+Production rotates to
+`MD-LIN-SFQ-0001-ASR1901-A19015-OPEN-RESPONSE-CORRESPONDENCE-EVIDENCE-QUESTION-01`,
+opportunity 1. It asks which dated FAA correspondence supports the current
+`Open - Acceptable Response` classification and what standards-development
+actions it asserts, while leaving the correspondence, assertions, records,
+implementation, and effects unknown. Exploration rotates to
+`MD-LIN-SFQ-0001-ASR1901-A19016-OPEN-RESPONSE-CORRESPONDENCE-EVIDENCE-QUESTION-01`,
+opportunity 1. It asks the parallel question for the required-diagnostics step
+without acquiring records or inferring required use. Generation-26's bounded
+question was answered and its advisory adopted for the first eligible sealed
+cycle. The two slots, model capacity, cadence, `CMD-0001`, P8, disposition,
+transfer, graduation, deployment, publication, and all external-action
+boundaries remain unchanged.
